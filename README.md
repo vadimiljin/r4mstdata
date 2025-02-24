@@ -14,6 +14,7 @@ Each JSON file in this repository corresponds to a page on Route4Me's website ht
 | [/contact/](https://route4me.com/contact/) | [`contact.json`](./contact.json) |
 | [/mobile/route-planner-app/](https://route4me.com/mobile/route-planner-app/) | [`mobile_route-planner-app.json`](./mobile_route-planner-app.json) |
 | [/platform/android-mobile-routing-app/](https://route4me.com/platform/android-mobile-routing-app/) | [`platform_android-mobile-routing-app.json`](./platform_android-mobile-routing-app.json) |
+| [/platform/ios-mobile-routing-app/](https://route4me.com/platform/ios-mobile-routing-app/) | [`platform_ios-mobile-routing-app.json`](./platform_ios-mobile-routing-app.json) |
 | [/platform/business-analytics/](https://route4me.com/platform/business-analytics/) | [`platform_business-analytics.json`](./platform_business-analytics.json) |
 | [/platform/business-operations/](https://route4me.com/platform/business-operations/) | [`platform_business-operations.json`](./platform_business-operations.json) |
 | [/platform/customer-experience/](https://route4me.com/platform/customer-experience/) | [`platform_customer-experience.json`](./platform_customer-experience.json) |
@@ -30,6 +31,7 @@ Each JSON file in this repository corresponds to a page on Route4Me's website ht
 | [/platform/zebra-mobile-routing-app/](https://route4me.com/platform/zebra-mobile-routing-app/) | [`platform_zebra-mobile-routing-app.json`](./platform_zebra-mobile-routing-app.json) |
 | [/solutions/big-and-bulky-delivery-route-optimization/](https://route4me.com/solutions/big-and-bulky-delivery-route-optimization/) | [`solutions_big-and-bulky-delivery-route-optimization.json`](./solutions_big-and-bulky-delivery-route-optimization.json) |
 | [/solutions/business-services-route-optimization-software/](https://route4me.com/solutions/business-services-route-optimization-software/) | [`solutions_business-services-route-optimization-software.json`](./solutions_business-services-route-optimization-software.json) |
+| [/solutions/deploy-now/](https://route4me.com/solutions/deploy-now/) | [`solutions_deploy-now.json`](./solutions_deploy-now.json) |
 | [/solutions/facility-and-property-services-routing-software/](https://route4me.com/solutions/facility-and-property-services-routing-software/) | [`solutions_facility-and-property-services-routing-software.json`](./solutions_facility-and-property-services-routing-software.json) |
 | [/solutions/food-and-beverage-routing-software/](https://route4me.com/solutions/food-and-beverage-routing-software/) | [`solutions_food-and-beverage-routing-software.json`](./solutions_food-and-beverage-routing-software.json) |
 | [/solutions/government-services-route-optimization-software/](https://route4me.com/solutions/government-services-route-optimization-software/) | [`solutions_government-services-route-optimization-software.json`](./solutions_government-services-route-optimization-software.json) |
