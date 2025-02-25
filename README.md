@@ -8,7 +8,7 @@ Each JSON file in this repository corresponds to a page on Route4Me's website ht
 
 ### Pages
 
-| Page URL | Schema File |
+| Page     | Schema File |
 |----------|-------------|
 | [/](https://route4me.com/) | [`homepage.json`](./homepage.json) |
 | [/contact/](https://route4me.com/contact/) | [`contact.json`](./contact.json) |
@@ -22,7 +22,7 @@ Each JSON file in this repository corresponds to a page on Route4Me's website ht
 | [/platform/driver-efficiency/](https://route4me.com/platform/driver-efficiency/) | [`platform_driver-efficiency.json`](./platform_driver-efficiency.json) |
 | [/platform/integrations/](https://route4me.com/platform/integrations/) | [`platform_integrations.json`](./platform_integrations.json) |
 | [/platform/marketplace/](https://route4me.com/platform/marketplace/) | [`platform_marketplace.json`](./platform_marketplace.json) |
-| [/platform/marketplace_pricing/](https://route4me.com/platform/marketplace_pricing/) | [`platform_marketplace_pricing.json`](./platform_marketplace_pricing.json) |
+| [/platform/marketplace/pricing/](https://route4me.com/platform/marketplace_pricing/) | [`platform_marketplace_pricing.json`](./platform_marketplace_pricing.json) |
 | [/platform/mobile-routing-apps/](https://route4me.com/platform/mobile-routing-apps/) | [`platform_mobile-routing-apps.json`](./platform_mobile-routing-apps.json) |
 | [/platform/premium-support/](https://route4me.com/platform/premium-support/) | [`platform_premium-support.json`](./platform_premium-support.json) |
 | [/platform/professional-services/](https://route4me.com/platform/professional-services/) | [`platform_professional-services.json`](./platform_professional-services.json) |
