@@ -55,23 +55,13 @@ For example:
 
 ## Schema Markup Update (Current Release)
 
-1. **Remove Existing Schema**
-   - Remove all schema markup from every route4me.com page
-   - Ensure complete removal with no remnants left behind
-
-2. **Add New Schema**
-   - Only add new schema to pages with assigned schema files:
+- Only add new schema to pages with assigned schema files:
    ```html
    <script type="application/ld+json">
    New structured data
    </script>
    ```
-   - Pages without an assigned schema file must be schema-free - no schema markup at all
-
-3. **Final Verification**
-   - Confirm old schema is completely removed from all pages
-   - Verify new schema is only present on designated pages
-   - Double-check that pages without assigned schema files remain schema-free
+- Verify new schema is only present on designated pages
 
 Note: The schema is 100% valid. Don't worry about few yellow (warning) messages in the Google rich data validator - these are bad suggestions, not errors that need fixing.
 
