@@ -1,1 +1,371 @@
-{"@context":"https://schema.org","@graph":[{"@type":"ContactPage","@id":"https://route4me.com/contact/#webpage","url":"https://route4me.com/contact","author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"isPartOf":{"@id":"https://route4me.com/#website"},"name":"Contact Route4Me","description":"Reach out to Route4Me for route planning solutions, scheduling demos, pricing inquiries, and partnership opportunities. Solve your route planning challenges with our certified route planning experts that are available for you 24/7/365","mainEntity":{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","areaServed":"US","availableLanguage":["English"],"description":"The main contact point for Route4Me."},"potentialAction":[{"@type":"CommunicateAction","name":"Submit Contact Form","description":"Submit your contact details to schedule a demo, request pricing or ask questions about Route4Me.","target":{"@type":"EntryPoint","urlTemplate":"https://route4me.com/contact","actionPlatform":"http://schema.org/WebApplication"},"object":[{"@type":"Thing","name":"Schedule a Demo"},{"@type":"Thing","name":"Request Pricing Information"},{"@type":"Thing","name":"API Licensing Inquiry"},{"@type":"Thing","name":"Partnership Inquiry"},{"@type":"Thing","name":"Other"}]},{"@type":"CommunicateAction","name":"Call Sales","description":"Call Route4Me sales directly.","target":{"@type":"EntryPoint","urlTemplate":"tel:+1-888-552-9045"}},{"@type":"CommunicateAction","name":"Call Support","description":"Call Route4Me support directly.","target":{"@type":"EntryPoint","urlTemplate":"tel:+1-855-768-8344"}}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.routeml.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}},{"@type":"InstallAction","name":"Try Professional Driver App for iOS","description":"Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month","target":{"@type":"EntryPoint","actionPlatform":"IOSPlatform","urlTemplate":"https://apps.apple.com/us/app/route4me-route-planner/id349853799"},"actionStatus":"PotentialActionStatus","object":{"@type":"MobileApplication","@id":"https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication","name":"Route4Me Route Planner for iOS","operatingSystem":"iOS 14.0 or later","applicationCategory":"DriverApplication"}},{"@type":"InstallAction","name":"Try Professional Driver App for Android","description":"Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month","target":{"@type":"EntryPoint","actionPlatform":"AndroidPlatform","urlTemplate":"https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"},"actionStatus":"PotentialActionStatus","object":{"@type":"MobileApplication","@id":"https://route4me.com/platform/android-mobile-routing-app/#mobileapplication","name":"Route4Me Route Planner for Android","operatingSystem":"Android 9.0 and up","applicationCategory":"DriverApplication"}}]},{"@type":"DefinedTermSet","@id":"https://route4me.com/#industries","name":"Industries Using Route4Me's Route Planning and Route Optimization Software","hasDefinedTerm":[{"@type":"DefinedTerm","name":"Logistics & Transportation","sameAs":"https://en.wikipedia.org/wiki/Logistics"},{"@type":"DefinedTerm","name":"Food & Beverage","sameAs":"https://en.wikipedia.org/wiki/Food_industry"},{"@type":"DefinedTerm","name":"Aerospace & Defense","sameAs":"https://en.wikipedia.org/wiki/Aerospace"},{"@type":"DefinedTerm","name":"Agriculture & Farming","sameAs":"https://en.wikipedia.org/wiki/Agriculture"},{"@type":"DefinedTerm","name":"Construction","sameAs":"https://en.wikipedia.org/wiki/Construction"},{"@type":"DefinedTerm","name":"Manufacturing","sameAs":"https://en.wikipedia.org/wiki/Manufacturing"},{"@type":"DefinedTerm","name":"Medical & Pharmaceuticals","sameAs":"https://en.wikipedia.org/wiki/Medical_industry"},{"@type":"DefinedTerm","name":"Retail","sameAs":"https://en.wikipedia.org/wiki/Retail"},{"@type":"DefinedTerm","name":"Education","sameAs":"https://en.wikipedia.org/wiki/Education"},{"@type":"DefinedTerm","name":"Engineering","sameAs":"https://en.wikipedia.org/wiki/Engineering"},{"@type":"DefinedTerm","name":"Event Services","sameAs":"https://en.wikipedia.org/wiki/Event_management"},{"@type":"DefinedTerm","name":"Facility Services","sameAs":"https://en.wikipedia.org/wiki/Facility_management"},{"@type":"DefinedTerm","name":"Hospitality, Travel & Tourism","sameAs":"https://en.wikipedia.org/wiki/Hospitality_industry"},{"@type":"DefinedTerm","name":"Information Technology","sameAs":"https://en.wikipedia.org/wiki/Information_technology"},{"@type":"DefinedTerm","name":"Law Enforcement & Government Affairs","sameAs":["https://en.wikipedia.org/wiki/Public_service","https://en.wikipedia.org/wiki/Law_enforcement"]},{"@type":"DefinedTerm","name":"Media","sameAs":"https://en.wikipedia.org/wiki/Media_industry"},{"@type":"DefinedTerm","name":"Nonprofit Organization Management","sameAs":"https://en.wikipedia.org/wiki/Nonprofit_organization"},{"@type":"DefinedTerm","name":"Professional Services","sameAs":"https://en.wikipedia.org/wiki/Professional_service"},{"@type":"DefinedTerm","name":"Real Estate","sameAs":"https://en.wikipedia.org/wiki/Real_estate"},{"@type":"DefinedTerm","name":"Visual & Performing Arts Management","sameAs":"https://en.wikipedia.org/wiki/Performing_arts"},{"@type":"DefinedTerm","name":"Waste Management","sameAs":"https://en.wikipedia.org/wiki/Waste_management"},{"@type":"DefinedTerm","name":"Wellness & Lifestyle","sameAs":"https://en.wikipedia.org/wiki/Wellness"},{"@type":"DefinedTerm","name":"Wireless & Telecommunications","sameAs":"https://en.wikipedia.org/wiki/Telecommunications"},{"@type":"DefinedTerm","name":"Utilities/Energy","sameAs":["https://en.wikipedia.org/wiki/Public_utility","https://en.wikipedia.org/wiki/Energy_industry"]},{"@type":"DefinedTerm","name":"Business Services","sameAs":"https://en.wikipedia.org/wiki/Business_services"},{"@type":"DefinedTerm","name":"Government Services","sameAs":"https://en.wikipedia.org/wiki/Public_service"},{"@type":"DefinedTerm","name":"Oil and Gas","sameAs":"https://en.wikipedia.org/wiki/Petroleum_industry"},{"@type":"DefinedTerm","name":"Parcel and Courier","sameAs":["https://en.wikipedia.org/wiki/Courier","https://en.wikipedia.org/wiki/Package_delivery"]},{"@type":"DefinedTerm","name":"Property Services","sameAs":"https://en.wikipedia.org/wiki/Property_management"},{"@type":"DefinedTerm","name":"Rx and Healthcare","sameAs":"https://en.wikipedia.org/wiki/Pharmaceutical_industry"}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "ContactPage",
+            "@id": "https://route4me.com/contact/#webpage",
+            "url": "https://route4me.com/contact",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "name": "Contact Route4Me",
+            "description": "Reach out to Route4Me for route planning solutions, scheduling demos, pricing inquiries, and partnership opportunities. Solve your route planning challenges with our certified route planning experts that are available for you 24/7/365",
+            "mainEntity": {
+                "@type": "ContactPoint",
+                "telephone": "+1-888-552-9045",
+                "contactType": "Sales",
+                "contactOption": "TollFree",
+                "areaServed": "US",
+                "availableLanguage": [
+                    "English"
+                ],
+                "description": "The main contact point for Route4Me."
+            },
+            "potentialAction": [
+                {
+                    "@type": "CommunicateAction",
+                    "name": "Submit Contact Form",
+                    "description": "Submit your contact details to schedule a demo, request pricing or ask questions about Route4Me.",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://route4me.com/contact",
+                        "actionPlatform": "http://schema.org/WebApplication"
+                    },
+                    "object": [
+                        {
+                            "@type": "Thing",
+                            "name": "Schedule a Demo"
+                        },
+                        {
+                            "@type": "Thing",
+                            "name": "Request Pricing Information"
+                        },
+                        {
+                            "@type": "Thing",
+                            "name": "API Licensing Inquiry"
+                        },
+                        {
+                            "@type": "Thing",
+                            "name": "Partnership Inquiry"
+                        },
+                        {
+                            "@type": "Thing",
+                            "name": "Other"
+                        }
+                    ]
+                },
+                {
+                    "@type": "CommunicateAction",
+                    "name": "Call Sales",
+                    "description": "Call Route4Me sales directly.",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "tel:+1-888-552-9045"
+                    }
+                },
+                {
+                    "@type": "CommunicateAction",
+                    "name": "Call Support",
+                    "description": "Call Route4Me support directly.",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "tel:+1-855-768-8344"
+                    }
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Professional Driver App for iOS",
+                    "description": "Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "IOSPlatform",
+                        "urlTemplate": "https://apps.apple.com/us/app/route4me-route-planner/id349853799"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "MobileApplication",
+                        "@id": "https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication",
+                        "name": "Route4Me Route Planner for iOS",
+                        "operatingSystem": "iOS 14.0 or later",
+                        "applicationCategory": "DriverApplication"
+                    }
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Professional Driver App for Android",
+                    "description": "Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "AndroidPlatform",
+                        "urlTemplate": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "MobileApplication",
+                        "@id": "https://route4me.com/platform/android-mobile-routing-app/#mobileapplication",
+                        "name": "Route4Me Route Planner for Android",
+                        "operatingSystem": "Android 9.0 and up",
+                        "applicationCategory": "DriverApplication"
+                    }
+                }
+            ]
+        },
+        {
+            "@type": "DefinedTermSet",
+            "@id": "https://route4me.com/#industries",
+            "name": "Industries Using Route4Me's Route Planning and Route Optimization Software",
+            "hasDefinedTerm": [
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Logistics & Transportation",
+                    "sameAs": "https://en.wikipedia.org/wiki/Logistics"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Food & Beverage",
+                    "sameAs": "https://en.wikipedia.org/wiki/Food_industry"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Aerospace & Defense",
+                    "sameAs": "https://en.wikipedia.org/wiki/Aerospace"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Agriculture & Farming",
+                    "sameAs": "https://en.wikipedia.org/wiki/Agriculture"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Construction",
+                    "sameAs": "https://en.wikipedia.org/wiki/Construction"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Manufacturing",
+                    "sameAs": "https://en.wikipedia.org/wiki/Manufacturing"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Medical & Pharmaceuticals",
+                    "sameAs": "https://en.wikipedia.org/wiki/Medical_industry"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Retail",
+                    "sameAs": "https://en.wikipedia.org/wiki/Retail"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Education",
+                    "sameAs": "https://en.wikipedia.org/wiki/Education"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Engineering",
+                    "sameAs": "https://en.wikipedia.org/wiki/Engineering"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Event Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Event_management"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Facility Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Facility_management"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Hospitality, Travel & Tourism",
+                    "sameAs": "https://en.wikipedia.org/wiki/Hospitality_industry"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Information Technology",
+                    "sameAs": "https://en.wikipedia.org/wiki/Information_technology"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Law Enforcement & Government Affairs",
+                    "sameAs": [
+                        "https://en.wikipedia.org/wiki/Public_service",
+                        "https://en.wikipedia.org/wiki/Law_enforcement"
+                    ]
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Media",
+                    "sameAs": "https://en.wikipedia.org/wiki/Media_industry"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Nonprofit Organization Management",
+                    "sameAs": "https://en.wikipedia.org/wiki/Nonprofit_organization"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Professional Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Professional_service"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Real Estate",
+                    "sameAs": "https://en.wikipedia.org/wiki/Real_estate"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Visual & Performing Arts Management",
+                    "sameAs": "https://en.wikipedia.org/wiki/Performing_arts"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Waste Management",
+                    "sameAs": "https://en.wikipedia.org/wiki/Waste_management"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Wellness & Lifestyle",
+                    "sameAs": "https://en.wikipedia.org/wiki/Wellness"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Wireless & Telecommunications",
+                    "sameAs": "https://en.wikipedia.org/wiki/Telecommunications"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Utilities/Energy",
+                    "sameAs": [
+                        "https://en.wikipedia.org/wiki/Public_utility",
+                        "https://en.wikipedia.org/wiki/Energy_industry"
+                    ]
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Business Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Business_services"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Government Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Public_service"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Oil and Gas",
+                    "sameAs": "https://en.wikipedia.org/wiki/Petroleum_industry"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Parcel and Courier",
+                    "sameAs": [
+                        "https://en.wikipedia.org/wiki/Courier",
+                        "https://en.wikipedia.org/wiki/Package_delivery"
+                    ]
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Property Services",
+                    "sameAs": "https://en.wikipedia.org/wiki/Property_management"
+                },
+                {
+                    "@type": "DefinedTerm",
+                    "name": "Rx and Healthcare",
+                    "sameAs": "https://en.wikipedia.org/wiki/Pharmaceutical_industry"
+                }
+            ]
+        }
+    ]
+}

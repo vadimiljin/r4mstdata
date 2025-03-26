@@ -1,1 +1,770 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/platform/zebra-mobile-routing-app/#webpage","url":"https://route4me.com/platform/zebra-mobile-routing-app","name":"Zebra Mobile Routing App For Businesses","description":"Increase productivity across your logistics operations by putting the Route4Me platform into the hands of every member of your team.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"primaryImageOfPage":{"@id":"https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage"},"image":{"@id":"https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage"},"about":{"@type":"Thing","name":"Zebra Mobile Routing App For Businesses","sameAs":["https://en.wikipedia.org/wiki/Route_planning_software","https://en.wikipedia.org/wiki/Last_mile_(transportation)","https://en.wikipedia.org/wiki/Delivery_management_software","https://en.wikipedia.org/wiki/Fleet_management_software","https://en.wikipedia.org/wiki/Mobile_app","https://en.wikipedia.org/wiki/Zebra_Technologies","https://www.wikidata.org/wiki/Q2443609"]},"keywords":"route planner, route optimization, delivery driver app, fleet tracking app, route planning software, last mile delivery app, proof of delivery, field service app, driver app","mainEntityOfPage":{"@type":["MobileApplication","Product"],"@id":"https://route4me.com/platform/zebra-mobile-routing-app/#mobileapplication","url":"https://route4me.com/platform/zebra-mobile-routing-app","name":"Zebra Mobile Routing App","isPartOf":{"@type":["SoftwareApplication","Product"],"@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","url":"https://route4me.com/platform/route-optimization-software","name":"Route4Me Route Optimization Platform","image":"https://support-cdn.route4me.com/2023/07/c2749a18-web-route-editor-mobile-sync.jpg","operatingSystem":"Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","category":["Route Planning Software/Route Optimization","Transportation Software/Fleet Management","Logistics Software/Last Mile Delivery","Business Software/Transportation Management System","Delivery Software/Delivery Route Planning","Fleet Software/Commercial Vehicle Routing","Trucking Software/Truck Route Optimization","Enterprise Software/Logistics Management","Mobile Software/Delivery Driver App"],"keywords":"route planner, fleet management, last mile delivery, logistics management, transportation management system, last mile tracking, final mile delivery, route optimization, delivery management software, route planning software, routing software, route optimization software, logistics optimization, route optimizer, delivery routing software, truck routing software, last mile delivery software, routing app","alternateName":["Route Planner","Fleet Management","Last Mile Delivery","Logistics Management","Transportation Management System","Last Mile Tracking","Final Mile Delivery","Route Optimization"],"description":"Route4Me is a route optimization and fleet management software that makes logistics easier for businesses of all sizes. It helps users plan, optimize and manage efficient routes for last-mile transportation, deliveries, services and field operations. The platform includes tools like multi-stop route planning, GPS tracking, route scheduling, driver management and detailed analytics. Built for enterprises, SMBs and logistics professionals worldwide, Route4Me improves efficiency, cuts costs and boosts customer satisfaction.","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","ratingCount":"25736","bestRating":"5","worstRating":"1","description":"The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0). Google Play and Apple App Store contribute the largest volumes but are user-driven, with Google Play subject to strong influence from competitive manipulation and Apple App Store benefiting from a more curated environment. Capterra provides professional, business-oriented reviews and G2's highly trusted platform ensures its smaller volume has significant influence. This weighting balances volume, trust and relevance."},"offers":[{"@type":"Offer","price":"40","priceCurrency":"USD","name":"Route Management","description":"Basic route planning features with a free 7-day trial","availability":"https://schema.org/InStock","category":"Web Platform","additionalProperty":[{"@type":"PropertyValue","name":"Add and Visualize Destinations","value":"Included"},{"@type":"PropertyValue","name":"Plan Routes Using a Map","value":"Included"},{"@type":"PropertyValue","name":"Dispatch Routes and Track Progress","value":"Included"},{"@type":"PropertyValue","name":"Provide Voice Guided Navigation","value":"Included"},{"@type":"PropertyValue","name":"Send Customer Email Notifications","value":"Included"},{"@type":"PropertyValue","name":"Capture Proof of Delivery or Service","value":"Included"}]},{"@type":"Offer","price":"60","priceCurrency":"USD","name":"Route Optimization","description":"Advanced route optimization features with a free 7-day trial","availability":"https://schema.org/InStock","category":"Web Platform","additionalProperty":[{"@type":"PropertyValue","name":"Everything in Route Management","value":"Included"},{"@type":"PropertyValue","name":"Optimize Routes","value":"Included"},{"@type":"PropertyValue","name":"Plan Routes from Orders","value":"Included"},{"@type":"PropertyValue","name":"Combine Multiple Stops","value":"Included"},{"@type":"PropertyValue","name":"Reduce Driving Time and Distance","value":"Included"},{"@type":"PropertyValue","name":"Save on Fuel and Maintenance","value":"Included"}]},{"@type":"Offer","price":"90","priceCurrency":"USD","name":"Business Optimization","description":"Comprehensive business optimization features with a free 7-day trial","availability":"https://schema.org/InStock","category":"Web Platform","additionalProperty":[{"@type":"PropertyValue","name":"Everything in Route Optimization","value":"Included"},{"@type":"PropertyValue","name":"Optimize Across Drivers, Vehicles and Depots","value":"Included"},{"@type":"PropertyValue","name":"Handle Mixed Fleets","value":"Included"},{"@type":"PropertyValue","name":"Apply Business Rules and Priorities","value":"Included"},{"@type":"PropertyValue","name":"Increase Utilization and Productivity","value":"Included"},{"@type":"PropertyValue","name":"Continuously Improve Your Operation","value":"Included"}]}]},"operatingSystem":"Android 9.0 and up","applicationCategory":"BusinessApplication","category":["Delivery Management Software","Supply Chain Compliance Software","Delivery Software/Delivery Route Planning Software"],"image":"https://support-cdn.route4me.com/2023/06/bd255bc6-open-manage-routes-route-planner-app-scaled.jpg","provider":{"@id":"https://route4me.com/#corporation"},"offers":[{"@type":"Offer","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock"},{"@type":"Offer","name":"Route4Me Multiple Stop Route Planner - Free","price":"0","priceCurrency":"USD","availability":"https://schema.org/InStock","description":"Free plan for individual drivers. Routes saved for 7 days. Plan unlimited routes with up to 10 stops. In-app voice guided navigation."},{"@type":"Offer","name":"Route4Me Multiple Stop Route Planner - Monthly","price":"9.99","priceCurrency":"USD","availability":"https://schema.org/InStock","description":"Monthly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation."},{"@type":"Offer","name":"Route4Me Multiple Stop Route Planner - Annual","price":"79.99","priceCurrency":"USD","availability":"https://schema.org/InStock","description":"Annual plan with 33% savings. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation."}],"keywords":"asset tracking, delivery management software, fleet management app, asset monitoring, business logistics, supply chain compliance, delivery route planning software, barcode scanning app, delivery tracking software, last mile delivery optimization, chain of custody software, proof of delivery tracking","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"15036","bestRating":"5","worstRating":"1","description":"The weighted aggregate rating was calculated using data from multiple platforms: Google Play (rating 4.3 from 14544 reviews, weight 1.0), Capterra (rating 4.4 from 390 reviews, weight 3.0), and G2 (rating 4.6 from 102 reviews, weight 4.0). Google Play contributes the largest number of ratings but is user-driven and less specialized, with a strong influence from competitive manipulation. Capterra offers professional insights with fewer but more credible reviews. G2, as a trusted and highly professional platform, has the highest weight in the calculation to reflect its influence."},"review":[{"@type":"Review","@id":"https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___1446196/","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"},"author":{"@type":"Person","name":"Jacqueline T.","jobTitle":"Owner","worksFor":{"@type":"Organization","name":"Insurance, 501-1000 employees"}},"datePublished":"2019-03-31","reviewBody":"Route4Me works for Me! I'm in field sales, so the app allows me to work more efficiently. I minimize drive time between stops, and so I'm able to see more people in a day. Pros: It's accurate, easy to use, easy to edit route. Great value for cost. Cons: No option/function to be able to add notes to a route","publisher":{"@type":"Organization","name":"Capterra","@id":"https://www.capterra.com/","url":"https://www.capterra.com/p/149633/Route4Me/"},"url":"https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___1446196/"},{"@type":"Review","@id":"https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___4819959/","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"},"author":{"@type":"Person","name":"Billie B.","jobTitle":"Logistics CoOrdinator","worksFor":{"@type":"Organization","name":"Logistics and Supply Chain, 51-200 employees"}},"datePublished":"2019-05-28","reviewBody":"The BEST on the market. It has been nothing but above and beyond my expectations. Pros: The time and money that it can save both the company and the customer. Cons: I haven't seen anything I haven't liked so far.","publisher":{"@type":"Organization","name":"Capterra","@id":"https://www.capterra.com/","url":"https://www.capterra.com/p/149633/Route4Me/"},"url":"https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___4819959/"},{"@type":"Review","@id":"https://www.g2.com/products/route4me/reviews/route4me-review-5213781","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5","worstRating":"1"},"author":{"@type":"Person","name":"Molly F.","jobTitle":"Customer Success Manager","worksFor":{"@type":"Organization","name":"Small-Business, up to 50 employees"}},"datePublished":"2024-01-11","reviewBody":"Excellent product, perfect add-ons, great price, and 5 star Customer Service! The amount of locations you can ask this app to optimize is AMAZING!!! Also, how many different way you can tweak your routes to make the most sense to you... just fantastic! The customer service team is available 24/7- absolutely incredible. While previously using this app, the mapping was incorrect, but I think most design flaws have since been fixed!","publisher":{"@type":"Organization","name":"G2","@id":"https://www.g2.com","url":"https://www.g2.com/products/route4me/reviews"},"url":"https://www.g2.com/products/route4me/reviews/route4me-review-5213781"}],"downloadUrl":"https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer","installUrl":"https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer","screenshot":["https://play-lh.googleusercontent.com/NP42eQMQ79FOW4DYVSey4AOpZiWbGkRkPaPVaxTKAHKCc0qXtrafag0x6UuA8rKsWQ","https://play-lh.googleusercontent.com/RKZs3ajoreM9tgpvNtep3RHiCKBmxDi4t8r8_KQSWusWjmoqLx4nrLLWx_LCxTYHdQdB","https://play-lh.googleusercontent.com/Sc7xdsXOGgTuG5BZ9tkgNbZ3uxu7SiwFVZ-cU9gcMOYtDyQjNZ7gKLPcStSL3xVh2J3k","https://play-lh.googleusercontent.com/kMgbkCuYyXOkIElYwncxHO0ZYlPrZwRVEJSgj7upz4IMAVkPG_FsNvb3zVAdvZ3VpjM","https://play-lh.googleusercontent.com/Tycu5BTcsmfDUZ8y-j33gMiUuVCV9bfswUE3ApWC2tySA31dBy-58ZDG1a4UYwXiYfQ","https://play-lh.googleusercontent.com/C2VzlQB8QCDArtXH17nN997lUVBiooolLymHSc-3TL-PIO7cJ_-X3vjHVE4ZanDGiA","https://play-lh.googleusercontent.com/NDKpi-33xq1ILc8SZD9vVozjOmjkwj1brqmCzJeGfxQ61vGBkeNYJSakSwh6T5MzavbF","https://play-lh.googleusercontent.com/Lw9IbOtEYCBD2U5-WK8-GCSp-_lqLYjnYlks0bBb3ek-bOGvRtJMkQYLKEjOxnBHKBY","https://play-lh.googleusercontent.com/f7nYFIAckxBBRR1mVwm_wdARsjCCSnnIaLucg0-E5N-NAFMCfEJjjJm-Pwgw6hYPTAwN","https://play-lh.googleusercontent.com/hPyTZus7ggeRAF4BL-SgS5lcKhyZDD4rMYGJUN-K4MBYwnvUBjrwq-zaYnvCh0yj1Q","https://play-lh.googleusercontent.com/QCYXRHvNoYAbQHyiZz-RWQHnkG6P_5IQCVoYL5tav8D7Mmn8AUWjSKXtww2ChBEsHRo","https://play-lh.googleusercontent.com/N7ktzE5CQvf4eBnn8YxjdYNE5iRQ-QhxysyuQ9hko73HOUxD0eTHus6G_HvxBO8Avhah","https://play-lh.googleusercontent.com/IeEAE4zSwC-RpIZEsGy1qTk2VYyitIIujeL-D-yEAn9NDcwUvrFxJwPiGV4VMOv_oO32","https://play-lh.googleusercontent.com/FgWReiMz5Ix2Xtv0uR_Zf8Jvky7WBriIScuVw7nHBqagHpBiFHCz-W1qXjlbygpAn1EL","https://play-lh.googleusercontent.com/c2Eg_foJHTu_8QDQZ1xF5HgiIHxdUr-3LR9GDYrHgohDkPUqL5ZrHtDuzCCsUPP5YTlD","https://play-lh.googleusercontent.com/FIGpMfEVAnHCdR7eya5d0NM6EV40n1WtcY8WMnO-U42Ac4mkagGSfa9znzwngOwRYLo","https://play-lh.googleusercontent.com/eOA_vQebKgxD3aUyquyi_7ni8i9DAwQNCBWkyxTsW_tuuWcSxzu7wb5hWgdxY2DqIA","https://play-lh.googleusercontent.com/tWhM3WZVKH4CFzEFbKXnJ1fdIScioaZ9eyhOwwZNVvHSLefVKhLnEG9iI9WbeSO8WQ","https://play-lh.googleusercontent.com/Nan4f86Lh7S4uYwZcxS3h38JztwQ7MheCg2mzS-o3FFgjNq91P6PNyHt-aPamzeHVvfw"],"description":"Streamline last-mile delivery and fleet management with the Route4Me Zebra Mobile Routing App. Integrate seamlessly with Zebra devices to scan, sort, and load items, ensuring accurate records and compliance. Boost efficiency with real-time monitoring, proof of delivery, and task automation. Designed for durability and optimized for logistics, it\u2019s the perfect solution for enhancing productivity and customer satisfaction","softwareVersion":"4.6.53","datePublished":"2012-06-20","dateModified":"2024-10-18","inLanguage":"AR, CS, DA, NL, EN, FI, FR, DE, HE, HI, HU, IT, JA, KO, PL, PT, RO, RU, ZH, ES, SV, TH, VI","fileSize":"52.0 MB","permissions":["Location","Storage","Camera","Audio","Notifications","Mediafiles"],"countriesSupported":["AL","DZ","AO","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BY","BE","BZ","BJ","BM","BO","BA","BW","BR","VG","BG","BF","KH","CM","CA","CV","KY","CL","CO","CR","HR","CY","CW","CZ","DM","DO","EC","EG","SV","EE","FJ","FR","GA","GE","DE","GH","GI","GR","GT","GW","HT","HN","HK","HU","IS","IN","ID","IE","IL","IT","JM","JP","JO","KZ","KE","KW","KG","LA","LV","LB","LI","LT","LU","MO","MY","MV","ML","MT","MU","MX","MD","MC","MA","MZ","MM","NA","NP","NL","NZ","NI","NE","NG","MK","NO","OM","PK","PA","PG","PY","PE","PH","PL","PT","QA","RO","RU","RW","SM","SA","SN","RS","SG","SK","SI","SB","ZA","KR","ES","LK","LC","SR","SE","CH","TJ","TZ","TH","TG","TT","TN","TM","TC","UG","UA","AE","GB","US","UY","UZ","VE","VN","ZM","ZW"],"contentRating":"Everyone","memoryRequirements":"2.0 GB RAM minimum","storageRequirements":"At least 100.0 MB of free space","potentialAction":{"@type":"InstallAction","target":"https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"},"interactionStatistic":{"@type":"InteractionCounter","interactionType":{"@type":"InstallAction"},"userInteractionCount":"889178"},"about":[{"@type":"Thing","name":"Route planner","sameAs":"https://en.wikipedia.org/wiki/Journey_planner"},{"@type":"Thing","name":"Vehicle tracking system","sameAs":["https://en.wikipedia.org/wiki/Vehicle_tracking_system","https://www.wikidata.org/wiki/Q3498530"]},{"@type":"Thing","name":"Telematics","sameAs":["https://en.wikipedia.org/wiki/Telematics","https://www.wikidata.org/wiki/Q485669"]},{"@type":"Thing","name":"Fleet Management","sameAs":["https://en.wikipedia.org/wiki/Fleet_management","https://www.wikidata.org/wiki/Q1430291"],"alternateName":"vehicle management"},{"@type":"Thing","name":"Logistics","sameAs":["https://en.wikipedia.org/wiki/Logistics","https://www.wikidata.org/wiki/Q177777"],"alternateName":"logistics industry"},{"@type":"Thing","name":"Supply chain management","sameAs":["https://en.wikipedia.org/wiki/Supply_chain_management","https://www.wikidata.org/wiki/Q492886"],"alternateName":"SCM"},{"@type":"Thing","name":"Sustainable transport","sameAs":["https://en.wikipedia.org/wiki/Sustainable_transport","https://www.wikidata.org/wiki/Q1364310"],"alternateName":["sustainable mobility","sustainable transportation"]},{"@type":"Thing","name":"Transportation management system","sameAs":["https://en.wikipedia.org/wiki/Transportation_management_system","https://www.wikidata.org/wiki/Q1059251"],"alternateName":"TMS"},{"@type":"Thing","name":"Last mile delivery","sameAs":"https://en.wikipedia.org/wiki/Last_mile_(transportation)"}],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/"}}},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.routeml.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"ImageObject","@id":"https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage","url":"https://apps-static.routeml.com/structured-data/platform_zebra-mobile-routing-app.jpg","caption":"Zebra Mobile Routing App For Businesses","alternateName":"Route4Me Route Planner for Zebra","width":1920,"height":1080,"thumbnail":{"@type":"ImageObject","url":"https://apps-static.routeml.com/structured-data/platform_zebra-mobile-routing-app-thumbnail.jpg","width":600,"height":600}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}},{"@type":"InstallAction","name":"Try Professional Driver App for iOS","description":"Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month","target":{"@type":"EntryPoint","actionPlatform":"IOSPlatform","urlTemplate":"https://apps.apple.com/us/app/route4me-route-planner/id349853799"},"actionStatus":"PotentialActionStatus","object":{"@type":"MobileApplication","@id":"https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication","name":"Route4Me Route Planner for iOS","operatingSystem":"iOS 14.0 or later","applicationCategory":"DriverApplication"}},{"@type":"InstallAction","name":"Try Professional Driver App for Android","description":"Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month","target":{"@type":"EntryPoint","actionPlatform":"AndroidPlatform","urlTemplate":"https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"},"actionStatus":"PotentialActionStatus","object":{"@type":"MobileApplication","@id":"https://route4me.com/platform/android-mobile-routing-app/#mobileapplication","name":"Route4Me Route Planner for Android","operatingSystem":"Android 9.0 and up","applicationCategory":"DriverApplication"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/zebra-mobile-routing-app/#webpage",
+            "url": "https://route4me.com/platform/zebra-mobile-routing-app",
+            "name": "Zebra Mobile Routing App For Businesses",
+            "description": "Increase productivity across your logistics operations by putting the Route4Me platform into the hands of every member of your team.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage"
+            },
+            "about": {
+                "@type": "Thing",
+                "name": "Zebra Mobile Routing App For Businesses",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Route_planning_software",
+                    "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                    "https://en.wikipedia.org/wiki/Delivery_management_software",
+                    "https://en.wikipedia.org/wiki/Fleet_management_software",
+                    "https://en.wikipedia.org/wiki/Mobile_app",
+                    "https://en.wikipedia.org/wiki/Zebra_Technologies",
+                    "https://www.wikidata.org/wiki/Q2443609"
+                ]
+            },
+            "keywords": "route planner, route optimization, delivery driver app, fleet tracking app, route planning software, last mile delivery app, proof of delivery, field service app, driver app",
+            "mainEntityOfPage": {
+                "@type": [
+                    "MobileApplication",
+                    "Product"
+                ],
+                "@id": "https://route4me.com/platform/zebra-mobile-routing-app/#mobileapplication",
+                "url": "https://route4me.com/platform/zebra-mobile-routing-app",
+                "name": "Zebra Mobile Routing App",
+                "isPartOf": {
+                    "@type": [
+                        "SoftwareApplication",
+                        "Product"
+                    ],
+                    "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                    "url": "https://route4me.com/platform/route-optimization-software",
+                    "name": "Route4Me Route Optimization Platform",
+                    "image": "https://support-cdn.route4me.com/2023/07/c2749a18-web-route-editor-mobile-sync.jpg",
+                    "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                    "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                    "category": [
+                        "Route Planning Software/Route Optimization",
+                        "Transportation Software/Fleet Management",
+                        "Logistics Software/Last Mile Delivery",
+                        "Business Software/Transportation Management System",
+                        "Delivery Software/Delivery Route Planning",
+                        "Fleet Software/Commercial Vehicle Routing",
+                        "Trucking Software/Truck Route Optimization",
+                        "Enterprise Software/Logistics Management",
+                        "Mobile Software/Delivery Driver App"
+                    ],
+                    "keywords": "route planner, fleet management, last mile delivery, logistics management, transportation management system, last mile tracking, final mile delivery, route optimization, delivery management software, route planning software, routing software, route optimization software, logistics optimization, route optimizer, delivery routing software, truck routing software, last mile delivery software, routing app",
+                    "alternateName": [
+                        "Route Planner",
+                        "Fleet Management",
+                        "Last Mile Delivery",
+                        "Logistics Management",
+                        "Transportation Management System",
+                        "Last Mile Tracking",
+                        "Final Mile Delivery",
+                        "Route Optimization"
+                    ],
+                    "description": "Route4Me is a route optimization and fleet management software that makes logistics easier for businesses of all sizes. It helps users plan, optimize and manage efficient routes for last-mile transportation, deliveries, services and field operations. The platform includes tools like multi-stop route planning, GPS tracking, route scheduling, driver management and detailed analytics. Built for enterprises, SMBs and logistics professionals worldwide, Route4Me improves efficiency, cuts costs and boosts customer satisfaction.",
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.6",
+                        "ratingCount": "25736",
+                        "bestRating": "5",
+                        "worstRating": "1",
+                        "description": "The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0). Google Play and Apple App Store contribute the largest volumes but are user-driven, with Google Play subject to strong influence from competitive manipulation and Apple App Store benefiting from a more curated environment. Capterra provides professional, business-oriented reviews and G2's highly trusted platform ensures its smaller volume has significant influence. This weighting balances volume, trust and relevance."
+                    },
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": "40",
+                            "priceCurrency": "USD",
+                            "name": "Route Management",
+                            "description": "Basic route planning features with a free 7-day trial",
+                            "availability": "https://schema.org/InStock",
+                            "category": "Web Platform",
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Add and Visualize Destinations",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Plan Routes Using a Map",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Dispatch Routes and Track Progress",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Provide Voice Guided Navigation",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Send Customer Email Notifications",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Capture Proof of Delivery or Service",
+                                    "value": "Included"
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": "60",
+                            "priceCurrency": "USD",
+                            "name": "Route Optimization",
+                            "description": "Advanced route optimization features with a free 7-day trial",
+                            "availability": "https://schema.org/InStock",
+                            "category": "Web Platform",
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Everything in Route Management",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Optimize Routes",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Plan Routes from Orders",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Combine Multiple Stops",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Reduce Driving Time and Distance",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Save on Fuel and Maintenance",
+                                    "value": "Included"
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "Offer",
+                            "price": "90",
+                            "priceCurrency": "USD",
+                            "name": "Business Optimization",
+                            "description": "Comprehensive business optimization features with a free 7-day trial",
+                            "availability": "https://schema.org/InStock",
+                            "category": "Web Platform",
+                            "additionalProperty": [
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Everything in Route Optimization",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Optimize Across Drivers, Vehicles and Depots",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Handle Mixed Fleets",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Apply Business Rules and Priorities",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Increase Utilization and Productivity",
+                                    "value": "Included"
+                                },
+                                {
+                                    "@type": "PropertyValue",
+                                    "name": "Continuously Improve Your Operation",
+                                    "value": "Included"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "operatingSystem": "Android 9.0 and up",
+                "applicationCategory": "BusinessApplication",
+                "category": [
+                    "Delivery Management Software",
+                    "Supply Chain Compliance Software",
+                    "Delivery Software/Delivery Route Planning Software"
+                ],
+                "image": "https://support-cdn.route4me.com/2023/06/bd255bc6-open-manage-routes-route-planner-app-scaled.jpg",
+                "provider": {
+                    "@id": "https://route4me.com/#corporation"
+                },
+                "offers": [
+                    {
+                        "@type": "Offer",
+                        "price": "0",
+                        "priceCurrency": "USD",
+                        "availability": "https://schema.org/InStock"
+                    },
+                    {
+                        "@type": "Offer",
+                        "name": "Route4Me Multiple Stop Route Planner - Free",
+                        "price": "0",
+                        "priceCurrency": "USD",
+                        "availability": "https://schema.org/InStock",
+                        "description": "Free plan for individual drivers. Routes saved for 7 days. Plan unlimited routes with up to 10 stops. In-app voice guided navigation."
+                    },
+                    {
+                        "@type": "Offer",
+                        "name": "Route4Me Multiple Stop Route Planner - Monthly",
+                        "price": "9.99",
+                        "priceCurrency": "USD",
+                        "availability": "https://schema.org/InStock",
+                        "description": "Monthly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation."
+                    },
+                    {
+                        "@type": "Offer",
+                        "name": "Route4Me Multiple Stop Route Planner - Annual",
+                        "price": "79.99",
+                        "priceCurrency": "USD",
+                        "availability": "https://schema.org/InStock",
+                        "description": "Annual plan with 33% savings. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation."
+                    }
+                ],
+                "keywords": "asset tracking, delivery management software, fleet management app, asset monitoring, business logistics, supply chain compliance, delivery route planning software, barcode scanning app, delivery tracking software, last mile delivery optimization, chain of custody software, proof of delivery tracking",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.5",
+                    "ratingCount": "15036",
+                    "bestRating": "5",
+                    "worstRating": "1",
+                    "description": "The weighted aggregate rating was calculated using data from multiple platforms: Google Play (rating 4.3 from 14544 reviews, weight 1.0), Capterra (rating 4.4 from 390 reviews, weight 3.0), and G2 (rating 4.6 from 102 reviews, weight 4.0). Google Play contributes the largest number of ratings but is user-driven and less specialized, with a strong influence from competitive manipulation. Capterra offers professional insights with fewer but more credible reviews. G2, as a trusted and highly professional platform, has the highest weight in the calculation to reflect its influence."
+                },
+                "review": [
+                    {
+                        "@type": "Review",
+                        "@id": "https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___1446196/",
+                        "reviewRating": {
+                            "@type": "Rating",
+                            "ratingValue": "5",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "author": {
+                            "@type": "Person",
+                            "name": "Jacqueline T.",
+                            "jobTitle": "Owner",
+                            "worksFor": {
+                                "@type": "Organization",
+                                "name": "Insurance, 501-1000 employees"
+                            }
+                        },
+                        "datePublished": "2019-03-31",
+                        "reviewBody": "Route4Me works for Me! I'm in field sales, so the app allows me to work more efficiently. I minimize drive time between stops, and so I'm able to see more people in a day. Pros: It's accurate, easy to use, easy to edit route. Great value for cost. Cons: No option/function to be able to add notes to a route",
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Capterra",
+                            "@id": "https://www.capterra.com/",
+                            "url": "https://www.capterra.com/p/149633/Route4Me/"
+                        },
+                        "url": "https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___1446196/"
+                    },
+                    {
+                        "@type": "Review",
+                        "@id": "https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___4819959/",
+                        "reviewRating": {
+                            "@type": "Rating",
+                            "ratingValue": "5",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "author": {
+                            "@type": "Person",
+                            "name": "Billie B.",
+                            "jobTitle": "Logistics CoOrdinator",
+                            "worksFor": {
+                                "@type": "Organization",
+                                "name": "Logistics and Supply Chain, 51-200 employees"
+                            }
+                        },
+                        "datePublished": "2019-05-28",
+                        "reviewBody": "The BEST on the market. It has been nothing but above and beyond my expectations. Pros: The time and money that it can save both the company and the customer. Cons: I haven't seen anything I haven't liked so far.",
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Capterra",
+                            "@id": "https://www.capterra.com/",
+                            "url": "https://www.capterra.com/p/149633/Route4Me/"
+                        },
+                        "url": "https://www.capterra.com/p/149633/Route4Me/reviews/Capterra___4819959/"
+                    },
+                    {
+                        "@type": "Review",
+                        "@id": "https://www.g2.com/products/route4me/reviews/route4me-review-5213781",
+                        "reviewRating": {
+                            "@type": "Rating",
+                            "ratingValue": "5",
+                            "bestRating": "5",
+                            "worstRating": "1"
+                        },
+                        "author": {
+                            "@type": "Person",
+                            "name": "Molly F.",
+                            "jobTitle": "Customer Success Manager",
+                            "worksFor": {
+                                "@type": "Organization",
+                                "name": "Small-Business, up to 50 employees"
+                            }
+                        },
+                        "datePublished": "2024-01-11",
+                        "reviewBody": "Excellent product, perfect add-ons, great price, and 5 star Customer Service! The amount of locations you can ask this app to optimize is AMAZING!!! Also, how many different way you can tweak your routes to make the most sense to you... just fantastic! The customer service team is available 24/7- absolutely incredible. While previously using this app, the mapping was incorrect, but I think most design flaws have since been fixed!",
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "G2",
+                            "@id": "https://www.g2.com",
+                            "url": "https://www.g2.com/products/route4me/reviews"
+                        },
+                        "url": "https://www.g2.com/products/route4me/reviews/route4me-review-5213781"
+                    }
+                ],
+                "downloadUrl": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer",
+                "installUrl": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer",
+                "screenshot": [
+                    "https://play-lh.googleusercontent.com/NP42eQMQ79FOW4DYVSey4AOpZiWbGkRkPaPVaxTKAHKCc0qXtrafag0x6UuA8rKsWQ",
+                    "https://play-lh.googleusercontent.com/RKZs3ajoreM9tgpvNtep3RHiCKBmxDi4t8r8_KQSWusWjmoqLx4nrLLWx_LCxTYHdQdB",
+                    "https://play-lh.googleusercontent.com/Sc7xdsXOGgTuG5BZ9tkgNbZ3uxu7SiwFVZ-cU9gcMOYtDyQjNZ7gKLPcStSL3xVh2J3k",
+                    "https://play-lh.googleusercontent.com/kMgbkCuYyXOkIElYwncxHO0ZYlPrZwRVEJSgj7upz4IMAVkPG_FsNvb3zVAdvZ3VpjM",
+                    "https://play-lh.googleusercontent.com/Tycu5BTcsmfDUZ8y-j33gMiUuVCV9bfswUE3ApWC2tySA31dBy-58ZDG1a4UYwXiYfQ",
+                    "https://play-lh.googleusercontent.com/C2VzlQB8QCDArtXH17nN997lUVBiooolLymHSc-3TL-PIO7cJ_-X3vjHVE4ZanDGiA",
+                    "https://play-lh.googleusercontent.com/NDKpi-33xq1ILc8SZD9vVozjOmjkwj1brqmCzJeGfxQ61vGBkeNYJSakSwh6T5MzavbF",
+                    "https://play-lh.googleusercontent.com/Lw9IbOtEYCBD2U5-WK8-GCSp-_lqLYjnYlks0bBb3ek-bOGvRtJMkQYLKEjOxnBHKBY",
+                    "https://play-lh.googleusercontent.com/f7nYFIAckxBBRR1mVwm_wdARsjCCSnnIaLucg0-E5N-NAFMCfEJjjJm-Pwgw6hYPTAwN",
+                    "https://play-lh.googleusercontent.com/hPyTZus7ggeRAF4BL-SgS5lcKhyZDD4rMYGJUN-K4MBYwnvUBjrwq-zaYnvCh0yj1Q",
+                    "https://play-lh.googleusercontent.com/QCYXRHvNoYAbQHyiZz-RWQHnkG6P_5IQCVoYL5tav8D7Mmn8AUWjSKXtww2ChBEsHRo",
+                    "https://play-lh.googleusercontent.com/N7ktzE5CQvf4eBnn8YxjdYNE5iRQ-QhxysyuQ9hko73HOUxD0eTHus6G_HvxBO8Avhah",
+                    "https://play-lh.googleusercontent.com/IeEAE4zSwC-RpIZEsGy1qTk2VYyitIIujeL-D-yEAn9NDcwUvrFxJwPiGV4VMOv_oO32",
+                    "https://play-lh.googleusercontent.com/FgWReiMz5Ix2Xtv0uR_Zf8Jvky7WBriIScuVw7nHBqagHpBiFHCz-W1qXjlbygpAn1EL",
+                    "https://play-lh.googleusercontent.com/c2Eg_foJHTu_8QDQZ1xF5HgiIHxdUr-3LR9GDYrHgohDkPUqL5ZrHtDuzCCsUPP5YTlD",
+                    "https://play-lh.googleusercontent.com/FIGpMfEVAnHCdR7eya5d0NM6EV40n1WtcY8WMnO-U42Ac4mkagGSfa9znzwngOwRYLo",
+                    "https://play-lh.googleusercontent.com/eOA_vQebKgxD3aUyquyi_7ni8i9DAwQNCBWkyxTsW_tuuWcSxzu7wb5hWgdxY2DqIA",
+                    "https://play-lh.googleusercontent.com/tWhM3WZVKH4CFzEFbKXnJ1fdIScioaZ9eyhOwwZNVvHSLefVKhLnEG9iI9WbeSO8WQ",
+                    "https://play-lh.googleusercontent.com/Nan4f86Lh7S4uYwZcxS3h38JztwQ7MheCg2mzS-o3FFgjNq91P6PNyHt-aPamzeHVvfw"
+                ],
+                "description": "Streamline last-mile delivery and fleet management with the Route4Me Zebra Mobile Routing App. Integrate seamlessly with Zebra devices to scan, sort, and load items, ensuring accurate records and compliance. Boost efficiency with real-time monitoring, proof of delivery, and task automation. Designed for durability and optimized for logistics, it\u2019s the perfect solution for enhancing productivity and customer satisfaction",
+                "softwareVersion": "4.6.53",
+                "datePublished": "2012-06-20",
+                "dateModified": "2024-10-18",
+                "inLanguage": "AR, CS, DA, NL, EN, FI, FR, DE, HE, HI, HU, IT, JA, KO, PL, PT, RO, RU, ZH, ES, SV, TH, VI",
+                "fileSize": "52.0 MB",
+                "permissions": [
+                    "Location",
+                    "Storage",
+                    "Camera",
+                    "Audio",
+                    "Notifications",
+                    "Mediafiles"
+                ],
+                "countriesSupported": [
+                    "AL",
+                    "DZ",
+                    "AO",
+                    "AG",
+                    "AR",
+                    "AM",
+                    "AW",
+                    "AU",
+                    "AT",
+                    "AZ",
+                    "BS",
+                    "BH",
+                    "BD",
+                    "BY",
+                    "BE",
+                    "BZ",
+                    "BJ",
+                    "BM",
+                    "BO",
+                    "BA",
+                    "BW",
+                    "BR",
+                    "VG",
+                    "BG",
+                    "BF",
+                    "KH",
+                    "CM",
+                    "CA",
+                    "CV",
+                    "KY",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "HR",
+                    "CY",
+                    "CW",
+                    "CZ",
+                    "DM",
+                    "DO",
+                    "EC",
+                    "EG",
+                    "SV",
+                    "EE",
+                    "FJ",
+                    "FR",
+                    "GA",
+                    "GE",
+                    "DE",
+                    "GH",
+                    "GI",
+                    "GR",
+                    "GT",
+                    "GW",
+                    "HT",
+                    "HN",
+                    "HK",
+                    "HU",
+                    "IS",
+                    "IN",
+                    "ID",
+                    "IE",
+                    "IL",
+                    "IT",
+                    "JM",
+                    "JP",
+                    "JO",
+                    "KZ",
+                    "KE",
+                    "KW",
+                    "KG",
+                    "LA",
+                    "LV",
+                    "LB",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "MO",
+                    "MY",
+                    "MV",
+                    "ML",
+                    "MT",
+                    "MU",
+                    "MX",
+                    "MD",
+                    "MC",
+                    "MA",
+                    "MZ",
+                    "MM",
+                    "NA",
+                    "NP",
+                    "NL",
+                    "NZ",
+                    "NI",
+                    "NE",
+                    "NG",
+                    "MK",
+                    "NO",
+                    "OM",
+                    "PK",
+                    "PA",
+                    "PG",
+                    "PY",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PT",
+                    "QA",
+                    "RO",
+                    "RU",
+                    "RW",
+                    "SM",
+                    "SA",
+                    "SN",
+                    "RS",
+                    "SG",
+                    "SK",
+                    "SI",
+                    "SB",
+                    "ZA",
+                    "KR",
+                    "ES",
+                    "LK",
+                    "LC",
+                    "SR",
+                    "SE",
+                    "CH",
+                    "TJ",
+                    "TZ",
+                    "TH",
+                    "TG",
+                    "TT",
+                    "TN",
+                    "TM",
+                    "TC",
+                    "UG",
+                    "UA",
+                    "AE",
+                    "GB",
+                    "US",
+                    "UY",
+                    "UZ",
+                    "VE",
+                    "VN",
+                    "ZM",
+                    "ZW"
+                ],
+                "contentRating": "Everyone",
+                "memoryRequirements": "2.0 GB RAM minimum",
+                "storageRequirements": "At least 100.0 MB of free space",
+                "potentialAction": {
+                    "@type": "InstallAction",
+                    "target": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"
+                },
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": {
+                        "@type": "InstallAction"
+                    },
+                    "userInteractionCount": "889178"
+                },
+                "about": [
+                    {
+                        "@type": "Thing",
+                        "name": "Route planner",
+                        "sameAs": "https://en.wikipedia.org/wiki/Journey_planner"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Vehicle tracking system",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Vehicle_tracking_system",
+                            "https://www.wikidata.org/wiki/Q3498530"
+                        ]
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Telematics",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Telematics",
+                            "https://www.wikidata.org/wiki/Q485669"
+                        ]
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Fleet Management",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Fleet_management",
+                            "https://www.wikidata.org/wiki/Q1430291"
+                        ],
+                        "alternateName": "vehicle management"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Logistics",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Logistics",
+                            "https://www.wikidata.org/wiki/Q177777"
+                        ],
+                        "alternateName": "logistics industry"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Supply chain management",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Supply_chain_management",
+                            "https://www.wikidata.org/wiki/Q492886"
+                        ],
+                        "alternateName": "SCM"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Sustainable transport",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Sustainable_transport",
+                            "https://www.wikidata.org/wiki/Q1364310"
+                        ],
+                        "alternateName": [
+                            "sustainable mobility",
+                            "sustainable transportation"
+                        ]
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Transportation management system",
+                        "sameAs": [
+                            "https://en.wikipedia.org/wiki/Transportation_management_system",
+                            "https://www.wikidata.org/wiki/Q1059251"
+                        ],
+                        "alternateName": "TMS"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Last mile delivery",
+                        "sameAs": "https://en.wikipedia.org/wiki/Last_mile_(transportation)"
+                    }
+                ],
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/"
+                }
+            }
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/zebra-mobile-routing-app/#primaryimage",
+            "url": "https://apps-static.routeml.com/structured-data/platform_zebra-mobile-routing-app.jpg",
+            "caption": "Zebra Mobile Routing App For Businesses",
+            "alternateName": "Route4Me Route Planner for Zebra",
+            "width": 1920,
+            "height": 1080,
+            "thumbnail": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.routeml.com/structured-data/platform_zebra-mobile-routing-app-thumbnail.jpg",
+                "width": 600,
+                "height": 600
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Professional Driver App for iOS",
+                    "description": "Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "IOSPlatform",
+                        "urlTemplate": "https://apps.apple.com/us/app/route4me-route-planner/id349853799"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "MobileApplication",
+                        "@id": "https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication",
+                        "name": "Route4Me Route Planner for iOS",
+                        "operatingSystem": "iOS 14.0 or later",
+                        "applicationCategory": "DriverApplication"
+                    }
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Professional Driver App for Android",
+                    "description": "Start with Free Plan (10 stops) or 7-day trial of unlimited stops. Plans from $9.99/month",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "AndroidPlatform",
+                        "urlTemplate": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "MobileApplication",
+                        "@id": "https://route4me.com/platform/android-mobile-routing-app/#mobileapplication",
+                        "name": "Route4Me Route Planner for Android",
+                        "operatingSystem": "Android 9.0 and up",
+                        "applicationCategory": "DriverApplication"
+                    }
+                }
+            ]
+        }
+    ]
+}
