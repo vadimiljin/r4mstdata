@@ -1,4 +1,4 @@
-# Route4Me Schema
+# Route4Me Schema v1.1
 
 This repository contains structured data for Route4Me pages.
 
