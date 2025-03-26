@@ -4,7 +4,7 @@ This repository contains structured data for Route4Me pages.
 
 ## Available Schema Definitions
 
-Each JSON file in this repository corresponds to a page on Route4Me's website https://route4me.com. The schema definitions help search engines better understand and display our content.
+Each JSON file in this repository corresponds to a page on Route4Me's website https://route4me.com.
 
 ### Pages
 
