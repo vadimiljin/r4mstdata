@@ -24,7 +24,7 @@ For example:
    New structured data
    </script>
    ```
-- Verify new schema is only present on designated pages
+- If there is no schema file for the page, use `ANY_PAGE_WITHOUT_SPECIFIC_SCHEMA.json`
 
 Note: The schema is 100% valid. Don't worry about few yellow (warning) messages in the Google rich data validator - these are bad suggestions, not errors that need fixing.
 
