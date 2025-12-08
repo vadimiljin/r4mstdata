@@ -1,0 +1,270 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/partner-contact/etrucks/#webpage",
+            "url": "https://route4me.com/partner-contact/etrucks/",
+            "name": "eTrucks Route Optimization Integration - Fleet Management - Route4Me",
+            "description": "Integrate eTrucks telematics with Route4Me for real-time fleet tracking, route optimization, and driver performance monitoring. Streamline last mile operations.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#thing"
+            },
+            "keywords": "eTrucks integration, Route4Me telematics, fleet tracking, route optimization, GPS vehicle tracking, driver performance, last mile delivery, fleet management, telematics gateway, vehicle monitoring, dispatch optimization, proof of delivery",
+            "significantLink": "https://route4me.com/partner-contact/etrucks/"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/partner-contact/etrucks/#thing",
+            "name": "eTrucks Telematics Integration for Route4Me",
+            "description": "Connect eTrucks telematics with Route4Me to track vehicle locations, monitor driver performance, and optimize routes in real-time. Know the location of your assets every minute of the day while measuring actual performance against planned routes. Create routes optimized to the unique aspects of your business, dispatch to drivers with a single click, and capture proof of delivery with notes, e-signatures, barcodes, and images.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#action"
+            },
+            "url": "https://route4me.com/partner-contact/etrucks/",
+            "alternateName": [
+                "eTrucks Route4Me Connector",
+                "eTrucks Fleet Route Integration",
+                "eTrucks GPS Route Optimization",
+                "Route4Me eTrucks Telematics Sync"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Telematics",
+                "https://en.wikipedia.org/wiki/Fleet_management",
+                "https://en.wikipedia.org/wiki/Vehicle_tracking_system",
+                "https://en.wikipedia.org/wiki/Route_optimization"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/partner-contact/etrucks/#action",
+            "name": "Contact for eTrucks Integration",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/partner-contact/etrucks/"
+            },
+            "description": "Fill out the contact form to set up eTrucks telematics integration with your Route4Me account",
+            "object": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/partner-contact/etrucks/#tracking",
+            "name": "Real-Time Tracking",
+            "value": "Know the location of your assets every minute of the day, monitor stop status, measure actual against plan"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/partner-contact/etrucks/#routing",
+            "name": "Route Optimization",
+            "value": "Create routes optimized to unique business aspects, set constraints, visualize on interactive maps"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/partner-contact/etrucks/#dispatch",
+            "name": "Dispatch Capabilities",
+            "value": "Dispatch routes to drivers with single click, driving directions and stop instructions on mobile apps"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/partner-contact/etrucks/#proof",
+            "name": "Proof of Delivery",
+            "value": "Capture proof of delivery with notes, e-signatures, barcodes, voice recordings, images, and videos"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/partner-contact/etrucks/#efficiency",
+            "name": "Operational Efficiency",
+            "value": "Reduce planning, driving, fuel and maintenance costs, automate route optimization for higher fleet utilization"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/partner-contact/etrucks/#featurelist",
+            "name": "eTrucks Route4Me Integration Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Track vehicle locations in real-time every minute of the day"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Monitor status of every stop with custom data recording"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Measure actual performance against planned routes"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Create routes optimized to unique business requirements"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Set constraints and visualize routes on interactive maps"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Dispatch routes to drivers with single click deployment"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Provide driving directions and stop instructions on mobile apps"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Capture proof of delivery with e-signatures and barcodes"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Record delivery details with notes, images, and videos"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Automate route optimization for higher fleet utilization"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "name": "Reduce planning, driving, fuel and maintenance costs"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "name": "Streamline route planning, dispatch, tracking and delivery management"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/partner-contact/etrucks/#help",
+            "name": "eTrucks Route4Me Integration Documentation",
+            "url": "https://support.route4me.com/category/integrations-apps/telematics-vendors/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/partner-contact/etrucks/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/partner-contact/etrucks/#primaryimage",
+            "url": "https://d9hhrg4mnvzow.cloudfront.net/try.route4me.com/partnerlogos/0ea4e689-etrucks-r4m_1000000000000000000028.png",
+            "caption": "eTrucks Telematics Integration with Route4Me Route Optimization",
+            "alternateName": "eTrucks GPS Fleet Tracking Connected to Route4Me Platform",
+            "width": 188,
+            "height": 44
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://etrucks.com/#corporation",
+            "name": "eTrucks",
+            "url": "https://etrucks.com",
+            "brand": "eTrucks"
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            ]
+        }
+    ]
+}

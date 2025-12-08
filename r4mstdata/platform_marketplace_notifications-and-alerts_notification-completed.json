@@ -1,0 +1,245 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#webpage",
+            "url": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed",
+            "name": "Completed Order Notifications - Customer Satisfaction Tracking - Route4Me",
+            "description": "Send automated SMS notifications when orders are completed, gather customer feedback through simple surveys, and track driver performance. Improve service quality with proof of completion photos and customer ratings.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#thing"
+            },
+            "keywords": "completed order notifications, customer feedback, driver ratings, delivery confirmation, customer satisfaction tracking, last-mile service quality, completion alerts, service surveys, customer experience management, field service feedback, delivery performance metrics, customer communication",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#thing",
+            "name": "Completed Order Notifications and Customer Feedback",
+            "description": "Route4Me automatically sends SMS notifications to customers when their visit is completed, with optional proof of completion photos. Customers can then complete a simple survey rating their experience using smiley faces and optional comments. The system includes customizable surveys with business logos and branding, and provides reports to filter feedback by driver/worker, date, and rating level. This helps track service quality and customer satisfaction while maintaining transparency.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#action"
+            },
+            "url": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed",
+            "alternateName": [
+                "Driver Rating and Customer Feedback System"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Customer_satisfaction",
+                "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                "https://en.wikipedia.org/wiki/Customer_relationship_management",
+                "https://en.wikipedia.org/wiki/Net_Promoter",
+                "https://en.wikipedia.org/wiki/Performance_metric"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#action",
+            "name": "Request Demo of Customer Feedback System",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact our team to learn how automated completion notifications and customer surveys can improve your service quality and customer satisfaction",
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#customization",
+            "name": "Customization Options",
+            "value": "Branded surveys with company logo, customizable colors, SMS templates"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#feedback",
+            "name": "Customer Feedback Features",
+            "value": "Smiley-face rating system, optional comments, proof of completion photos"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#analytics",
+            "name": "Performance Analytics",
+            "value": "Filter feedback by driver, date, rating level"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#business",
+            "name": "Business Benefits",
+            "value": "Track service quality, measure customer satisfaction, maintain transparency"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#featurelist",
+            "name": "Completed Order Notification Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Send automated SMS notifications when visits are completed"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Include proof of completion photos in notifications"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Collect customer feedback through smiley-face rating system"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Allow customers to leave additional comments"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Customize surveys with company branding and logo"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Filter feedback by driver, date, and satisfaction level"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Track service quality through customer ratings"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Maintain transparency with automated completion alerts"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#help",
+            "name": "Customer Feedback System Documentation",
+            "url": "https://support.route4me.com/customer-satisfaction-survey-and-driver-rating/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-completed/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-core/img/platform/operations/completed_order_customer_notifications@2x.webp",
+            "caption": "Send automated customer notifications for completed orders on last-mile delivery routes",
+            "alternateName": "Customer feedback collection and driver rating system for delivery service quality management",
+            "width": 1287,
+            "height": 642
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

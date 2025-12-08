@@ -1,0 +1,242 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/about/#webpage",
+            "url": "https://route4me.com/about",
+            "name": "About Route4Me - Last Mile Transportation Platform",
+            "description": "Route4Me helps businesses conquer last mile complexity with proven route optimization technology. Over 3 billion miles optimized across 750M destinations, delivering Carbon-neutral last mile efficiency.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/about/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/about/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/about/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/about/#thing"
+            },
+            "keywords": "last mile optimization, route optimization technology, transportation platform, carbon-neutral logistics, delivery optimization, fleet management, route planning software, logistics solution, last mile efficiency, delivery routing, transportation management, business operations, customer service optimization",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/about/#thing",
+            "name": "Route4Me Last Mile Transportation Platform",
+            "description": "Route4Me helps growing businesses conquer last mile complexity to scale efficiently and deliver trusted customer service. With over 3 billion miles optimized across 750M destinations and 30 million routes, our patented route optimization technology sets the industry standard for speed, simplicity and scalability. The Route4Me last mile transportation platform integrates mission-critical workflows to improve routing, dispatch, tracking, driver efficiency, operations and customer experience, while our analytics enable continuous improvement with strategic and real-time insights. More than 40,000 customers rely on Route4Me to increase productivity, reduce costs, and ensure customer satisfaction.",
+            "additionalType": "https://schema.org/SoftwareApplication",
+            "image": {
+                "@id": "https://route4me.com/about/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/about/#action"
+            },
+            "url": "https://route4me.com/about",
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                "https://en.wikipedia.org/wiki/Fleet_management",
+                "https://en.wikipedia.org/wiki/Route_planning_software",
+                "https://en.wikipedia.org/wiki/Vehicle_routing_problem",
+                "https://en.wikipedia.org/wiki/Logistics"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/about/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/about/#action",
+            "name": "Try Route4Me Free",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+            },
+            "description": "Start with a free 7-day unlimited trial with instant route creation, mobile access and 24/7 support",
+            "object": {
+                "@id": "https://route4me.com/about/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/about/#platform",
+            "name": "Platform Capabilities",
+            "value": "Route optimization, dispatch management, real-time tracking, driver efficiency tools, operational workflows, customer experience management"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/about/#achievements",
+            "name": "Platform Achievements",
+            "value": "3+ billion miles optimized, 750+ million destinations served, 30+ million routes planned, 40,000+ customers worldwide"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/about/#benefits",
+            "name": "Business Benefits",
+            "value": "Increased productivity, reduced operational costs, enhanced customer satisfaction, carbon-neutral optimization, scalable operations"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/about/#technology",
+            "name": "Technology Advantages",
+            "value": "Patented route optimization, industry-leading speed, platform simplicity, enterprise scalability, comprehensive integrations"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/about/#featurelist",
+            "name": "Route4Me Platform Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Patented route optimization technology for speed and efficiency"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrated mission-critical workflows for last mile operations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Advanced routing, dispatch, and tracking capabilities"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Driver efficiency tools for improved productivity"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Business operations optimization and workflow integration"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Customer experience enhancement through reliable service"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Analytics platform for continuous operational improvement"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Carbon-neutral last mile optimization for sustainability"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/about/#help",
+            "name": "Route4Me Platform Documentation",
+            "url": "https://support.route4me.com/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/about/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/about/#primaryimage",
+            "url": "https://apps-static.routeml.com/structured-data/platform_route-optimization-software.jpg",
+            "caption": "Route4Me Last Mile Transportation Platform",
+            "alternateName": "Comprehensive Route Optimization and Last Mile Logistics Management Solution",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

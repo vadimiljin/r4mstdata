@@ -1,0 +1,290 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/#webpage",
+            "url": "https://route4me.com/integrations",
+            "name": "Route4Me Integrations - Last Mile Integration Platform - Route4Me",
+            "description": "Create mission-critical business processes with Route4Me integrations. Connect your ERP, telematics, e-commerce, and business systems for automated last mile delivery workflows.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/integrations/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/integrations/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/integrations/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/#thing"
+            },
+            "keywords": "route optimization, fleet management, enterprise integration, last mile automation, ERP integration, telematics gateway, order management, API integration, SAP integration, NetSuite integration, e-commerce integration, business process automation, logistics integration, supply chain optimization",
+            "significantLink": "https://integrate.route4me.com"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/integrations/#thing",
+            "name": "Route4Me Integration Platform for Last Mile Transportation",
+            "description": "Route4Me Integration Platform creates bullet-proof, mission-critical business processes with comprehensive integrations that enable end-to-end last mile automation. Connect Route4Me to your business applications for seamless last mile delivery workflows through enterprise-grade APIs and SDKs. The platform integrates with order management systems, telematics providers, ERP systems like SAP and NetSuite, and e-commerce platforms including Shopify, WooCommerce, and Magento. Route4Me provides industry-standard, low latency, high availability RESTful APIs and SDKs that integrate cleanly into your existing technology stack. The Telematics Gateway enables advanced analytics by measuring actual performance against planned routes, while order management integrations support dynamic order insertion and capacity optimization for enhanced customer experience.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/integrations/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/integrations/#action"
+            },
+            "url": "https://route4me.com/integrations",
+            "alternateName": [
+                "Last Mile Integration Platform",
+                "Enterprise Route Optimization APIs",
+                "Business Process Automation Suite",
+                "Telematics Gateway Integration",
+                "ERP Route Planning Connector"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Enterprise_application_integration",
+                "https://en.wikipedia.org/wiki/Application_programming_interface",
+                "https://en.wikipedia.org/wiki/Enterprise_resource_planning",
+                "https://en.wikipedia.org/wiki/Telematics",
+                "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                "https://en.wikipedia.org/wiki/Supply_chain_management"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/integrations/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/integrations/#action",
+            "name": "Access Developer Portal",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://integrate.route4me.com"
+            },
+            "description": "Access Route4Me Developer Portal for complete documentation and online access to modern APIs and SDKs",
+            "object": {
+                "@id": "https://route4me.com/integrations/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/integrations/#order-management",
+            "name": "Order Management Integration",
+            "value": "Shopify, WooCommerce, Magento, dynamic order insertion, capacity optimization, seamless import/export workflows"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/integrations/#telematics",
+            "name": "Telematics Gateway Partners",
+            "value": "Geotab, Samsara, Motive, GPS Insight, Teletrac Navman, real-time vehicle tracking, performance analytics"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/integrations/#enterprise-systems",
+            "name": "Enterprise System Compatibility",
+            "value": "SAP, Oracle NetSuite, IBM systems, ERP integration, core infrastructure connectivity"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/integrations/#apis-sdks",
+            "name": "API and SDK Features",
+            "value": "RESTful APIs, industry-standard protocols, low latency, high availability, publicly documented, multiple SDK languages"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/integrations/#automation",
+            "name": "Business Process Automation",
+            "value": "End-to-end last mile automation, mission-critical workflows, supply chain optimization, compliance management"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/integrations/#featurelist",
+            "name": "Route4Me Integration Platform Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Seamless integration with order management systems for automated workflow processing"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Dynamic order insertion into pre-planned routes for capacity optimization"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics Gateway for real-time vehicle tracking and performance analytics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Enterprise-grade RESTful APIs with industry-standard protocols"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Multi-platform SDK support for comprehensive system integration"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "E-commerce platform integrations with Shopify, WooCommerce, and Magento"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "ERP system connectivity including SAP, NetSuite, and IBM platforms"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Advanced analytics comparing planned versus actual route performance"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "High availability architecture with low latency data processing"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Mission-critical business process automation for last mile delivery"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 11,
+                    "name": "Supply chain optimization through integrated workflow management"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 12,
+                    "name": "Developer portal with comprehensive documentation and online API access"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/integrations/#guide",
+            "name": "The Definitive Guide To Last Mile Route Optimization",
+            "url": "https://route4me.com/integrations",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/integrations/#thing"
+            },
+            "description": "Learn how to optimize business processes across your supply chain by integrating last mile route optimization with your eCommerce, OMS, WMS, CRM, ERP, vehicle telematics, and fleet management systems"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/integrations/#developer-portal",
+            "name": "Route4Me Developer Portal Documentation",
+            "url": "https://integrate.route4me.com",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/integrations/#thing"
+            },
+            "description": "Complete documentation and easy online access to Route4Me's modern APIs and SDKs"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/integrations/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-public/img/landing-integrations/last_mile_integration_platform.webp",
+            "caption": "Last Mile Integration Platform for Enterprise Route Optimization",
+            "alternateName": "Cloud-Based Integration Platform for Business Process Automation",
+            "width": 609,
+            "height": 610
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

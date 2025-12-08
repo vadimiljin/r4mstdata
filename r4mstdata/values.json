@@ -1,0 +1,267 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/values/#webpage",
+            "url": "https://route4me.com/values",
+            "name": "Our Values - Route4Me Core Principles - Route4Me",
+            "description": "Discover Route4Me's core values of transparency, velocity, integrity, performance, intensity, and sustainability that drive our route optimization solutions and guide our customer relationships.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/values/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/values/#primaryimage"
+            },
+            "about": {
+                "@type": "Thing",
+                "name": "Corporate Values",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Corporate_culture",
+                    "https://en.wikipedia.org/wiki/Business_ethics",
+                    "https://en.wikipedia.org/wiki/Logistics",
+                    "https://en.wikipedia.org/wiki/Transportation_management_system",
+                    "https://en.wikipedia.org/wiki/Environmental_sustainability"
+                ]
+            },
+            "keywords": "route optimization values, logistics transparency, high-velocity software, sustainable transportation, logistics integrity, high-performance routing, environmental sustainability, carbon reduction, route planning ethics, logistics team culture",
+            "significantLink": "https://route4me.com/contact",
+            "mainEntity": {
+                "@id": "https://route4me.com/values/#thing"
+            }
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/values/#thing",
+            "name": "Route4Me Corporate Values",
+            "description": "Route4Me's six core values guide our approach to business: High-Transparency for honest, upfront practices with no hidden fees; High-Velocity with dozens of software updates weekly through our decentralized team structure; High-Intensity through our worldwide teams providing 24/7 service and development; High-Performance balancing speed with consistency and reliability; High-Integrity as an independent company funded by founders and customers, not venture capital; and High-Sustainability, having prevented over 10 billion miles from being driven\u2014equivalent to planting 87 million trees\u2014as a 99% carbon neutral company.",
+            "additionalType": "https://schema.org/Corporation",
+            "image": {
+                "@id": "https://route4me.com/values/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/values/#action"
+            },
+            "url": "https://route4me.com/values",
+            "alternateName": [
+                "Route4Me Business Principles",
+                "Route Optimization Company Values",
+                "Route4Me Corporate Philosophy",
+                "Transportation Software Ethics",
+                "Sustainable Route Planning Values"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Corporate_transparency",
+                "https://en.wikipedia.org/wiki/Business_ethics",
+                "https://en.wikipedia.org/wiki/Sustainability",
+                "https://en.wikipedia.org/wiki/Carbon_neutrality",
+                "https://en.wikipedia.org/wiki/Corporate_social_responsibility"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/values/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/values/#action",
+            "name": "Learn About Route4Me",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact Route4Me to learn more about our values-driven approach to route optimization",
+            "object": {
+                "@id": "https://route4me.com/values/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#transparency",
+            "name": "High-Transparency",
+            "value": "Upfront pricing with no hidden fees, accessible technical documentation before purchase, and honest business practices"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#velocity",
+            "name": "High-Velocity",
+            "value": "Decentralized team structure enabling dozens of software upgrades weekly, rapid progress, and continuous improvement"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#intensity",
+            "name": "High-Intensity",
+            "value": "Non-traditional work structure with globally distributed teams providing 24/7 service and development, passionate employees available around the clock"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#performance",
+            "name": "High-Performance",
+            "value": "Balancing speed with reliability, using benchmarking, continuous improvements, quality-control, high-availability, and open-mindedness"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#integrity",
+            "name": "High-Integrity",
+            "value": "Independent company funded by founders and customer revenue, not venture capital; focusing on long-term relationships without high-pressure sales tactics"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/values/#sustainability",
+            "name": "High-Sustainability",
+            "value": "99% carbon neutral company that has prevented over 10 billion miles from being driven, equivalent to planting 87 million trees"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/values/#valuelist",
+            "name": "Route4Me Core Values",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "High-Transparency with upfront pricing and no hidden fees"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "High-Velocity with dozens of software upgrades every week"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "High-Intensity through globally distributed teams working 24/7"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "High-Performance balancing speed with reliability and consistency"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "High-Integrity as an independent company without venture capital funding"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "High-Sustainability as a 99% carbon neutral company"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Prevented over 10 billion miles from being driven since 2009"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Emissions savings equivalent to planting 87 million trees"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Decentralized team structure enabling immediate impact on projects"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Building technology using tried-and-true business principles"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/values/#primaryimage",
+            "url": "https://apps-static.routeml.com/structured-data/platform_route-optimization-software.jpg",
+            "caption": "Route4Me Core Values for Sustainable Route Optimization",
+            "alternateName": "Transparency, Velocity, Intensity, Performance, Integrity, and Sustainability in Logistics",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

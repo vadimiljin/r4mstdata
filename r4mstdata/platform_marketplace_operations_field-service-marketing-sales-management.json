@@ -1,0 +1,252 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#webpage",
+            "url": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management",
+            "name": "Field Service Management Software - E-Signatures, Videos, Images & Notes - Route4Me",
+            "description": "Manage field teams effectively with Route4Me's Field Operations plugin. Capture e-signatures, add notes, and attach images, videos, and audio to keep track of your team's activities in the field.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#thing"
+            },
+            "keywords": "field service management, field sales software, field marketing tools, e-signatures, mobile field operations, remote team management, field service tracking, proof of service, field operations software, route optimization, last mile delivery, mobile workforce management, field team tracking, service verification",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#thing",
+            "name": "Field Operations Plugin for Service and Sales Teams",
+            "description": "Route4Me's Field Operations plugin bridges the gap between you and your field teams, whether they're in service, marketing, or sales. With this plugin, you can monitor field activities as if you were there in person. Team members can collect electronic signatures from customers using their mobile devices, add detailed notes to routes, attach images and videos as visual evidence of completed work, and capture audio recordings\u2014all organized within your routing system. This solution eliminates paperwork, reduces disputes, improves accountability, and provides valuable documentation for quality control and training purposes.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#action"
+            },
+            "url": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management",
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Field_service_management",
+                "https://en.wikipedia.org/wiki/Electronic_signature",
+                "https://en.wikipedia.org/wiki/Mobile_workforce_management",
+                "https://en.wikipedia.org/wiki/Field_marketing",
+                "https://en.wikipedia.org/wiki/Sales_management"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#action",
+            "name": "Get Field Operations Plugin",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact our team to learn more about implementing the Field Operations plugin for your field service, marketing, or sales team",
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#documentation",
+            "name": "Documentation Features",
+            "value": "E-signature capture, notes collection, image attachments, video attachments, audio recordings"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#operational",
+            "name": "Operational Benefits",
+            "value": "Remote team monitoring, accountability tracking, proof of service, quality control, paperless operations"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#compatibility",
+            "name": "Compatibility",
+            "value": "Works with Route4Me's mobile apps on iOS and Android devices, integrates with routing system"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#industries",
+            "name": "Target Industries",
+            "value": "Field service, field sales, field marketing, delivery services, inspections, maintenance crews"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#featurelist",
+            "name": "Field Operations Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Capture electronic signatures from customers using mobile devices instead of paper"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Add detailed notes to routes while in the field"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Capture and attach images to document field activities and conditions"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Record and attach videos to provide visual evidence of completed work"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Capture audio recordings for verbal confirmation or documentation"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Monitor field team activities remotely in real-time"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Eliminate paperwork and manual documentation processes"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Reduce customer disputes with verifiable proof of service"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Improve field team accountability and performance"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Create digital records for compliance, training, and quality control"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#help",
+            "name": "Field Operations Documentation",
+            "url": "https://support.route4me.com/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/operations/field-service-marketing-sales-management/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-core/img/platform/operations/route-planning-for-field-services.png",
+            "caption": "Field Service Management Software for Remote Team Monitoring and Documentation",
+            "alternateName": "Digital tools for field team management and proof of service documentation",
+            "width": 742,
+            "height": 502
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

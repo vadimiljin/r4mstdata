@@ -1,0 +1,226 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#webpage",
+            "url": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization",
+            "name": "Real-Time Load Planning Optimization - 3D Vehicle Loading Solution - Route4Me",
+            "description": "Optimize your vehicle loading with automatic 3D staging and loading plans. Ensure efficient reverse-route order loading with proper weight distribution and balance for safer, more efficient deliveries.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#thing"
+            },
+            "keywords": "load planning optimization, vehicle loading sequence, 3D load planning, cargo optimization, reverse-route loading, vehicle weight distribution, delivery truck loading, container loading optimization, cargo space utilization, load balancing, fleet loading efficiency, last mile delivery optimization, commercial vehicle packing, logistics load planning, safe cargo loading",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#thing",
+            "name": "Real-Time Load Planning Optimization for Delivery Vehicles",
+            "description": "Route4Me is the first commercially available route optimization software that automatically generates a staging and loading plan for your route. It three-dimensionally evaluates and optimizes the loading process into your container so that items are packed in the safest and most efficient way possible, especially when handling odd-shaped items. Items are loaded in reverse-route order so that items for your first stop are in the back of your vehicle, ensuring proper balance and distribution during transport.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#action"
+            },
+            "url": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization",
+            "alternateName": [
+                "3D Load Sequencing and Optimization",
+                "Smart Vehicle Loading System"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Cargo",
+                "https://en.wikipedia.org/wiki/Bin_packing_problem",
+                "https://en.wikipedia.org/wiki/Logistics",
+                "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                "https://en.wikipedia.org/wiki/Packing_problems"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#action",
+            "name": "Request Load Planning Implementation",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact our logistics specialists to discuss implementing Real-Time Load Planning Optimization for your delivery operations",
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#loadingcapabilities",
+            "name": "Loading Capabilities",
+            "value": "Three-dimensional loading evaluation, reverse-route loading sequence, balance and distribution optimization"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#vehiclecompat",
+            "name": "Vehicle Compatibility",
+            "value": "Vehicles and containers with cargo space"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#optimization",
+            "name": "Optimization Parameters",
+            "value": "Item shape, weight distribution, balance considerations"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#integrations",
+            "name": "Workflow Integration",
+            "value": "Automatic synchronization with route optimization, real-time updates with route changes, loading instructions for warehouse staff, compatible with inventory management systems"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#featurelist",
+            "name": "Real-Time Load Planning Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Generate three-dimensional loading plans automatically after route optimization"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Plan loading sequence in reverse-route order for efficient delivery access"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Calculate ideal placement for odd-shaped items to maximize cargo space utilization"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Optimize weight distribution and balance for safer transport"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#help",
+            "name": "Real-Time Load Planning Documentation",
+            "url": "https://support.route4me.com/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/labs/real-time-load-planning-optimization/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-core/img/marketplace/real-time-load-planning-optimization.png",
+            "caption": "Intelligent Load Planning and Optimization for Delivery Vehicles and Cargo Transport",
+            "alternateName": "3D Vehicle Loading Plan with Reverse-Route Order Sequencing for Efficient Deliveries",
+            "width": 800,
+            "height": 338
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/route-optimization-roi/#webpage",
+            "url": "https://route4me.com/route-optimization-roi",
+            "name": "ROI Calculator - Route Optimization Investment Returns - Route4Me",
+            "description": "Calculate potential savings and ROI from Route4Me optimization. Estimate labor cost reductions, efficiency gains, and revenue growth for your fleet operations.",
+            "isPartOf": { "@id": "https://route4me.com/#website" },
+            "author": { "@id": "https://route4me.com/#corporation" },
+            "publisher": { "@id": "https://route4me.com/#corporation" },
+            "primaryImageOfPage": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
+            "image": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
+            "about": { "@id": "https://route4me.com/route-optimization-roi/#thing" },
+            "mainEntity": { "@id": "https://route4me.com/route-optimization-roi/#thing" },
+            "keywords": "ROI calculator, route optimization savings, fleet management ROI, transportation cost analysis, delivery efficiency calculator, logistics investment returns, route planning savings, fleet cost reduction, driver productivity calculator, business efficiency metrics",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/route-optimization-roi/#thing",
+            "name": "Route Optimization ROI Calculator",
+            "description": "Interactive calculator that estimates potential savings and return on investment from implementing Route4Me route optimization. Users input their current operational metrics including daily visits, monthly revenue, driver count, hourly pay, and work hours to calculate labor cost reductions, efficiency improvements, and potential revenue growth. The calculator provides comprehensive analysis showing daily and yearly savings, helping businesses understand the financial impact of route optimization on their fleet operations.",
+            "additionalType": "https://schema.org/SoftwareApplication",
+            "image": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
+            "potentialAction": { "@id": "https://route4me.com/route-optimization-roi/#action" },
+            "url": "https://route4me.com/route-optimization-roi",
+            "alternateName": [
+                "Fleet ROI Calculator",
+                "Route Optimization Savings Calculator"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Return_on_investment",
+                "https://en.wikipedia.org/wiki/Fleet_management",
+                "https://en.wikipedia.org/wiki/Route_optimization"
+            ],
+            "subjectOf": { "@id": "https://route4me.com/route-optimization-roi/#webpage" }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/route-optimization-roi/#action",
+            "name": "Calculate Route Optimization ROI",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/route-optimization-roi"
+            },
+            "description": "Use the interactive calculator to estimate potential savings and return on investment from route optimization",
+            "object": { "@id": "https://route4me.com/route-optimization-roi/#thing" }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/route-optimization-roi/#calculations",
+            "name": "ROI Calculations",
+            "value": "Labor cost analysis, efficiency improvements, savings per day and year, additional revenue potential"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/route-optimization-roi/#inputs",
+            "name": "Input Parameters",
+            "value": "Daily visits, monthly revenue, full-time drivers, hourly pay, hours per day"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/route-optimization-roi/#benefits",
+            "name": "Business Benefits",
+            "value": "Cost reduction analysis, efficiency measurement, investment planning, operational optimization"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/route-optimization-roi/#categories",
+            "name": "Analysis Categories",
+            "value": "Save Money, Increase Efficiency, Grow Company"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/route-optimization-roi/#compatibility",
+            "name": "Business Applications",
+            "value": "Fleet management, delivery services, field service operations, logistics planning"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/route-optimization-roi/#featurelist",
+            "name": "ROI Calculator Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Interactive cost and savings calculator for route optimization analysis"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Labor cost reduction estimates based on driver efficiency improvements"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Daily and yearly savings projections for operational planning"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Revenue impact analysis for business growth assessment"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Three-category analysis covering cost savings, efficiency, and growth"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Real-time calculation updates based on business parameter inputs"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Customizable inputs for different business sizes and operations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Driver productivity optimization calculations for workforce planning"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Comprehensive ROI metrics for investment decision support"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Fleet efficiency comparison between current and optimized operations"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/route-optimization-roi/#help",
+            "name": "Route Optimization ROI Documentation",
+            "url": "https://support.route4me.com/",
+            "author": { "@id": "https://route4me.com/#corporation" },
+            "about": { "@id": "https://route4me.com/route-optimization-roi/#thing" }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/route-optimization-roi/#primaryimage",
+            "url": "https://apps-static.routeml.com/structured-data/platform_route-optimization-software.jpg",
+            "caption": "Route4Me Last Mile Transportation Platform",
+            "alternateName": "Comprehensive Route Optimization and Last Mile Logistics Management Solution",
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+               "@type": "Person",
+               "name": "Dan Khasis",
+               "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

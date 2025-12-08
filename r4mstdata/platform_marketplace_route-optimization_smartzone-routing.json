@@ -1,0 +1,257 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#webpage",
+            "url": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing",
+            "name": "SmartZone Routing - Territory Optimization for Fleet Management - Route4Me",
+            "description": "Optimize large address databases by automatically splitting them into balanced territories. Create efficient routes within each zone for better service delivery and reduced operating costs.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#thing"
+            },
+            "keywords": "route optimization, territory management, fleet management, address database optimization, smart zones, delivery planning, sales territory planning, balanced workload, service area optimization, field service routing, territory splitting, multiple driver routing, efficient route planning, service territory mapping, route balancing",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#thing",
+            "name": "SmartZone Routing for Territory Optimization",
+            "description": "Route4Me's Smart Zones Optimization algorithm analyzes your database and splits your addresses into small zones (virtual territories) of addresses. Once you've got your zones, use Route4Me to create optimized routes with the addresses in each zone. You'll save massive amounts of time you'd normally waste and be confident that every route you create with Route4Me is as good as it can get. This solution helps you determine the best number of territories, optimal number of addresses per territory, which addresses should belong to which territory, and the best use of drivers, vehicles, and territories.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#action"
+            },
+            "url": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing",
+            "alternateName": [
+                "Territory Optimization Algorithm",
+                "Smart Territory Planning System",
+                "Balanced Zone Routing Solution"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Vehicle_routing_problem",
+                "https://en.wikipedia.org/wiki/Facility_location_problem",
+                "https://en.wikipedia.org/wiki/Territory_management",
+                "https://en.wikipedia.org/wiki/Fleet_management",
+                "https://en.wikipedia.org/wiki/Travelling_salesman_problem"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#action",
+            "name": "Request SmartZone Implementation",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact our team to discuss implementing SmartZone Routing for your organization",
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#optimization",
+            "name": "Territory Optimization Features",
+            "value": "Automatic territory splitting, manual territory count specification, optimal address distribution, balanced workload distribution"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#routing",
+            "name": "Route Planning Options",
+            "value": "Single route per territory, multiple driver route optimization, manual route specification per territory"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#constraints",
+            "name": "Route Constraint Options",
+            "value": "Max weight, max pieces, max revenue, max cube, time windows"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#usecases",
+            "name": "Primary Use Cases",
+            "value": "Sales territory planning, delivery fleet optimization, service area distribution, balanced workload planning"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#featurelist",
+            "name": "SmartZone Routing Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Split large address databases into optimized territories"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Automatically determine optimal number of territories"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Manually specify desired number of territories"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Create single routes within each territory"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Utilize multiple driver route optimization within territories"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Specify number of vehicles and routes per territory"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Apply route constraints within each territory including weight, pieces, revenue, cube and time windows"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Balance number of stops with distance and travel time constraints"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Distribute workload equally among drivers and vehicles"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Optimize large address databases for efficient routing"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#help",
+            "name": "SmartZone Routing Documentation",
+            "url": "https://support.route4me.com/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/route-optimization/smartzone-routing/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-core/img/platform/routing/route-planning-with-smart-zones.png",
+            "caption": "Field service route planning with SmartZone routing for territory optimization",
+            "alternateName": "Optimized territory management solution for efficient delivery route planning",
+            "width": 527,
+            "height": 369
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

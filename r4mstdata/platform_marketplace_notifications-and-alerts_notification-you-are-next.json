@@ -1,0 +1,298 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#webpage",
+            "url": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next",
+            "name": "Real-Time Customer Arrival Alerts - Proactive Notifications - Route4Me",
+            "description": "Automatically notify customers when your team is about to arrive at their location. Improve customer satisfaction with SMS and email notifications that include tracking URLs for real-time driver location updates.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#primaryimage"
+            },
+            "about": {
+                "@type": "Thing",
+                "name": "Customer Communication Solutions for Service Businesses",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Customer_service",
+                    "https://en.wikipedia.org/wiki/SMS",
+                    "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                    "https://en.wikipedia.org/wiki/Field_service_management",
+                    "https://en.wikipedia.org/wiki/Global_Positioning_System"
+                ]
+            },
+            "keywords": "customer arrival alerts, real-time notifications, field service alerts, last-mile delivery notifications, customer communication, GPS-based alerts, SMS notifications, email alerts, driver tracking, arrival warnings, customer service automation, field operations communication",
+            "significantLink": "https://route4me.com/contact",
+            "mainEntityOfPage": {
+                "@type": [
+                    "SoftwareApplication",
+                    "Product"
+                ],
+                "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#product",
+                "additionalType": "https://schema.org/softwareAddOn",
+                "name": "You Are Next Notification System",
+                "image": "https://apps-static.route4me.com/resources/addons/website-core/img/platform/operations/customer-notifications@2x.png",
+                "applicationCategory": "BusinessApplication",
+                "applicationSubCategory": "CustomerCommunicationSoftware",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "category": [
+                    "Route Planning Software/Customer Communication",
+                    "Transportation Software/Service Notifications",
+                    "Logistics Software/Customer Engagement",
+                    "Business Software/Service Automation"
+                ],
+                "keywords": "arrival notifications, customer SMS alerts, GPS-based notifications, next stop alerts, proactive customer service, field service communications, delivery notifications, real-time tracking, customer communication automation, service transparency, customer preparation alerts",
+                "alternateName": [
+                    "Automatic Arrival Alert System",
+                    "Customer Visit Notification System"
+                ],
+                "description": "Route4Me's cloud-based system automatically sends alerts (SMS/email) to customers when they are the next stop to be visited on an active route. Customers appreciate being kept informed and can prepare for your team member's arrival, helping avoid delays and stay on schedule. The system can send automatic SMS text messages and emails with tracking URLs so customers can see where your driver is as they approach. Alert templates are fully customizable to match your needs.",
+                "offers": {
+                    "@type": "Offer",
+                    "availability": "https://schema.org/InStock",
+                    "description": "Subscription-based pricing at $20 per user per month, includes unlimited customer notifications, customizable templates, and real-time GPS tracking links.",
+                    "seller": {
+                        "@id": "https://route4me.com/#corporation"
+                    },
+                    "priceSpecification": {
+                        "@type": "PriceSpecification",
+                        "price": "20",
+                        "priceCurrency": "USD"
+                    },
+                    "offeredBy": {
+                        "@id": "https://route4me.com/#corporation"
+                    },
+                    "potentialAction": {
+                        "@type": "Action",
+                        "target": {
+                            "@type": "EntryPoint",
+                            "urlTemplate": "https://route4me.com/contact/",
+                            "actionPlatform": "https://schema.org/DesktopWebPlatform"
+                        },
+                        "name": "Request Customer Notification System"
+                    }
+                },
+                "additionalProperty": [
+                    {
+                        "@type": "PropertyValue",
+                        "name": "Communication Features",
+                        "value": "SMS alerts, email notifications, tracking URLs, customizable templates"
+                    },
+                    {
+                        "@type": "PropertyValue",
+                        "name": "Integration Capabilities",
+                        "value": "Cloud-based system, real-time route updates"
+                    },
+                    {
+                        "@type": "PropertyValue",
+                        "name": "Customer Experience",
+                        "value": "Real-time driver location tracking, arrival preparation notices"
+                    },
+                    {
+                        "@type": "PropertyValue",
+                        "name": "Business Benefits",
+                        "value": "Avoid delays, stay on schedule, keep customers informed"
+                    },
+                    {
+                        "@type": "PropertyValue",
+                        "name": "Operational Features",
+                        "value": "Cloud-based implementation, real-time synchronization, GPS-triggered alerts, automated workflow with no manual intervention"
+                    }
+                ],
+                "featureList": [
+                    "Send automated alerts when customer is next on active route",
+                    "Deliver SMS and email notifications with tracking URLs",
+                    "Allow customers to track driver location in real-time",
+                    "Help customers prepare for service team arrival",
+                    "Keep customers informed of upcoming visits",
+                    "Customize notification templates as needed",
+                    "Maintain schedule with improved preparation",
+                    "Provide cloud-based route communications"
+                ],
+                "about": [
+                    {
+                        "@type": "Thing",
+                        "name": "SMS Messaging",
+                        "sameAs": "https://en.wikipedia.org/wiki/SMS"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Customer Service",
+                        "sameAs": "https://en.wikipedia.org/wiki/Customer_service"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "GPS Tracking",
+                        "sameAs": "https://en.wikipedia.org/wiki/Global_Positioning_System"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Field Service Management",
+                        "sameAs": "https://en.wikipedia.org/wiki/Field_service_management"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Last Mile Delivery",
+                        "sameAs": "https://en.wikipedia.org/wiki/Last_mile_(transportation)"
+                    },
+                    {
+                        "@type": "Thing",
+                        "name": "Customer Relationship Management",
+                        "sameAs": "https://en.wikipedia.org/wiki/Customer_relationship_management"
+                    }
+                ],
+                "softwareRequirements": "requires active Route4Me account and mobile app usage",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.6",
+                    "ratingCount": "25736",
+                    "bestRating": "5",
+                    "worstRating": "1",
+                    "description": "The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0). Google Play and Apple App Store contribute the largest volumes but are user-driven, with Google Play subject to strong influence from competitive manipulation and Apple App Store benefiting from a more curated environment. Capterra provides professional, business-oriented reviews and G2's highly trusted platform ensures its smaller volume has significant influence. This weighting balances volume, trust and relevance."
+                },
+                "isRelatedTo": {
+                    "@type": "SoftwareApplication",
+                    "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                    "name": "Route4Me Route Optimization Software",
+                    "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                    "applicationCategory": "BusinessApplication",
+                    "aggregateRating": {
+                        "@type": "AggregateRating",
+                        "ratingValue": "4.6",
+                        "ratingCount": "25736",
+                        "bestRating": "5",
+                        "worstRating": "1",
+                        "description": "The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0). Google Play and Apple App Store contribute the largest volumes but are user-driven, with Google Play subject to strong influence from competitive manipulation and Apple App Store benefiting from a more curated environment. Capterra provides professional, business-oriented reviews and G2's highly trusted platform ensures its smaller volume has significant influence. This weighting balances volume, trust and relevance."
+                    }
+                },
+                "provider": {
+                    "@id": "https://route4me.com/#corporation"
+                },
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/customer-notifications/"
+                },
+                "potentialAction": {
+                    "@type": "Action",
+                    "name": "Request Customer Notification System",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://route4me.com/contact"
+                    },
+                    "description": "Contact our team to add the You Are Next customer notification system to your Route4Me subscription"
+                }
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#primaryimage",
+            "url": "https://apps-static.route4me.com/resources/addons/website-core/img/platform/operations/customer-notifications@2x.png",
+            "caption": "Real-Time Customer Arrival Notifications for Field Service and Delivery Teams",
+            "alternateName": "Automated Customer Communication System with GPS-Triggered Alerts and Live Tracking",
+            "width": 1600,
+            "height": 915
+        },
+        {
+            "@type": "VideoObject",
+            "@id": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next/#video",
+            "name": "Real-Time Alerts & Notifications Using GPS Data",
+            "description": "See how Route4Me's notification system alerts customers when they are next on an active route, providing real-time updates and tracking information",
+            "thumbnailUrl": "https://embed-ssl.wistia.com/deliveries/7d70c77042f03973e067b7b87fa7ed0b61e21028.jpg",
+            "uploadDate": "2025-03-19T00:00:00+00:00",
+            "contentUrl": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next?wvideo=eaelx24bvl",
+            "embedUrl": "https://route4me.com/platform/marketplace/notifications-and-alerts/notification-you-are-next?wvideo=eaelx24bvl",
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            }
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}
