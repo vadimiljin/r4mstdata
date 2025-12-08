@@ -13,9 +13,11 @@ def prettify_json_file(file_path):
         print(f"Skipping {file_path}: {e}")
 
 def main():
-    for filename in os.listdir('.'):
-        if os.path.isfile(filename) and filename.endswith('.json'):
-            prettify_json_file(filename)
+    for root, dirs, files in os.walk('.'):
+        for filename in files:
+            if filename.endswith('.json'):
+                file_path = os.path.join(root, filename)
+                prettify_json_file(file_path)
 
 if __name__ == '__main__':
     main()
