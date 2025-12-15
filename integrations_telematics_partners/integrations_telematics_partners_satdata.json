@@ -1,1 +1,256 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/satdata/#webpage","url":"https://route4me.com/integrations/telematics/partners/satdata","name":"SatData Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/sat-data.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct"},"keywords":"SatData integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/satdata/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/satdata/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"SatData","item":"https://route4me.com/integrations/telematics/partners/satdata"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct","name":"SatData Telematics Integration for Route4Me","alternateName":"SatData Route4Me Connector","description":"Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customer Geofencing","value":"Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ","propertyID":"feature_3","url":"https://en.wikipedia.org/wiki/Geofence"},{"@type":"PropertyValue","name":"Satellite","value":"Although often used interchangeably, Satellite and GPS tracking refer to different concepts. GPS is a specific satellite-based navigation system operated by the US, consisting of 24 satellites. Satelite is a broader term that includes various satellite networks used for positioning, communication and data transmission, such as Globalstar, Iridium and Inmarsat","propertyID":"feature_32"},{"@type":"PropertyValue","name":"OBD","value":"OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.","propertyID":"feature_4","url":"https://en.wikipedia.org/wiki/On-board_diagnostics"},{"@type":"PropertyValue","name":"Emergency call (SOS button)","value":"An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.","propertyID":"feature_5","url":"https://en.wikipedia.org/wiki/ECall"},{"@type":"PropertyValue","name":"OBD GPS Tracking","value":"OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling","propertyID":"feature_12","url":"https://en.wikipedia.org/wiki/Vehicle_tracking_system"},{"@type":"PropertyValue","name":"Manual Turn-by-Turn Voice Guidance","value":"Manual turn-by-turn voice guidance is a feature where a user receives spoken instructions to navigate a route, often using a smartphone or vehicle's telematics unit. This guidance is manually initiated, meaning the user starts the navigation and the system provides step-by-step directions, including alerts for upcoming turns and deviations from the route. ","propertyID":"feature_49","url":"https://en.wikipedia.org/wiki/Turn-by-turn_navigation"},{"@type":"PropertyValue","name":"Tachograph, odometer reading","value":"Tachographs, primarily used to record driving time and distance for compliance with regulations, can be integrated with telematics systems to provide additional data and functionality, including odometer readings. This integration allows for remote access to tachograph data, including odometer readings, alongside other telematics data like vehicle location, driver behavior and engine diagnostics. ","propertyID":"feature_11","url":"https://en.wikipedia.org/wiki/Tachograph"}],"featureList":["Customer Geofencing","Satellite","OBD","Emergency call (SOS button)","OBD GPS Tracking","Manual Turn-by-Turn Voice Guidance","Tachograph, odometer reading"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/satdata/#satdataOrganization","name":"SatData","url":"http://www.satdata.es/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-SatData-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/sat-data.webp","width":256,"height":196},"description":"Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.","areaServed":[{"@type":"Country","name":"Spain"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/satdata/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/satdata",
+            "name": "SatData Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/sat-data.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct"
+            },
+            "keywords": "SatData integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/satdata/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/satdata/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "SatData",
+                    "item": "https://route4me.com/integrations/telematics/partners/satdata"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/satdata/#integrationProduct",
+            "name": "SatData Telematics Integration for Route4Me",
+            "alternateName": "SatData Route4Me Connector",
+            "description": "Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customer Geofencing",
+                    "value": "Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ",
+                    "propertyID": "feature_3",
+                    "url": "https://en.wikipedia.org/wiki/Geofence"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Satellite",
+                    "value": "Although often used interchangeably, Satellite and GPS tracking refer to different concepts. GPS is a specific satellite-based navigation system operated by the US, consisting of 24 satellites. Satelite is a broader term that includes various satellite networks used for positioning, communication and data transmission, such as Globalstar, Iridium and Inmarsat",
+                    "propertyID": "feature_32"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD",
+                    "value": "OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.",
+                    "propertyID": "feature_4",
+                    "url": "https://en.wikipedia.org/wiki/On-board_diagnostics"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Emergency call (SOS button)",
+                    "value": "An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.",
+                    "propertyID": "feature_5",
+                    "url": "https://en.wikipedia.org/wiki/ECall"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD GPS Tracking",
+                    "value": "OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling",
+                    "propertyID": "feature_12",
+                    "url": "https://en.wikipedia.org/wiki/Vehicle_tracking_system"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Manual Turn-by-Turn Voice Guidance",
+                    "value": "Manual turn-by-turn voice guidance is a feature where a user receives spoken instructions to navigate a route, often using a smartphone or vehicle's telematics unit. This guidance is manually initiated, meaning the user starts the navigation and the system provides step-by-step directions, including alerts for upcoming turns and deviations from the route. ",
+                    "propertyID": "feature_49",
+                    "url": "https://en.wikipedia.org/wiki/Turn-by-turn_navigation"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Tachograph, odometer reading",
+                    "value": "Tachographs, primarily used to record driving time and distance for compliance with regulations, can be integrated with telematics systems to provide additional data and functionality, including odometer readings. This integration allows for remote access to tachograph data, including odometer readings, alongside other telematics data like vehicle location, driver behavior and engine diagnostics. ",
+                    "propertyID": "feature_11",
+                    "url": "https://en.wikipedia.org/wiki/Tachograph"
+                }
+            ],
+            "featureList": [
+                "Customer Geofencing",
+                "Satellite",
+                "OBD",
+                "Emergency call (SOS button)",
+                "OBD GPS Tracking",
+                "Manual Turn-by-Turn Voice Guidance",
+                "Tachograph, odometer reading"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/satdata/#satdataOrganization",
+            "name": "SatData",
+            "url": "http://www.satdata.es/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-SatData-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/sat-data.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "Headquartered in Cambre, A Coru\u00f1a, Satdata offers solutions for the integral management of mobile units, which transmits over any communication network. It provides management tools for the logistics, transport, and emergencies sectors which has been developed specifically for the field of Public Administration and services dependent on government institutions. A collaborated company of Telef\u00f3nica Movistar, Satdata has CMMI certification level 3 and is a Microsoft Certified Mobility Solutions provider. It was also the first Spanish company to use GPRS technology for the transmission of online GPS data.",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Spain"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

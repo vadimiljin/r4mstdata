@@ -1,1 +1,233 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#webpage","url":"https://route4me.com/integrations/telematics/partners/tracker-uk","name":"Tracker UK Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/tracker-uk.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct"},"keywords":"Tracker UK integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"Tracker UK","item":"https://route4me.com/integrations/telematics/partners/tracker-uk"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct","name":"Tracker UK Telematics Integration for Route4Me","alternateName":"Tracker UK Route4Me Connector","description":"Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"OBD","value":"OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.","propertyID":"feature_4","url":"https://en.wikipedia.org/wiki/On-board_diagnostics"},{"@type":"PropertyValue","name":"Hardwired Non-OBD Harness","value":"A hardwired non-OBD telematics harness allows for more advanced features and deeper integration with a vehicle's electrical system compared to standard OBD (On-Board Diagnostics) port connections. These harnesses often include power, ignition and ground wires, enabling features like engine immobilisation, driver behavior monitoring and detailed diagnostics. ","propertyID":"feature_22","url":"https://en.wikipedia.org/wiki/Cable_harness"},{"@type":"PropertyValue","name":"Stolen vehicle recovery","value":"Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.","propertyID":"feature_41","url":"https://en.wikipedia.org/wiki/Motor_vehicle_theft"},{"@type":"PropertyValue","name":"OBD GPS Tracking","value":"OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling","propertyID":"feature_12","url":"https://en.wikipedia.org/wiki/Vehicle_tracking_system"}],"featureList":["OBD","Hardwired Non-OBD Harness","Stolen vehicle recovery","OBD GPS Tracking"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/tracker-uk/#tracker-ukOrganization","name":"Tracker UK","url":"http://www.tracker.co.uk/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-TrackerUK-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/tracker-uk.webp","width":256,"height":196},"description":"Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions","areaServed":[{"@type":"Country","name":"United Kingdom"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/tracker-uk",
+            "name": "Tracker UK Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/tracker-uk.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct"
+            },
+            "keywords": "Tracker UK integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Tracker UK",
+                    "item": "https://route4me.com/integrations/telematics/partners/tracker-uk"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#integrationProduct",
+            "name": "Tracker UK Telematics Integration for Route4Me",
+            "alternateName": "Tracker UK Route4Me Connector",
+            "description": "Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD",
+                    "value": "OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.",
+                    "propertyID": "feature_4",
+                    "url": "https://en.wikipedia.org/wiki/On-board_diagnostics"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Hardwired Non-OBD Harness",
+                    "value": "A hardwired non-OBD telematics harness allows for more advanced features and deeper integration with a vehicle's electrical system compared to standard OBD (On-Board Diagnostics) port connections. These harnesses often include power, ignition and ground wires, enabling features like engine immobilisation, driver behavior monitoring and detailed diagnostics. ",
+                    "propertyID": "feature_22",
+                    "url": "https://en.wikipedia.org/wiki/Cable_harness"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Stolen vehicle recovery",
+                    "value": "Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.",
+                    "propertyID": "feature_41",
+                    "url": "https://en.wikipedia.org/wiki/Motor_vehicle_theft"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD GPS Tracking",
+                    "value": "OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling",
+                    "propertyID": "feature_12",
+                    "url": "https://en.wikipedia.org/wiki/Vehicle_tracking_system"
+                }
+            ],
+            "featureList": [
+                "OBD",
+                "Hardwired Non-OBD Harness",
+                "Stolen vehicle recovery",
+                "OBD GPS Tracking"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/tracker-uk/#tracker-ukOrganization",
+            "name": "Tracker UK",
+            "url": "http://www.tracker.co.uk/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-TrackerUK-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/tracker-uk.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "Recovering stolen vehicles for people and businesses is at the heart of our services. The above table shows the value of the vehicles we have helped return to their owners, the amount of assets we have been able to recover and the amount of arrests that have been made from TRACKER solutions",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

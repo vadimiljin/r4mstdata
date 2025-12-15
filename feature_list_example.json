@@ -1,0 +1,33 @@
+{
+    "featureList": [
+        "Add and Visualize Destinations",
+        "Plan Routes Using a Map",
+        "Dispatch Routes and Track Progress",
+        "Provide Voice Guided Navigation",
+        "Send Customer Email Notifications",
+        "Capture Proof of Delivery or Service",
+        "Optimize Routes",
+        "Plan Routes from Orders",
+        "Combine Multiple Stops",
+        "Reduce Driving Time and Distance",
+        "Save on Fuel and Maintenance",
+        "Optimize Across Drivers, Vehicles and Depots",
+        "Handle Mixed Fleets",
+        "Apply Business Rules and Priorities",
+        "Increase Utilization and Productivity",
+        "Continuously Improve Your Operation",
+        "Strategic Route Simulation: Run \"what-if\" scenarios to compare costs and efficiency before committing resources",
+        "Historical Pattern Analysis: Leverage historical service data to automatically predict optimal visit frequencies and duration",
+        "Planned vs. Actual Variance Reporting: detailed auditing of route execution against original plans to identify efficiency gaps",
+        "Multi-Facility & Regional Hierarchy: Segment operations, users, and data visibility by specific depots, warehouses, or business units",
+        "Asset & Equipment Tracking: Track physical assets (containers, generators) alongside vehicles for complete field visibility",
+        "Customizable Business Terminology: Rename system entities (e.g., \"Visits\" instead of \"Stops\") to match specific industry language",
+        "Dynamic Service Time Calculation: Automatically calculate stop duration based on specific service types and quantities (e.g., installation vs. inspection)",
+        "Man-Hours & Labor Tracking: Track labor costs and hours separately from vehicle time for accurate service profitability analysis",
+        "Time Window Compliance: Automated detection and visualization of early/late arrivals against promised customer windows",
+        "ERP Data Synchronization: Sync Orders, Invoices, and Item Masters (Products) for authoritative financial alignment"
+    ]
+}
+
+
+

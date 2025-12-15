@@ -1,1 +1,281 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/ovelan/#webpage","url":"https://route4me.com/integrations/telematics/partners/ovelan","name":"Ovelan Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/ovelan.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct"},"keywords":"Ovelan integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/ovelan/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/ovelan/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"Ovelan","item":"https://route4me.com/integrations/telematics/partners/ovelan"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct","name":"Ovelan Telematics Integration for Route4Me","alternateName":"Ovelan Route4Me Connector","description":"Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customizable Reports","value":"Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ","propertyID":"feature_1","url":"https://en.wikipedia.org/wiki/Operational_reporting"},{"@type":"PropertyValue","name":"OBD","value":"OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.","propertyID":"feature_4","url":"https://en.wikipedia.org/wiki/On-board_diagnostics"},{"@type":"PropertyValue","name":"Driver's behavior monitoring","value":"A driver behavior monitoring system is a technology-driven solution that continuously tracks and analyzes how drivers operate their vehicles. By using vehicle telematics, GPS and various in-vehicle sensors, the system collects data on driving actions - speed, acceleration, braking and cornering - to provide real-time insights into driver performance.","propertyID":"feature_6","url":"https://en.wikipedia.org/wiki/Driver_monitoring_system"},{"@type":"PropertyValue","name":"Fuel usage reporting","value":"Telematics systems offer advanced fuel usage reporting features that provide detailed insights into fuel consumption, enabling fleet managers to optimize fuel efficiency and reduce costs. These features include comprehensive fuel consumption reports, real-time alerts for potential issues like fuel theft or wastage and tools for monitoring driving behavior that impacts fuel economy. ","propertyID":"feature_9","url":"https://en.wikipedia.org/wiki/Data_reporting"},{"@type":"PropertyValue","name":"Driver/vehicle scheduling","value":"Driver and vehicle scheduling features in transportation and logistics software optimize route assignments, manage driver availability and ensure efficient fleet utilization. These features streamline operations by automating tasks like route planning, vehicle assignment and shift scheduling, ultimately leading to cost savings and improved service delivery. ","propertyID":"feature_30","url":"https://en.wikipedia.org/wiki/Workforce_management"},{"@type":"PropertyValue","name":"OBD GPS Tracking","value":"OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling","propertyID":"feature_12","url":"https://en.wikipedia.org/wiki/Vehicle_tracking_system"},{"@type":"PropertyValue","name":"Android (Driver)","value":"Android (Driver) telematics features enable a smartphone to act as a telematics device, capturing and transmitting driving data to a fleet management or other platform. These features often include automatic trip detection, driving behavior analysis (speeding, braking, etc.) and real-time communication with fleet managers. Some apps even offer features like dash cam functionality, enabling video recording and storage and integration with navigation and music apps. ","propertyID":"feature_16","url":"https://en.wikipedia.org/wiki/Mobile_app"},{"@type":"PropertyValue","name":"iOS (Driver)","value":"iOS driver telematics features basically turn a smartphone into a telematics device, tracking and sending driving data to a fleet management system. They usually include things like automatic trip detection, behavior tracking (like speeding or hard braking) and real-time communication with fleet managers. Some apps even double as dash cams, letting you record video, store footage and link up with navigation or music apps.","propertyID":"feature_17","url":"https://en.wikipedia.org/wiki/Mobile_app"},{"@type":"PropertyValue","name":"Android (Management)","value":"Telematics management on Android involves using mobile applications to monitor, analyze and manage vehicle data collected by telematics devices. These tools allow for real-time tracking, driver behavior analysis, route optimization and more, enhancing fleet management and overall vehicle operations. ","propertyID":"feature_25","url":"https://en.wikipedia.org/wiki/Mobile_app"},{"@type":"PropertyValue","name":"iOS (Management)","value":"Managing telematics on iOS means using apps  to track, analyze and manage vehicle data from telematics devices. These tools give you real-time tracking, insights into driver behavior, route optimization and more - making fleet management and vehicle operations a whole lot smoother.","propertyID":"feature_26","url":"https://en.wikipedia.org/wiki/Mobile_app"}],"featureList":["Customizable Reports","OBD","Driver's behavior monitoring","Fuel usage reporting","Driver/vehicle scheduling","OBD GPS Tracking","Android (Driver)","iOS (Driver)","Android (Management)","iOS (Management)"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/ovelan/#ovelanOrganization","name":"Ovelan","url":"http://www.ovelan.es/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-Ovelan-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/ovelan.webp","width":256,"height":196},"description":"Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.","areaServed":[{"@type":"Country","name":"Spain"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/ovelan",
+            "name": "Ovelan Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/ovelan.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct"
+            },
+            "keywords": "Ovelan integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Ovelan",
+                    "item": "https://route4me.com/integrations/telematics/partners/ovelan"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#integrationProduct",
+            "name": "Ovelan Telematics Integration for Route4Me",
+            "alternateName": "Ovelan Route4Me Connector",
+            "description": "Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customizable Reports",
+                    "value": "Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ",
+                    "propertyID": "feature_1",
+                    "url": "https://en.wikipedia.org/wiki/Operational_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD",
+                    "value": "OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.",
+                    "propertyID": "feature_4",
+                    "url": "https://en.wikipedia.org/wiki/On-board_diagnostics"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Driver's behavior monitoring",
+                    "value": "A driver behavior monitoring system is a technology-driven solution that continuously tracks and analyzes how drivers operate their vehicles. By using vehicle telematics, GPS and various in-vehicle sensors, the system collects data on driving actions - speed, acceleration, braking and cornering - to provide real-time insights into driver performance.",
+                    "propertyID": "feature_6",
+                    "url": "https://en.wikipedia.org/wiki/Driver_monitoring_system"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Fuel usage reporting",
+                    "value": "Telematics systems offer advanced fuel usage reporting features that provide detailed insights into fuel consumption, enabling fleet managers to optimize fuel efficiency and reduce costs. These features include comprehensive fuel consumption reports, real-time alerts for potential issues like fuel theft or wastage and tools for monitoring driving behavior that impacts fuel economy. ",
+                    "propertyID": "feature_9",
+                    "url": "https://en.wikipedia.org/wiki/Data_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Driver/vehicle scheduling",
+                    "value": "Driver and vehicle scheduling features in transportation and logistics software optimize route assignments, manage driver availability and ensure efficient fleet utilization. These features streamline operations by automating tasks like route planning, vehicle assignment and shift scheduling, ultimately leading to cost savings and improved service delivery. ",
+                    "propertyID": "feature_30",
+                    "url": "https://en.wikipedia.org/wiki/Workforce_management"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD GPS Tracking",
+                    "value": "OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling",
+                    "propertyID": "feature_12",
+                    "url": "https://en.wikipedia.org/wiki/Vehicle_tracking_system"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Android (Driver)",
+                    "value": "Android (Driver) telematics features enable a smartphone to act as a telematics device, capturing and transmitting driving data to a fleet management or other platform. These features often include automatic trip detection, driving behavior analysis (speeding, braking, etc.) and real-time communication with fleet managers. Some apps even offer features like dash cam functionality, enabling video recording and storage and integration with navigation and music apps. ",
+                    "propertyID": "feature_16",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "iOS (Driver)",
+                    "value": "iOS driver telematics features basically turn a smartphone into a telematics device, tracking and sending driving data to a fleet management system. They usually include things like automatic trip detection, behavior tracking (like speeding or hard braking) and real-time communication with fleet managers. Some apps even double as dash cams, letting you record video, store footage and link up with navigation or music apps.",
+                    "propertyID": "feature_17",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Android (Management)",
+                    "value": "Telematics management on Android involves using mobile applications to monitor, analyze and manage vehicle data collected by telematics devices. These tools allow for real-time tracking, driver behavior analysis, route optimization and more, enhancing fleet management and overall vehicle operations. ",
+                    "propertyID": "feature_25",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "iOS (Management)",
+                    "value": "Managing telematics on iOS means using apps  to track, analyze and manage vehicle data from telematics devices. These tools give you real-time tracking, insights into driver behavior, route optimization and more - making fleet management and vehicle operations a whole lot smoother.",
+                    "propertyID": "feature_26",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                }
+            ],
+            "featureList": [
+                "Customizable Reports",
+                "OBD",
+                "Driver's behavior monitoring",
+                "Fuel usage reporting",
+                "Driver/vehicle scheduling",
+                "OBD GPS Tracking",
+                "Android (Driver)",
+                "iOS (Driver)",
+                "Android (Management)",
+                "iOS (Management)"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/ovelan/#ovelanOrganization",
+            "name": "Ovelan",
+            "url": "http://www.ovelan.es/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-Ovelan-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/ovelan.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "Developed after 11 years of research and development, Ovelan provides one of the most advanced fleet tracking platforms and offers a flexible and adaptable web-based platform from which users can control and manage their fleets. The platform does not require any software installation and can be accessed through Android and Bberry mobile devices. Users can also integrate Ovaelan\u2019s tracking platform with their existing management systems and ERP.",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Spain"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

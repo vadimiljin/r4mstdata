@@ -7,13 +7,27 @@
             "url": "https://route4me.com/platform/marketplace/route-optimization/customers",
             "name": "Customers - Customer Data Management for Route Optimization - Route4Me",
             "description": "Centralize customer network with Route4Me's Customers module. Manage customer profiles and service locations, create structured records, link multiple addresses for improved routing efficiency.",
-            "isPartOf": { "@id": "https://route4me.com/#website" },
-            "author": { "@id": "https://route4me.com/#corporation" },
-            "publisher": { "@id": "https://route4me.com/#corporation" },
-            "primaryImageOfPage": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage" },
-            "image": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage" },
-            "about": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing" },
-            "mainEntity": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing" },
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing"
+            },
             "keywords": "customer data management, route optimization, customer profiles, service locations, customer network, structured records, real-time insights, route planning, customer visibility, address management, customer organization, fleet management",
             "significantLink": "https://route4me.com/contact"
         },
@@ -23,8 +37,12 @@
             "name": "Customers Data Management for Route Optimization",
             "description": "Ensure Customer Data Visibility and Organization by centralizing your customer network with Route4Me's Customers & Customer Locations module. Easily manage customer profiles and service locations in one place, improving accuracy and efficiency. Create structured records, link multiple addresses, and access real-time insights that help you plan smarter and execute faster. Stay organized, make smarter decisions, and keep your operations running at peak performance with full visibility into your customer data and locations for consistent, high-quality service delivery.",
             "additionalType": "https://schema.org/softwareAddOn",
-            "image": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage" },
-            "potentialAction": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#action" },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#action"
+            },
             "url": "https://route4me.com/platform/marketplace/route-optimization/customers",
             "alternateName": [
                 "Customer Profile Management System",
@@ -38,7 +56,9 @@
                 "https://en.wikipedia.org/wiki/Customer_data_management",
                 "https://en.wikipedia.org/wiki/Business_process_management"
             ],
-            "subjectOf": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#webpage" }
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#webpage"
+            }
         },
         {
             "@type": "Action",
@@ -49,7 +69,9 @@
                 "urlTemplate": "https://route4me.com/contact"
             },
             "description": "Contact our team to learn more about implementing the Customers module for your organization",
-            "object": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing" }
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing"
+            }
         },
         {
             "@type": "PropertyValue",
@@ -119,8 +141,12 @@
             "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#help",
             "name": "Customer Data Management Documentation",
             "url": "https://support.route4me.com/",
-            "author": { "@id": "https://route4me.com/#corporation" },
-            "about": { "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing" }
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/route-optimization/customers/#thing"
+            }
         },
         {
             "@type": "ImageObject",
@@ -167,9 +193,9 @@
             "foundingDate": "2009",
             "legalName": "Route4Me, Inc.",
             "founder": {
-               "@type": "Person",
-               "name": "Dan Khasis",
-               "sameAs": "https://www.linkedin.com/in/dankhasis/"
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
             },
             "address": {
                 "@type": "PostalAddress",

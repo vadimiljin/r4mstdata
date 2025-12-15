@@ -1,1 +1,241 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/trackit/#webpage","url":"https://route4me.com/integrations/telematics/partners/trackit","name":"TrackIt Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/track-it.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct"},"keywords":"TrackIt integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/trackit/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/trackit/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"TrackIt","item":"https://route4me.com/integrations/telematics/partners/trackit"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct","name":"TrackIt Telematics Integration for Route4Me","alternateName":"TrackIt Route4Me Connector","description":"Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customer Geofencing","value":"Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ","propertyID":"feature_3","url":"https://en.wikipedia.org/wiki/Geofence"},{"@type":"PropertyValue","name":"Emergency call (SOS button)","value":"An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.","propertyID":"feature_5","url":"https://en.wikipedia.org/wiki/ECall"},{"@type":"PropertyValue","name":"Security services","value":"Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.","propertyID":"feature_44","url":"https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"},{"@type":"PropertyValue","name":"Stolen vehicle recovery","value":"Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.","propertyID":"feature_41","url":"https://en.wikipedia.org/wiki/Motor_vehicle_theft"},{"@type":"PropertyValue","name":"GPS Tracking","value":"Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.","propertyID":"feature_24","url":"https://en.wikipedia.org/wiki/GPS_tracking_unit"}],"featureList":["Customer Geofencing","Emergency call (SOS button)","Security services","Stolen vehicle recovery","GPS Tracking"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/trackit/#trackitOrganization","name":"TrackIt","url":"http://www.trackit.co.nz/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-TrackIt-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/track-it.webp","width":256,"height":196},"description":"Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.","areaServed":[{"@type":"Country","name":"New Zealand"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/trackit/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/trackit",
+            "name": "TrackIt Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/track-it.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct"
+            },
+            "keywords": "TrackIt integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/trackit/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/trackit/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "TrackIt",
+                    "item": "https://route4me.com/integrations/telematics/partners/trackit"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/trackit/#integrationProduct",
+            "name": "TrackIt Telematics Integration for Route4Me",
+            "alternateName": "TrackIt Route4Me Connector",
+            "description": "Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customer Geofencing",
+                    "value": "Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ",
+                    "propertyID": "feature_3",
+                    "url": "https://en.wikipedia.org/wiki/Geofence"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Emergency call (SOS button)",
+                    "value": "An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.",
+                    "propertyID": "feature_5",
+                    "url": "https://en.wikipedia.org/wiki/ECall"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Security services",
+                    "value": "Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.",
+                    "propertyID": "feature_44",
+                    "url": "https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Stolen vehicle recovery",
+                    "value": "Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.",
+                    "propertyID": "feature_41",
+                    "url": "https://en.wikipedia.org/wiki/Motor_vehicle_theft"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "GPS Tracking",
+                    "value": "Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.",
+                    "propertyID": "feature_24",
+                    "url": "https://en.wikipedia.org/wiki/GPS_tracking_unit"
+                }
+            ],
+            "featureList": [
+                "Customer Geofencing",
+                "Emergency call (SOS button)",
+                "Security services",
+                "Stolen vehicle recovery",
+                "GPS Tracking"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/trackit/#trackitOrganization",
+            "name": "TrackIt",
+            "url": "http://www.trackit.co.nz/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-TrackIt-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/track-it.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "Using the latest GPS Tracking and RFID technology, TrackIt provides a range of location based tracking, management and monitoring solutions for personal and business use.",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "New Zealand"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

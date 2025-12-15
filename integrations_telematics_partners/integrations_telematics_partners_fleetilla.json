@@ -1,1 +1,305 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#webpage","url":"https://route4me.com/integrations/telematics/partners/fleetilla","name":"Fleetilla Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/fleetilla.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct"},"keywords":"Fleetilla integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"Fleetilla","item":"https://route4me.com/integrations/telematics/partners/fleetilla"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct","name":"Fleetilla Telematics Integration for Route4Me","alternateName":"Fleetilla Route4Me Connector","description":"Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customizable Reports","value":"Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ","propertyID":"feature_1","url":"https://en.wikipedia.org/wiki/Operational_reporting"},{"@type":"PropertyValue","name":"Publicly Accessible API Documentation","value":"Benefits of using a telematics API: improve safety and productivity, while reducing life-cycle costs; optimise business operations and improve efficiency; track and monitor all your assets from one location; modern maintenance (with telematics API data provided) helps to reduce equipment failures; eliminate guesswork - accurate data enables you to make reliable decisions and calculate life-cycle costs.","propertyID":"feature_2","url":"https://en.wikipedia.org/wiki/API"},{"@type":"PropertyValue","name":"Invoice Management","value":"Functionalities for generating customer invoices, managing billing and automating complex billing processes. These features aim to streamline administrative tasks, improve efficiency and ensure accurate billing for fleet-related services. ","propertyID":"feature_40","url":"https://en.wikipedia.org/wiki/Invoice"},{"@type":"PropertyValue","name":"Security services","value":"Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.","propertyID":"feature_44","url":"https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"},{"@type":"PropertyValue","name":"Stolen vehicle recovery","value":"Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.","propertyID":"feature_41","url":"https://en.wikipedia.org/wiki/Motor_vehicle_theft"},{"@type":"PropertyValue","name":"Real-time Dashcam capture","value":"Real-time dashcam capture is increasingly becoming a valuable feature within telematics systems, enhancing fleet management and safety. By integrating video with traditional telematics data like GPS location, speed and driving behavior, it provides a comprehensive view of vehicle and driver activity, enabling proactive safety measures and efficient incident response. ","propertyID":"feature_8","url":"https://en.wikipedia.org/wiki/Dashcam"},{"@type":"PropertyValue","name":"Fuel usage reporting","value":"Telematics systems offer advanced fuel usage reporting features that provide detailed insights into fuel consumption, enabling fleet managers to optimize fuel efficiency and reduce costs. These features include comprehensive fuel consumption reports, real-time alerts for potential issues like fuel theft or wastage and tools for monitoring driving behavior that impacts fuel economy. ","propertyID":"feature_9","url":"https://en.wikipedia.org/wiki/Data_reporting"},{"@type":"PropertyValue","name":"Trip KPI dashboard","value":"A Trip KPI (Key Performance Indicator) dashboard, integrated with telematics, provides a comprehensive overview of vehicle trip data, enabling fleet managers to track and analyze key performance indicators for efficient fleet management. This dashboard offers insights into various aspects of each trip, such as fuel consumption, distance traveled, driving time, idling time and more, allowing for data-driven decision-making. ","propertyID":"feature_10","url":"https://en.wikipedia.org/wiki/Performance_indicator"},{"@type":"PropertyValue","name":"Driver/vehicle scheduling","value":"Driver and vehicle scheduling features in transportation and logistics software optimize route assignments, manage driver availability and ensure efficient fleet utilization. These features streamline operations by automating tasks like route planning, vehicle assignment and shift scheduling, ultimately leading to cost savings and improved service delivery. ","propertyID":"feature_30","url":"https://en.wikipedia.org/wiki/Workforce_management"},{"@type":"PropertyValue","name":"Android (Management)","value":"Telematics management on Android involves using mobile applications to monitor, analyze and manage vehicle data collected by telematics devices. These tools allow for real-time tracking, driver behavior analysis, route optimization and more, enhancing fleet management and overall vehicle operations. ","propertyID":"feature_25","url":"https://en.wikipedia.org/wiki/Mobile_app"},{"@type":"PropertyValue","name":"iOS (Management)","value":"Managing telematics on iOS means using apps  to track, analyze and manage vehicle data from telematics devices. These tools give you real-time tracking, insights into driver behavior, route optimization and more - making fleet management and vehicle operations a whole lot smoother.","propertyID":"feature_26","url":"https://en.wikipedia.org/wiki/Mobile_app"},{"@type":"PropertyValue","name":"RFID Driver ID","value":"RFID driver identification in telematics allows for tracking which driver is operating a vehicle by using radio-frequency identification (RFID) technology. This feature is especially useful when multiple drivers share the same vehicle, as it enables accurate tracking of vehicle usage and driver behavior. ","propertyID":"feature_27","url":"https://en.wikipedia.org/wiki/Radio-frequency_identification"},{"@type":"PropertyValue","name":"Maintenance Schedules","value":"Telematics enhances fleet maintenance by providing data-driven insights for scheduling and optimizing maintenance activities. By tracking vehicle data like mileage, engine hours and fuel consumption, telematics allows for more precise and proactive maintenance, leading to reduced downtime, improved efficiency and lower costs. ","propertyID":"feature_28","url":"https://en.wikipedia.org/wiki/Intelligent_maintenance_system"}],"featureList":["Customizable Reports","Publicly Accessible API Documentation","Invoice Management","Security services","Stolen vehicle recovery","Real-time Dashcam capture","Fuel usage reporting","Trip KPI dashboard","Driver/vehicle scheduling","Android (Management)","iOS (Management)","RFID Driver ID","Maintenance Schedules"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/fleetilla/#fleetillaOrganization","name":"Fleetilla","url":"http://www.fleetilla.com/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-Fleetilla-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/fleetilla.webp","width":256,"height":196},"description":"Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!","areaServed":[{"@type":"Country","name":"United States"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/fleetilla",
+            "name": "Fleetilla Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/fleetilla.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct"
+            },
+            "keywords": "Fleetilla integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Fleetilla",
+                    "item": "https://route4me.com/integrations/telematics/partners/fleetilla"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#integrationProduct",
+            "name": "Fleetilla Telematics Integration for Route4Me",
+            "alternateName": "Fleetilla Route4Me Connector",
+            "description": "Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customizable Reports",
+                    "value": "Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ",
+                    "propertyID": "feature_1",
+                    "url": "https://en.wikipedia.org/wiki/Operational_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Publicly Accessible API Documentation",
+                    "value": "Benefits of using a telematics API: improve safety and productivity, while reducing life-cycle costs; optimise business operations and improve efficiency; track and monitor all your assets from one location; modern maintenance (with telematics API data provided) helps to reduce equipment failures; eliminate guesswork - accurate data enables you to make reliable decisions and calculate life-cycle costs.",
+                    "propertyID": "feature_2",
+                    "url": "https://en.wikipedia.org/wiki/API"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Invoice Management",
+                    "value": "Functionalities for generating customer invoices, managing billing and automating complex billing processes. These features aim to streamline administrative tasks, improve efficiency and ensure accurate billing for fleet-related services. ",
+                    "propertyID": "feature_40",
+                    "url": "https://en.wikipedia.org/wiki/Invoice"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Security services",
+                    "value": "Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.",
+                    "propertyID": "feature_44",
+                    "url": "https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Stolen vehicle recovery",
+                    "value": "Telematics plays a crucial role in stolen vehicle recovery by providing real-time location tracking and remote control capabilities. When a vehicle is stolen, telematics systems can pinpoint its exact location, enabling swift recovery by law enforcement. These systems also offer features like remote engine shutdown and geofencing, further aiding in the recovery process and acting as a deterrent to theft.",
+                    "propertyID": "feature_41",
+                    "url": "https://en.wikipedia.org/wiki/Motor_vehicle_theft"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Real-time Dashcam capture",
+                    "value": "Real-time dashcam capture is increasingly becoming a valuable feature within telematics systems, enhancing fleet management and safety. By integrating video with traditional telematics data like GPS location, speed and driving behavior, it provides a comprehensive view of vehicle and driver activity, enabling proactive safety measures and efficient incident response. ",
+                    "propertyID": "feature_8",
+                    "url": "https://en.wikipedia.org/wiki/Dashcam"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Fuel usage reporting",
+                    "value": "Telematics systems offer advanced fuel usage reporting features that provide detailed insights into fuel consumption, enabling fleet managers to optimize fuel efficiency and reduce costs. These features include comprehensive fuel consumption reports, real-time alerts for potential issues like fuel theft or wastage and tools for monitoring driving behavior that impacts fuel economy. ",
+                    "propertyID": "feature_9",
+                    "url": "https://en.wikipedia.org/wiki/Data_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Trip KPI dashboard",
+                    "value": "A Trip KPI (Key Performance Indicator) dashboard, integrated with telematics, provides a comprehensive overview of vehicle trip data, enabling fleet managers to track and analyze key performance indicators for efficient fleet management. This dashboard offers insights into various aspects of each trip, such as fuel consumption, distance traveled, driving time, idling time and more, allowing for data-driven decision-making. ",
+                    "propertyID": "feature_10",
+                    "url": "https://en.wikipedia.org/wiki/Performance_indicator"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Driver/vehicle scheduling",
+                    "value": "Driver and vehicle scheduling features in transportation and logistics software optimize route assignments, manage driver availability and ensure efficient fleet utilization. These features streamline operations by automating tasks like route planning, vehicle assignment and shift scheduling, ultimately leading to cost savings and improved service delivery. ",
+                    "propertyID": "feature_30",
+                    "url": "https://en.wikipedia.org/wiki/Workforce_management"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Android (Management)",
+                    "value": "Telematics management on Android involves using mobile applications to monitor, analyze and manage vehicle data collected by telematics devices. These tools allow for real-time tracking, driver behavior analysis, route optimization and more, enhancing fleet management and overall vehicle operations. ",
+                    "propertyID": "feature_25",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "iOS (Management)",
+                    "value": "Managing telematics on iOS means using apps  to track, analyze and manage vehicle data from telematics devices. These tools give you real-time tracking, insights into driver behavior, route optimization and more - making fleet management and vehicle operations a whole lot smoother.",
+                    "propertyID": "feature_26",
+                    "url": "https://en.wikipedia.org/wiki/Mobile_app"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "RFID Driver ID",
+                    "value": "RFID driver identification in telematics allows for tracking which driver is operating a vehicle by using radio-frequency identification (RFID) technology. This feature is especially useful when multiple drivers share the same vehicle, as it enables accurate tracking of vehicle usage and driver behavior. ",
+                    "propertyID": "feature_27",
+                    "url": "https://en.wikipedia.org/wiki/Radio-frequency_identification"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Maintenance Schedules",
+                    "value": "Telematics enhances fleet maintenance by providing data-driven insights for scheduling and optimizing maintenance activities. By tracking vehicle data like mileage, engine hours and fuel consumption, telematics allows for more precise and proactive maintenance, leading to reduced downtime, improved efficiency and lower costs. ",
+                    "propertyID": "feature_28",
+                    "url": "https://en.wikipedia.org/wiki/Intelligent_maintenance_system"
+                }
+            ],
+            "featureList": [
+                "Customizable Reports",
+                "Publicly Accessible API Documentation",
+                "Invoice Management",
+                "Security services",
+                "Stolen vehicle recovery",
+                "Real-time Dashcam capture",
+                "Fuel usage reporting",
+                "Trip KPI dashboard",
+                "Driver/vehicle scheduling",
+                "Android (Management)",
+                "iOS (Management)",
+                "RFID Driver ID",
+                "Maintenance Schedules"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/fleetilla/#fleetillaOrganization",
+            "name": "Fleetilla",
+            "url": "http://www.fleetilla.com/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-Fleetilla-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/fleetilla.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "Industry-leading systems for GPS Fleet tracking and management, trailer asset tracking, and remote monitoring. OEM & White Label solutions also available!",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "United States"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

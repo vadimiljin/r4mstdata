@@ -7,13 +7,27 @@
             "url": "https://route4me.com/route-optimization-roi",
             "name": "ROI Calculator - Route Optimization Investment Returns - Route4Me",
             "description": "Calculate potential savings and ROI from Route4Me optimization. Estimate labor cost reductions, efficiency gains, and revenue growth for your fleet operations.",
-            "isPartOf": { "@id": "https://route4me.com/#website" },
-            "author": { "@id": "https://route4me.com/#corporation" },
-            "publisher": { "@id": "https://route4me.com/#corporation" },
-            "primaryImageOfPage": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
-            "image": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
-            "about": { "@id": "https://route4me.com/route-optimization-roi/#thing" },
-            "mainEntity": { "@id": "https://route4me.com/route-optimization-roi/#thing" },
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/route-optimization-roi/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/route-optimization-roi/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/route-optimization-roi/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/route-optimization-roi/#thing"
+            },
             "keywords": "ROI calculator, route optimization savings, fleet management ROI, transportation cost analysis, delivery efficiency calculator, logistics investment returns, route planning savings, fleet cost reduction, driver productivity calculator, business efficiency metrics",
             "significantLink": "https://route4me.com/contact"
         },
@@ -23,8 +37,12 @@
             "name": "Route Optimization ROI Calculator",
             "description": "Interactive calculator that estimates potential savings and return on investment from implementing Route4Me route optimization. Users input their current operational metrics including daily visits, monthly revenue, driver count, hourly pay, and work hours to calculate labor cost reductions, efficiency improvements, and potential revenue growth. The calculator provides comprehensive analysis showing daily and yearly savings, helping businesses understand the financial impact of route optimization on their fleet operations.",
             "additionalType": "https://schema.org/SoftwareApplication",
-            "image": { "@id": "https://route4me.com/route-optimization-roi/#primaryimage" },
-            "potentialAction": { "@id": "https://route4me.com/route-optimization-roi/#action" },
+            "image": {
+                "@id": "https://route4me.com/route-optimization-roi/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/route-optimization-roi/#action"
+            },
             "url": "https://route4me.com/route-optimization-roi",
             "alternateName": [
                 "Fleet ROI Calculator",
@@ -35,7 +53,9 @@
                 "https://en.wikipedia.org/wiki/Fleet_management",
                 "https://en.wikipedia.org/wiki/Route_optimization"
             ],
-            "subjectOf": { "@id": "https://route4me.com/route-optimization-roi/#webpage" }
+            "subjectOf": {
+                "@id": "https://route4me.com/route-optimization-roi/#webpage"
+            }
         },
         {
             "@type": "Action",
@@ -46,7 +66,9 @@
                 "urlTemplate": "https://route4me.com/route-optimization-roi"
             },
             "description": "Use the interactive calculator to estimate potential savings and return on investment from route optimization",
-            "object": { "@id": "https://route4me.com/route-optimization-roi/#thing" }
+            "object": {
+                "@id": "https://route4me.com/route-optimization-roi/#thing"
+            }
         },
         {
             "@type": "PropertyValue",
@@ -141,8 +163,12 @@
             "@id": "https://route4me.com/route-optimization-roi/#help",
             "name": "Route Optimization ROI Documentation",
             "url": "https://support.route4me.com/",
-            "author": { "@id": "https://route4me.com/#corporation" },
-            "about": { "@id": "https://route4me.com/route-optimization-roi/#thing" }
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/route-optimization-roi/#thing"
+            }
         },
         {
             "@type": "ImageObject",
@@ -189,9 +215,9 @@
             "foundingDate": "2009",
             "legalName": "Route4Me, Inc.",
             "founder": {
-               "@type": "Person",
-               "name": "Dan Khasis",
-               "sameAs": "https://www.linkedin.com/in/dankhasis/"
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
             },
             "address": {
                 "@type": "PostalAddress",

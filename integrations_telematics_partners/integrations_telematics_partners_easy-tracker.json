@@ -1,1 +1,260 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#webpage","url":"https://route4me.com/integrations/telematics/partners/easy-tracker","name":"Easy Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/easy-tracker.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct"},"keywords":"Easy Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"Easy Tracker","item":"https://route4me.com/integrations/telematics/partners/easy-tracker"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct","name":"Easy Tracker Telematics Integration for Route4Me","alternateName":"Easy Tracker Route4Me Connector","description":"With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customizable Reports","value":"Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ","propertyID":"feature_1","url":"https://en.wikipedia.org/wiki/Operational_reporting"},{"@type":"PropertyValue","name":"Satellite","value":"Although often used interchangeably, Satellite and GPS tracking refer to different concepts. GPS is a specific satellite-based navigation system operated by the US, consisting of 24 satellites. Satelite is a broader term that includes various satellite networks used for positioning, communication and data transmission, such as Globalstar, Iridium and Inmarsat","propertyID":"feature_32"},{"@type":"PropertyValue","name":"Emergency call (SOS button)","value":"An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.","propertyID":"feature_5","url":"https://en.wikipedia.org/wiki/ECall"},{"@type":"PropertyValue","name":"Driver's behavior monitoring","value":"A driver behavior monitoring system is a technology-driven solution that continuously tracks and analyzes how drivers operate their vehicles. By using vehicle telematics, GPS and various in-vehicle sensors, the system collects data on driving actions - speed, acceleration, braking and cornering - to provide real-time insights into driver performance.","propertyID":"feature_6","url":"https://en.wikipedia.org/wiki/Driver_monitoring_system"},{"@type":"PropertyValue","name":"GPS Tracking","value":"Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.","propertyID":"feature_24","url":"https://en.wikipedia.org/wiki/GPS_tracking_unit"},{"@type":"PropertyValue","name":"Traffic","value":"Telematics systems use traffic data to optimize routes, enhance safety and improve operational efficiency in transportation and logistics. By integrating real-time and predictive data, telematics can help reroute vehicles around congestion and hazardous conditions, potentially reducing travel time, fuel costs and accident rates. ","propertyID":"feature_14","url":"https://en.wikipedia.org/wiki/Traffic"},{"@type":"PropertyValue","name":"POI's","value":"In telematics, Points of Interest (POIs) are specific locations that are relevant to fleet operations, like customer locations, delivery points, or service centers. They are essentially named locations with geographic coordinates that can be used to enhance various telematics features. These features include real-time trip updates, trip management, better ETA analysis and more detailed reporting.","propertyID":"feature_33","url":"https://en.wikipedia.org/wiki/Point_of_interest"}],"featureList":["Customizable Reports","Satellite","Emergency call (SOS button)","Driver's behavior monitoring","GPS Tracking","Traffic","POI's"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/easy-tracker/#easy-trackerOrganization","name":"Easy Tracker","url":"http://www.easytracker.si/en/index.php?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-EasyTracker-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/easy-tracker.webp","width":256,"height":196},"description":"With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.","areaServed":[{"@type":"Country","name":"Croatia (Hrvatska)"},{"@type":"Country","name":"Slovenia"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/easy-tracker",
+            "name": "Easy Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/easy-tracker.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct"
+            },
+            "keywords": "Easy Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Easy Tracker",
+                    "item": "https://route4me.com/integrations/telematics/partners/easy-tracker"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#integrationProduct",
+            "name": "Easy Tracker Telematics Integration for Route4Me",
+            "alternateName": "Easy Tracker Route4Me Connector",
+            "description": "With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customizable Reports",
+                    "value": "Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ",
+                    "propertyID": "feature_1",
+                    "url": "https://en.wikipedia.org/wiki/Operational_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Satellite",
+                    "value": "Although often used interchangeably, Satellite and GPS tracking refer to different concepts. GPS is a specific satellite-based navigation system operated by the US, consisting of 24 satellites. Satelite is a broader term that includes various satellite networks used for positioning, communication and data transmission, such as Globalstar, Iridium and Inmarsat",
+                    "propertyID": "feature_32"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Emergency call (SOS button)",
+                    "value": "An SOS button in a vehicle, often linked to telematics and eCall systems, allows drivers to manually trigger an emergency call to emergency services. This feature can also be activated automatically in the event of a serious accident where airbags or seatbelt pre-tensioners are deployed. The system sends the vehicle's location and other relevant information to the emergency call center.",
+                    "propertyID": "feature_5",
+                    "url": "https://en.wikipedia.org/wiki/ECall"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Driver's behavior monitoring",
+                    "value": "A driver behavior monitoring system is a technology-driven solution that continuously tracks and analyzes how drivers operate their vehicles. By using vehicle telematics, GPS and various in-vehicle sensors, the system collects data on driving actions - speed, acceleration, braking and cornering - to provide real-time insights into driver performance.",
+                    "propertyID": "feature_6",
+                    "url": "https://en.wikipedia.org/wiki/Driver_monitoring_system"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "GPS Tracking",
+                    "value": "Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.",
+                    "propertyID": "feature_24",
+                    "url": "https://en.wikipedia.org/wiki/GPS_tracking_unit"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Traffic",
+                    "value": "Telematics systems use traffic data to optimize routes, enhance safety and improve operational efficiency in transportation and logistics. By integrating real-time and predictive data, telematics can help reroute vehicles around congestion and hazardous conditions, potentially reducing travel time, fuel costs and accident rates. ",
+                    "propertyID": "feature_14",
+                    "url": "https://en.wikipedia.org/wiki/Traffic"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "POI's",
+                    "value": "In telematics, Points of Interest (POIs) are specific locations that are relevant to fleet operations, like customer locations, delivery points, or service centers. They are essentially named locations with geographic coordinates that can be used to enhance various telematics features. These features include real-time trip updates, trip management, better ETA analysis and more detailed reporting.",
+                    "propertyID": "feature_33",
+                    "url": "https://en.wikipedia.org/wiki/Point_of_interest"
+                }
+            ],
+            "featureList": [
+                "Customizable Reports",
+                "Satellite",
+                "Emergency call (SOS button)",
+                "Driver's behavior monitoring",
+                "GPS Tracking",
+                "Traffic",
+                "POI's"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/easy-tracker/#easy-trackerOrganization",
+            "name": "Easy Tracker",
+            "url": "http://www.easytracker.si/en/index.php?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-EasyTracker-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/easy-tracker.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "With EasyTracker you can easily locate rest points of your workers, while they should do their work. System EasyTracker logs location, duration and time of every stop. Secure your vehicle against theft. Every vehicle equipt with system EasyTracker can be remotly monitored and tracked. Offer your workers security with SOS button, which immediatly calls security center. EasyTracker offers you control over points of interests. Points of interest represent pubs, warehouses, customers and many other things. On their reports you can review duration, frequency and number of visits.",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Croatia (Hrvatska)"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Slovenia"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+    {
+      "@type": "SoftwareApplication",
+      "name": "Customer Location Database & Fleet Constraint Management System",
+      "description": "Centralized database for customer rules, time windows and service types. Eliminates reliance on CSV uploads by maintaining a permanent 'System of Record' for all customer constraints and history.",
+      "applicationCategory": "DatabaseManagement",
+      "applicationSubCategory": "CustomerDataPlatform",
+      "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+      "featureList": [
+        "Permanent customer attribute storage",
+        "Dynamic constraint inheritance for routing",
+        "Multi-service type support per location",
+        "Time window and access rule management"
+      ],
+      "keywords": "customer location database, fleet constraint management, system of record, time window management, fleet customer data, logistics CRM, service type management"
+    },

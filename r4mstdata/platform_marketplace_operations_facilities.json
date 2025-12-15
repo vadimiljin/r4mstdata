@@ -1,1 +1,259 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/platform/marketplace/operations/facilities/#webpage","url":"https://route4me.com/platform/marketplace/operations/facilities","name":"Facilities Management and Route Planning - Fleet Operations - Route4Me","description":"Connect routes, users, vehicles, and assets to warehouses, depots, and service centers for smarter facility-aware route planning and operational insights.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"primaryImageOfPage":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"},"image":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"},"about":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#thing"},"mainEntity":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#thing"},"keywords":"facilities management, route planning, fleet operations, warehouse management, depot planning, service centers, operational analytics, location-based planning, facility attribution, logistics management, operational insights, fleet management","significantLink":"https://route4me.com/contact"},{"@type":"Thing","@id":"https://route4me.com/platform/marketplace/operations/facilities/#thing","name":"Facilities Management for Route Planning Operations","description":"Connect your routes, users, vehicles, and assets to locations like warehouses, depots, offices, or service centers for smarter, location-specific planning. Add, edit, and filter facilities in the dashboard to keep data organized while linking facilities to users, vehicles, orders, customers, and locations. Plan routes by assigning them to the correct facility and start or end routes at the right depots, warehouses, or service centers. View facility attribution in snapshots for streamlined analytics and performance tracking across routes, users, vehicles, orders, customers, and customer locations. Centralize operations, simplify location-based planning, and scale with confidence through comprehensive facility management integration.","additionalType":"https://schema.org/softwareAddOn","image":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"},"potentialAction":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#action"},"url":"https://route4me.com/platform/marketplace/operations/facilities","alternateName":["Facility-Aware Route Planning","Operations Location Management","Warehouse Route Optimization","Depot-Based Planning System","Location-Specific Fleet Operations"],"sameAs":["https://en.wikipedia.org/wiki/Facility_management","https://en.wikipedia.org/wiki/Warehouse_management_system","https://en.wikipedia.org/wiki/Fleet_management","https://en.wikipedia.org/wiki/Operations_management","https://en.wikipedia.org/wiki/Supply_chain_management"],"subjectOf":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#webpage"}},{"@type":"Action","@id":"https://route4me.com/platform/marketplace/operations/facilities/#action","name":"Request Facilities Management Implementation","target":{"@type":"EntryPoint","urlTemplate":"https://route4me.com/contact"},"description":"Contact our operations team to discuss implementing facilities management for your route planning operations","object":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#thing"}},{"@type":"PropertyValue","@id":"https://route4me.com/platform/marketplace/operations/facilities/#management","name":"Facility Management Features","value":"Add, edit, and filter facilities dashboard, flexible facility organization, data cleaning and organization tools"},{"@type":"PropertyValue","@id":"https://route4me.com/platform/marketplace/operations/facilities/#connectivity","name":"Integration Capabilities","value":"Link facilities to users, vehicles, orders, customers, customer locations, centralized operational context"},{"@type":"PropertyValue","@id":"https://route4me.com/platform/marketplace/operations/facilities/#planning","name":"Location-Based Planning","value":"Assign routes to correct facilities, start and end routes at depots, warehouses, service centers"},{"@type":"PropertyValue","@id":"https://route4me.com/platform/marketplace/operations/facilities/#analytics","name":"Analytics and Insights","value":"Facility attribution in snapshots, performance tracking across routes, users, vehicles, orders, customers, locations"},{"@type":"ItemList","@id":"https://route4me.com/platform/marketplace/operations/facilities/#featurelist","name":"Facilities Management Features","itemListElement":[{"@type":"ListItem","position":1,"name":"Add, edit, and filter facilities in dedicated dashboard for organized data management"},{"@type":"ListItem","position":2,"name":"Link facilities to users, vehicles, orders, customers, and customer locations"},{"@type":"ListItem","position":3,"name":"Assign routes to the correct facility for location-specific planning"},{"@type":"ListItem","position":4,"name":"Start or end routes at designated depots, warehouses, or service centers"},{"@type":"ListItem","position":5,"name":"View facility attribution in snapshots for comprehensive analytics"},{"@type":"ListItem","position":6,"name":"Track performance across routes, users, vehicles, orders, customers, and locations"},{"@type":"ListItem","position":7,"name":"Centralize operations through facility-based organizational structure"},{"@type":"ListItem","position":8,"name":"Simplify location-based planning with facility-aware route optimization"},{"@type":"ListItem","position":9,"name":"Scale operations with confidence through comprehensive facility management"},{"@type":"ListItem","position":10,"name":"Streamlined analytics and performance tracking across all operational elements"}],"itemListOrder":"Unordered"},{"@type":"CreativeWork","@id":"https://route4me.com/platform/marketplace/operations/facilities/#help","name":"Facilities Management Documentation","url":"https://support.route4me.com/facilities/","author":{"@id":"https://route4me.com/#corporation"},"about":{"@id":"https://route4me.com/platform/marketplace/operations/facilities/#thing"}},{"@type":"ImageObject","@id":"https://route4me.com/platform/marketplace/operations/facilities/#primaryimage","url":"https://apps-static.routeml.com/resources/addons/website-core/img/platform/operations/route-planning-software-facilities-logistics-management.png","caption":"Facilities Management for Fleet Operations and Route Planning","alternateName":"Location-Based Route Planning with Warehouse and Depot Management","width":2012,"height":845},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.routeml.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#webpage",
+            "url": "https://route4me.com/platform/marketplace/operations/facilities",
+            "name": "Facilities Management and Route Planning - Fleet Operations - Route4Me",
+            "description": "Connect routes, users, vehicles, and assets to warehouses, depots, and service centers for smarter facility-aware route planning and operational insights.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#thing"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#thing"
+            },
+            "keywords": "facilities management, route planning, fleet operations, warehouse management, depot planning, service centers, operational analytics, location-based planning, facility attribution, logistics management, operational insights, fleet management",
+            "significantLink": "https://route4me.com/contact"
+        },
+        {
+            "@type": "Thing",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#thing",
+            "name": "Facilities Management for Route Planning Operations",
+            "description": "Connect your routes, users, vehicles, and assets to locations like warehouses, depots, offices, or service centers for smarter, location-specific planning. Add, edit, and filter facilities in the dashboard to keep data organized while linking facilities to users, vehicles, orders, customers, and locations. Plan routes by assigning them to the correct facility and start or end routes at the right depots, warehouses, or service centers. View facility attribution in snapshots for streamlined analytics and performance tracking across routes, users, vehicles, orders, customers, and customer locations. Centralize operations, simplify location-based planning, and scale with confidence through comprehensive facility management integration.",
+            "additionalType": "https://schema.org/softwareAddOn",
+            "image": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#primaryimage"
+            },
+            "potentialAction": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#action"
+            },
+            "url": "https://route4me.com/platform/marketplace/operations/facilities",
+            "alternateName": [
+                "Facility-Aware Route Planning",
+                "Operations Location Management",
+                "Warehouse Route Optimization",
+                "Depot-Based Planning System",
+                "Location-Specific Fleet Operations"
+            ],
+            "sameAs": [
+                "https://en.wikipedia.org/wiki/Facility_management",
+                "https://en.wikipedia.org/wiki/Warehouse_management_system",
+                "https://en.wikipedia.org/wiki/Fleet_management",
+                "https://en.wikipedia.org/wiki/Operations_management",
+                "https://en.wikipedia.org/wiki/Supply_chain_management"
+            ],
+            "subjectOf": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#webpage"
+            }
+        },
+        {
+            "@type": "Action",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#action",
+            "name": "Request Facilities Management Implementation",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://route4me.com/contact"
+            },
+            "description": "Contact our operations team to discuss implementing facilities management for your route planning operations",
+            "object": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#thing"
+            }
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#management",
+            "name": "Facility Management Features",
+            "value": "Add, edit, and filter facilities dashboard, flexible facility organization, data cleaning and organization tools"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#connectivity",
+            "name": "Integration Capabilities",
+            "value": "Link facilities to users, vehicles, orders, customers, customer locations, centralized operational context"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#planning",
+            "name": "Location-Based Planning",
+            "value": "Assign routes to correct facilities, start and end routes at depots, warehouses, service centers"
+        },
+        {
+            "@type": "PropertyValue",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#analytics",
+            "name": "Analytics and Insights",
+            "value": "Facility attribution in snapshots, performance tracking across routes, users, vehicles, orders, customers, locations"
+        },
+        {
+            "@type": "ItemList",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#featurelist",
+            "name": "Facilities Management Features",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Add, edit, and filter facilities in dedicated dashboard for organized data management"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Link facilities to users, vehicles, orders, customers, and customer locations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Assign routes to the correct facility for location-specific planning"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Start or end routes at designated depots, warehouses, or service centers"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "View facility attribution in snapshots for comprehensive analytics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "name": "Track performance across routes, users, vehicles, orders, customers, and locations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "name": "Centralize operations through facility-based organizational structure"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "name": "Simplify location-based planning with facility-aware route optimization"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "name": "Scale operations with confidence through comprehensive facility management"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 10,
+                    "name": "Streamlined analytics and performance tracking across all operational elements"
+                }
+            ],
+            "itemListOrder": "Unordered"
+        },
+        {
+            "@type": "CreativeWork",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#help",
+            "name": "Facilities Management Documentation",
+            "url": "https://support.route4me.com/facilities/",
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "about": {
+                "@id": "https://route4me.com/platform/marketplace/operations/facilities/#thing"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/platform/marketplace/operations/facilities/#primaryimage",
+            "url": "https://apps-static.routeml.com/resources/addons/website-core/img/platform/operations/route-planning-software-facilities-logistics-management.png",
+            "caption": "Facilities Management for Fleet Operations and Route Planning",
+            "alternateName": "Location-Based Route Planning with Warehouse and Depot Management",
+            "width": 2012,
+            "height": 845
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.routeml.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    }
+                }
+            ]
+        }
+    ]
+}

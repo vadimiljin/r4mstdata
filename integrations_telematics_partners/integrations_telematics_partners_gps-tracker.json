@@ -1,1 +1,241 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#webpage","url":"https://route4me.com/integrations/telematics/partners/gps-tracker","name":"GPS-Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/gps-tracker.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct"},"keywords":"GPS-Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"GPS-Tracker","item":"https://route4me.com/integrations/telematics/partners/gps-tracker"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct","name":"GPS-Tracker Telematics Integration for Route4Me","alternateName":"GPS-Tracker Route4Me Connector","description":"GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Customizable Reports","value":"Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ","propertyID":"feature_1","url":"https://en.wikipedia.org/wiki/Operational_reporting"},{"@type":"PropertyValue","name":"Customer Geofencing","value":"Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ","propertyID":"feature_3","url":"https://en.wikipedia.org/wiki/Geofence"},{"@type":"PropertyValue","name":"Mapping of POI's","value":"In telematics, mapping of Points of Interest (POIs) involves integrating geographical data about specific locations (like landmarks, businesses, or facilities) into a telematics system for various purposes, including navigation, asset tracking and location-based services. This allows users to easily locate, navigate to, or monitor these points of interest. ","propertyID":"feature_39","url":"https://en.wikipedia.org/wiki/Point_of_interest"},{"@type":"PropertyValue","name":"OBD","value":"OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.","propertyID":"feature_4","url":"https://en.wikipedia.org/wiki/On-board_diagnostics"},{"@type":"PropertyValue","name":"OBD GPS Tracking","value":"OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling","propertyID":"feature_12","url":"https://en.wikipedia.org/wiki/Vehicle_tracking_system"}],"featureList":["Customizable Reports","Customer Geofencing","Mapping of POI's","OBD","OBD GPS Tracking"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/gps-tracker/#gps-trackerOrganization","name":"GPS-Tracker","url":"http://gps-tracker.com.ua/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-GPS-Tracker-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/gps-tracker.webp","width":256,"height":196},"description":"GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models","areaServed":[{"@type":"Country","name":"Ukraine"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/gps-tracker",
+            "name": "GPS-Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/gps-tracker.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct"
+            },
+            "keywords": "GPS-Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "GPS-Tracker",
+                    "item": "https://route4me.com/integrations/telematics/partners/gps-tracker"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#integrationProduct",
+            "name": "GPS-Tracker Telematics Integration for Route4Me",
+            "alternateName": "GPS-Tracker Route4Me Connector",
+            "description": "GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customizable Reports",
+                    "value": "Customizable reports in telematics allow users to tailor data analysis to their specific needs, offering insights beyond standard reports. These reports can be created based on various criteria like vehicle, trip, or driver and can include detailed information on fuel usage, driving behavior and more. This flexibility enables businesses to monitor key performance indicators (KPIs), track trends and make data-driven decisions for improved efficiency and safety. ",
+                    "propertyID": "feature_1",
+                    "url": "https://en.wikipedia.org/wiki/Operational_reporting"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Customer Geofencing",
+                    "value": "Geofencing, when integrated with telematics, allows businesses to create virtual boundaries around specific locations using GPS technology. When a vehicle equipped with telematics crosses these boundaries (enters or exits), automated actions or alerts are triggered. This technology enhances fleet management by providing real-time location updates, improving route compliance, optimizing delivery times and boosting customer service. ",
+                    "propertyID": "feature_3",
+                    "url": "https://en.wikipedia.org/wiki/Geofence"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "Mapping of POI's",
+                    "value": "In telematics, mapping of Points of Interest (POIs) involves integrating geographical data about specific locations (like landmarks, businesses, or facilities) into a telematics system for various purposes, including navigation, asset tracking and location-based services. This allows users to easily locate, navigate to, or monitor these points of interest. ",
+                    "propertyID": "feature_39",
+                    "url": "https://en.wikipedia.org/wiki/Point_of_interest"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD",
+                    "value": "OBD (On-Board Diagnostics) in telematics is a standardized vehicle diagnostic system that allows telematics devices to plug into any vehicle's OBD-II port (standard since 1996) to extract real-time engine and vehicle data like speed, fuel consumption, and diagnostic codes. This data is then combined with GPS tracking and transmitted via cellular networks to provide fleet managers with comprehensive vehicle health monitoring, driver behavior analysis, and predictive maintenance capabilities.",
+                    "propertyID": "feature_4",
+                    "url": "https://en.wikipedia.org/wiki/On-board_diagnostics"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "OBD GPS Tracking",
+                    "value": "OBD GPS tracking uses a device plugged into a vehicle's On-Board Diagnostics (OBD) port to gather and transmit vehicle data, including location, speed and engine diagnostics, via GPS and cellular networks. This data is then used for telematics applications like fleet management, driver behavior analysis and maintenance scheduling",
+                    "propertyID": "feature_12",
+                    "url": "https://en.wikipedia.org/wiki/Vehicle_tracking_system"
+                }
+            ],
+            "featureList": [
+                "Customizable Reports",
+                "Customer Geofencing",
+                "Mapping of POI's",
+                "OBD",
+                "OBD GPS Tracking"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/gps-tracker/#gps-trackerOrganization",
+            "name": "GPS-Tracker",
+            "url": "http://gps-tracker.com.ua/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-GPS-Tracker-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/gps-tracker.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "GPS Tracker is a tracking software which allows owners to track vehicle movements, respond promptly to emergencies on the road, and eliminate vehicle theft and abuse. After being founded in 2007, it now supports over 300 GPS devices. It is also available in several languages and has its own mapping service, M2M hosting, and M2M Profi work models",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "Ukraine"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}

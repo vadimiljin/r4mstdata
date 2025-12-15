@@ -1,1 +1,241 @@
-{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#webpage","url":"https://route4me.com/integrations/telematics/partners/your-tracker","name":"Your Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform","description":"At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.","isPartOf":{"@id":"https://route4me.com/#website"},"author":{"@id":"https://route4me.com/#corporation"},"publisher":{"@id":"https://route4me.com/#corporation"},"image":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/your-tracker.webp","about":{"@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct"},"mainEntity":{"@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct"},"keywords":"Your Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics","breadcrumb":{"@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Route4Me","item":"https://route4me.com"},{"@type":"ListItem","position":2,"name":"Integrations","item":"https://route4me.com/integrations"},{"@type":"ListItem","position":3,"name":"Telematics","item":"https://route4me.com/integrations/telematics"},{"@type":"ListItem","position":4,"name":"Partners","item":"https://route4me.com/integrations/telematics/partners"},{"@type":"ListItem","position":5,"name":"Your Tracker","item":"https://route4me.com/integrations/telematics/partners/your-tracker"}]},{"@type":"SoftwareApplication","@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct","name":"Your Tracker Telematics Integration for Route4Me","alternateName":"Your Tracker Route4Me Connector","description":"At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"BusinessApplication","isPartOf":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","description":"Route optimization and fleet management platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882","softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/route4me-platform-structure/#route4me-platform"}},"additionalProperty":[{"@type":"PropertyValue","name":"Security services","value":"Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.","propertyID":"feature_44","url":"https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"},{"@type":"PropertyValue","name":"GPS Tracking","value":"Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.","propertyID":"feature_24","url":"https://en.wikipedia.org/wiki/GPS_tracking_unit"}],"featureList":["Security services","GPS Tracking"],"softwareHelp":{"@type":"CreativeWork","url":"https://support.route4me.com/category/telematics-vendors/"}},{"@type":"Organization","@id":"https://route4me.com/integrations/telematics/partners/your-tracker/#your-trackerOrganization","name":"Your Tracker","url":"http://www.yourtracker.co.uk/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-YourTracker-Integration","logo":{"@type":"ImageObject","url":"https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/your-tracker.webp","width":256,"height":196},"description":"At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.","areaServed":[{"@type":"Country","name":"France"},{"@type":"Country","name":"Italy"},{"@type":"Country","name":"Luxembourg"},{"@type":"Country","name":"Netherlands"},{"@type":"Country","name":"Poland"},{"@type":"Country","name":"Spain"},{"@type":"Country","name":"United Kingdom"}]},{"@type":"Corporation","@id":"https://route4me.com/#corporation","name":"Route4Me","url":"https://route4me.com","brand":"Route4Me","logo":"https://apps-static.route4me.com/structured-data/route4me-logo.png","contactPoint":[{"@type":"ContactPoint","telephone":"+1-888-552-9045","contactType":"Sales","contactOption":"TollFree","availableLanguage":"en","description":"New Customers"},{"@type":"ContactPoint","telephone":"+1-855-768-8344","contactType":"Customer Support","contactOption":"TollFree","availableLanguage":"en","description":"Existing Customers"}],"sameAs":["https://www.facebook.com/Route4Me","https://twitter.com/route4me","https://www.linkedin.com/company/route4me","https://www.youtube.com/Route4Me","https://www.g2.com/products/route4me/reviews","https://www.capterra.com/p/149633/Route4Me/"],"foundingDate":"2009","legalName":"Route4Me, Inc.","founder":{"@type":"Person","name":"Dan Khasis","sameAs":"https://www.linkedin.com/in/dankhasis/"},"address":{"@type":"PostalAddress","streetAddress":"1010 N. Florida Avenue","addressLocality":"Tampa","addressRegion":"FL","postalCode":"33602","addressCountry":"US"}},{"@type":"WebSite","@id":"https://route4me.com/#website","name":"Route4Me Route Planning and Route Optimization Software","alternativeHeadline":"Last Mile Transportation Platform","url":"https://route4me.com","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/search?q={search_term_string}"},"query-input":"required name=search_term_string"},{"@type":"InstallAction","name":"Try Route4Me Platform Free","description":"No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support","target":{"@type":"EntryPoint","actionPlatform":"GenericWebPlatform","urlTemplate":"https://route4me.com/platform/marketplace/pricing"},"actionStatus":"PotentialActionStatus","object":{"@type":"SoftwareApplication","@id":"https://route4me.com/platform/route-optimization-software/#softwareapplication","name":"Route4Me Route Optimization Platform","operatingSystem":"Web, Windows, macOS, Linux, Android, iOS","applicationCategory":"https://www.wikidata.org/wiki/Q350882"}}]}]}
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#webpage",
+            "url": "https://route4me.com/integrations/telematics/partners/your-tracker",
+            "name": "Your Tracker Telematics Integration - Connected Vehicle Platform - Route4Me Platform",
+            "description": "At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "image": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/your-tracker.webp",
+            "about": {
+                "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct"
+            },
+            "mainEntity": {
+                "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct"
+            },
+            "keywords": "Your Tracker integration, fleet telematics, connected vehicle platform, GPS tracking, driver monitoring, route optimization, fleet management, commercial fleet solutions, Route4Me platform, vendor-agnostic telematics",
+            "breadcrumb": {
+                "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#breadcrumb"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Route4Me",
+                    "item": "https://route4me.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Integrations",
+                    "item": "https://route4me.com/integrations"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Telematics",
+                    "item": "https://route4me.com/integrations/telematics"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Partners",
+                    "item": "https://route4me.com/integrations/telematics/partners"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "name": "Your Tracker",
+                    "item": "https://route4me.com/integrations/telematics/partners/your-tracker"
+                }
+            ]
+        },
+        {
+            "@type": "SoftwareApplication",
+            "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#integrationProduct",
+            "name": "Your Tracker Telematics Integration for Route4Me",
+            "alternateName": "Your Tracker Route4Me Connector",
+            "description": "At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.",
+            "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+            "applicationCategory": "BusinessApplication",
+            "isPartOf": {
+                "@type": "SoftwareApplication",
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "name": "Route4Me Route Optimization Platform",
+                "description": "Route optimization and fleet management platform",
+                "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "softwareHelp": {
+                    "@type": "CreativeWork",
+                    "url": "https://support.route4me.com/route4me-platform-structure/#route4me-platform"
+                }
+            },
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "Security services",
+                    "value": "Security services in telematics provide protection through multiple layers including theft prevention with real-time tracking and tamper alerts, unauthorized use detection via geofencing and after-hours monitoring, rapid stolen vehicle recovery, driver protection through dashcam evidence for false claim exoneration, cybersecurity measures with data encryption and authentication, system redundancy for critical safety functions, continuous monitoring and diagnostics.",
+                    "propertyID": "feature_44",
+                    "url": "https://en.wikipedia.org/wiki/Fleet_management#Fleet_security_and_control"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "GPS Tracking",
+                    "value": "Telematics incorporates GPS tracking as a core component, enabling the monitoring of vehicle location and movement. Telematics systems use GPS data, along with other information from the vehicle's on-board diagnostics, to provide a comprehensive view of vehicle performance and driver behavior. This data is transmitted to a central system where it can be analyzed and used for fleet management, improving efficiency and enhancing safety.",
+                    "propertyID": "feature_24",
+                    "url": "https://en.wikipedia.org/wiki/GPS_tracking_unit"
+                }
+            ],
+            "featureList": [
+                "Security services",
+                "GPS Tracking"
+            ],
+            "softwareHelp": {
+                "@type": "CreativeWork",
+                "url": "https://support.route4me.com/category/telematics-vendors/"
+            }
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://route4me.com/integrations/telematics/partners/your-tracker/#your-trackerOrganization",
+            "name": "Your Tracker",
+            "url": "http://www.yourtracker.co.uk/?utm_source=Route4Me&utm_medium=Telematics4Me&utm_campaign=Route4Me-YourTracker-Integration",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/resources/addons/website-public/img/vendor-logos/your-tracker.webp",
+                "width": 256,
+                "height": 196
+            },
+            "description": "At Your Tracker we supply and fit stolen recovery vehicle tracking systems for cars, vans, caravans, plant machinery and provide fleet management van fleet tracking services.",
+            "areaServed": [
+                {
+                    "@type": "Country",
+                    "name": "France"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Italy"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Luxembourg"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Netherlands"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Poland"
+                },
+                {
+                    "@type": "Country",
+                    "name": "Spain"
+                },
+                {
+                    "@type": "Country",
+                    "name": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "@type": "Corporation",
+            "@id": "https://route4me.com/#corporation",
+            "name": "Route4Me",
+            "url": "https://route4me.com",
+            "brand": "Route4Me",
+            "logo": "https://apps-static.route4me.com/structured-data/route4me-logo.png",
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-888-552-9045",
+                    "contactType": "Sales",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "New Customers"
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+1-855-768-8344",
+                    "contactType": "Customer Support",
+                    "contactOption": "TollFree",
+                    "availableLanguage": "en",
+                    "description": "Existing Customers"
+                }
+            ],
+            "sameAs": [
+                "https://www.facebook.com/Route4Me",
+                "https://twitter.com/route4me",
+                "https://www.linkedin.com/company/route4me",
+                "https://www.youtube.com/Route4Me",
+                "https://www.g2.com/products/route4me/reviews",
+                "https://www.capterra.com/p/149633/Route4Me/"
+            ],
+            "foundingDate": "2009",
+            "legalName": "Route4Me, Inc.",
+            "founder": {
+                "@type": "Person",
+                "name": "Dan Khasis",
+                "sameAs": "https://www.linkedin.com/in/dankhasis/"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1010 N. Florida Avenue",
+                "addressLocality": "Tampa",
+                "addressRegion": "FL",
+                "postalCode": "33602",
+                "addressCountry": "US"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://route4me.com/#website",
+            "name": "Route4Me Route Planning and Route Optimization Software",
+            "alternativeHeadline": "Last Mile Transportation Platform",
+            "url": "https://route4me.com",
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/search?q={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                },
+                {
+                    "@type": "InstallAction",
+                    "name": "Try Route4Me Platform Free",
+                    "description": "No Credit Card 100% Free 7 Day Unlimited Trial with instant route creation, mobile access and 24/7 support",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "actionPlatform": "GenericWebPlatform",
+                        "urlTemplate": "https://route4me.com/platform/marketplace/pricing"
+                    },
+                    "actionStatus": "PotentialActionStatus",
+                    "object": {
+                        "@type": "SoftwareApplication",
+                        "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                        "name": "Route4Me Route Optimization Platform",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882"
+                    }
+                }
+            ]
+        }
+    ]
+}
