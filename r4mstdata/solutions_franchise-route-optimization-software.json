@@ -2,6 +2,534 @@
     "@context": "https://schema.org",
     "@graph": [
         {
+            "@type": "WebPage",
+            "@id": "https://route4me.com/solutions/franchise-route-optimization-software/#webpage",
+            "url": "https://route4me.com/solutions/franchise-route-optimization-software",
+            "name": "Franchise Route Optimization Software",
+            "description": "Route4Me Franchise Route Optimization Software enables multi-location franchise operations to standardize routing, ensure brand consistency, and scale field operations across all franchise locations.",
+            "isPartOf": {
+                "@id": "https://route4me.com/#website"
+            },
+            "author": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "publisher": {
+                "@id": "https://route4me.com/#corporation"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://route4me.com/solutions/franchise-route-optimization-software/#primaryimage"
+            },
+            "image": {
+                "@id": "https://route4me.com/solutions/franchise-route-optimization-software/#primaryimage"
+            },
+            "about": {
+                "@type": "Thing",
+                "name": "Franchise Business Operations and Multi-Location Logistics",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Franchising",
+                    "https://www.wikidata.org/wiki/Q170746",
+                    "https://en.wikipedia.org/wiki/Multi-unit_franchising",
+                    "https://en.wikipedia.org/wiki/Operational_efficiency",
+                    "https://en.wikipedia.org/wiki/Logistics",
+                    "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
+                    "https://www.wikidata.org/wiki/Q108731064",
+                    "https://www.wikidata.org/wiki/Q350882",
+                    "https://en.wikipedia.org/wiki/Business_format_franchising"
+                ]
+            },
+            "keywords": "franchise route optimization, multi-location routing, franchise fleet management, territory management, franchise logistics, brand consistency, franchise operations, multi-unit dispatch, franchise delivery software, scalable routing, franchise territory planning, standardized operations",
+            "significantLink": "https://blog.route4me.com/case-studies/",
+            "mainEntityOfPage": {
+                "@type": [
+                    "SoftwareApplication",
+                    "Product"
+                ],
+                "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
+                "url": "https://route4me.com/platform/route-optimization-software",
+                "name": "Route4Me Route Optimization Platform",
+                "image": "https://support-cdn.route4me.com/2023/07/c2749a18-web-route-editor-mobile-sync.jpg",
+                "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                "category": [
+                    "Route Planning Software/Route Optimization",
+                    "Transportation Software/Fleet Management",
+                    "Logistics Software/Last Mile Delivery",
+                    "Business Software/Transportation Management System",
+                    "Delivery Software/Delivery Route Planning",
+                    "Fleet Software/Commercial Vehicle Routing",
+                    "Franchise Software/Multi-Location Routing",
+                    "Enterprise Software/Logistics Management",
+                    "Mobile Software/Delivery Driver App"
+                ],
+                "keywords": "franchise route planner, multi-location fleet management, franchise delivery, logistics management, transportation management system, franchise tracking, territory optimization, route optimization, franchise management software, route planning software, routing software, route optimization software, franchise logistics, route optimizer, multi-unit routing software, franchise delivery software, routing app",
+                "alternateName": [
+                    "Franchise Route Planner",
+                    "Multi-Location Fleet Management",
+                    "Franchise Delivery Software",
+                    "Territory Management",
+                    "Transportation Management System",
+                    "Multi-Unit Tracking",
+                    "Franchise Operations",
+                    "Route Optimization"
+                ],
+                "description": "Route4Me is a route optimization and fleet management software designed for franchise operations of all sizes. It helps franchisors and franchisees plan, optimize and manage efficient routes across multiple locations. The platform includes tools like territory management, multi-location route planning, GPS tracking, standardized driver workflows, and centralized analytics. Built for franchise networks, service franchises and multi-unit operators worldwide, Route4Me ensures brand consistency, improves operational efficiency, cuts costs and scales seamlessly as franchise networks grow.",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.6",
+                    "ratingCount": "25736",
+                    "bestRating": "5",
+                    "worstRating": "1",
+                    "description": "The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0). Google Play and Apple App Store contribute the largest volumes but are user-driven, with Google Play subject to strong influence from competitive manipulation and Apple App Store benefiting from a more curated environment. Capterra provides professional, business-oriented reviews and G2's highly trusted platform ensures its smaller volume has significant influence. This weighting balances volume, trust and relevance."
+                },
+                "award": [
+                    "Capterra Shortlist 2025",
+                    "Software Advice Front Runners 2025",
+                    "G2 Leader Winter 2025",
+                    "G2 Users Love Us",
+                    "G2 High Performer Winter 2025",
+                    "G2 Momentum Leader Winter 2025",
+                    "GetApp Leaders 2025"
+                ],
+                "hasPart": [
+                    {
+                        "@type": "WebApplication",
+                        "@id": "https://route4me.com/platform/marketplace/#webapplication",
+                        "url": "https://route4me.com/platform/marketplace",
+                        "name": "Route4Me Route Optimization Software",
+                        "applicationCategory": "https://www.wikidata.org/wiki/Q350882",
+                        "operatingSystem": "Windows, macOS, Linux, Android, iOS",
+                        "alternateName": [
+                            "Franchise Management Software",
+                            "Route Planning Software",
+                            "Routing Software",
+                            "Route Optimization Software",
+                            "Multi-Location Routing Software",
+                            "Territory Routing Software",
+                            "Franchise Delivery Software"
+                        ],
+                        "description": "Route4Me is a cloud-based and mobile-friendly route optimization software that helps franchise businesses plan and manage routes across multiple locations. It works on multiple platforms, including web, iOS and Android. It offers features like territory management, multi-stop route planning, real-time GPS tracking, driver dispatching, route optimization algorithms and centralized performance analytics. Built for franchise networks, service businesses and multi-unit operators, Route4Me ensures operational consistency, boosts productivity, cuts fuel costs and improves service delivery across all franchise locations."
+                    },
+                    {
+                        "@type": [
+                            "MobileApplication",
+                            "Product"
+                        ],
+                        "@id": "https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication",
+                        "url": "https://route4me.com/platform/ios-mobile-routing-app",
+                        "name": "Route4Me Route Planner for iOS",
+                        "applicationCategory": "DriverApplication",
+                        "operatingSystem": "iOS 14.0 or later",
+                        "alternateName": [
+                            "Route Planner App",
+                            "Multiple Stop Route Planner",
+                            "Route Optimizer",
+                            "Route Optimization App",
+                            "Franchise Driver App",
+                            "Routing App"
+                        ],
+                        "description": "The Route4Me iOS App is a flexible mobile tool for route optimization and franchise fleet management. It offers features like multi-stop route planning, real-time GPS navigation and route optimization algorithms to make franchise deliveries, service calls and field operations more efficient. The app includes location-based services, voice-guided navigation and offline access for uninterrupted use. Fully integrated with the Route4Me web platform, it lets franchise operators sync routes across all locations and view performance analytics. Available for iPhone and iPad on the Apple App Store, it's built for franchise networks looking to standardize driver workflows and improve customer satisfaction.",
+                        "image": "https://support-cdn.route4me.com/2023/04/ced13410-route-management-access-iphone-route-planner-app-scaled.jpg",
+                        "downloadUrl": "https://apps.apple.com/us/app/route4me-route-planner/id349853799",
+                        "installUrl": "https://apps.apple.com/us/app/route4me-route-planner/id349853799",
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.6",
+                            "ratingCount": "11192",
+                            "bestRating": "5",
+                            "worstRating": "1",
+                            "description": "The weighted aggregate rating was calculated using data from multiple platforms (weighted by review count and platform credibility): Apple App Store (rating 4.6 from 10700 reviews, weight 1.0), Capterra (rating 4.4 from 390 reviews, weight 3.0) and G2 (rating 4.6 from 102 reviews, weight 4.0). Apple App Store contributes the largest number of ratings but is user-driven and less specialized, with a strong influence from competitive manipulation. Capterra offers professional insights with fewer but more credible reviews. G2, as a trusted and highly professional platform, has the highest weight in the calculation to reflect its influence."
+                        },
+                        "offers": [
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Free Plan",
+                                "price": "0",
+                                "priceCurrency": "USD",
+                                "description": "Free plan for individual drivers. Routes saved for 7 days. Plan unlimited routes with up to 10 stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stop Limit",
+                                        "value": "10 stops per route"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Route Storage",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Monthly Plan",
+                                "price": "9.99",
+                                "priceCurrency": "USD",
+                                "description": "Monthly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Free Trial Period",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stops",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Routes",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Annual Plan",
+                                "price": "79.99",
+                                "priceCurrency": "USD",
+                                "description": "Yearly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Free Trial Period",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stops",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Routes",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": [
+                            "MobileApplication",
+                            "Product"
+                        ],
+                        "@id": "https://route4me.com/platform/android-mobile-routing-app/#mobileapplication",
+                        "url": "https://route4me.com/platform/android-mobile-routing-app",
+                        "name": "Route4Me Route Planner for Android",
+                        "applicationCategory": "DriverApplication",
+                        "operatingSystem": "Android 9.0 and up",
+                        "alternateName": [
+                            "Route Planner App",
+                            "Multiple Stop Route Planner",
+                            "Route Optimizer",
+                            "Route Optimization App",
+                            "Franchise Driver App",
+                            "Routing App"
+                        ],
+                        "description": "The Route4Me Android App is a mobile tool for optimizing multi-stop routes, perfect for franchise drivers, field teams and service technicians. It comes with features like route planning, real-time GPS tracking, voice-guided navigation and the option to reorder stops for better efficiency. The app works seamlessly with Route4Me's cloud platform, so franchise networks can sync routes across all locations and check performance analytics. Even without internet, the offline feature lets drivers navigate routes. Available on the Google Play Store, it works with most Android devices, helping franchise operations standardize workflows, save time and keep customers happy.",
+                        "image": "https://support-cdn.route4me.com/2023/04/45feda3d-route-management-access-android-route-planner-app-scaled.jpg",
+                        "downloadUrl": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer",
+                        "installUrl": "https://play.google.com/store/apps/details?id=com.route4me.routeoptimizer",
+                        "aggregateRating": {
+                            "@type": "AggregateRating",
+                            "ratingValue": "4.3",
+                            "ratingCount": "15036",
+                            "bestRating": "5",
+                            "worstRating": "1",
+                            "description": "The weighted aggregate rating was calculated using data from multiple platforms (weighted by review count and platform credibility): Google Play (rating 4.3 from 14544 reviews, weight 1.0), Capterra (rating 4.4 from 390 reviews, weight 3.0) and G2 (rating 4.6 from 102 reviews, weight 4.0). Google Play contributes the largest number of ratings but is user-driven and less specialized, with a strong influence from competitive manipulation. Capterra offers professional insights with fewer but more credible reviews. G2, as a trusted and highly professional platform, has the highest weight in the calculation to reflect its influence."
+                        },
+                        "offers": [
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Free Plan",
+                                "price": "0",
+                                "priceCurrency": "USD",
+                                "description": "Free plan for individual drivers. Routes saved for 7 days. Plan unlimited routes with up to 10 stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stop Limit",
+                                        "value": "10 stops per route"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Route Storage",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Monthly Plan",
+                                "price": "9.99",
+                                "priceCurrency": "USD",
+                                "description": "Monthly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Free Trial Period",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stops",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Routes",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "Offer",
+                                "name": "Mobile Annual Plan",
+                                "price": "79.99",
+                                "priceCurrency": "USD",
+                                "description": "Yearly plan for professional drivers. 7-Day free trial. Plan unlimited routes with unlimited stops. In-app voice guided navigation.",
+                                "availability": "https://schema.org/InStock",
+                                "category": "Mobile Apps",
+                                "additionalProperty": [
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Free Trial Period",
+                                        "value": "7 days"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Stops",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Routes",
+                                        "value": "Unlimited"
+                                    },
+                                    {
+                                        "@type": "PropertyValue",
+                                        "name": "Voice Navigation",
+                                        "value": "Included"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Enterprise AI Route Planning & Scenario Optimization",
+                        "description": "Generates complex routing scenarios using natural language prompts. Allows logistics managers to simulate 'what-if' constraints for mixed fleets and varying service times without manual configuration.",
+                        "applicationCategory": "BusinessIntelligence",
+                        "applicationSubCategory": "AIOptimizationSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Natural language scenario generation for fleet routing",
+                            "What-if constraint simulation for mixed fleets",
+                            "Automated parameter tuning for route optimization",
+                            "Multi-constraint logistics modeling"
+                        ],
+                        "keywords": "AI route planning, fleet scenario optimization, natural language route optimization, what-if fleet logistics analysis, route optimization constraint simulation, enterprise route modeling"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Fleet Analytics & Historical Performance Intelligence",
+                        "description": "Analyzes historical order and telematics data to predict optimal visit frequencies and service duration. Replaces static estimates with actual performance metrics derived from GPS logs and completed manifests.",
+                        "applicationCategory": "DataAnalysis",
+                        "applicationSubCategory": "FleetAnalyticsSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Visit frequency prediction from historical data",
+                            "Service time analytics based on GPS logs",
+                            "Historical telematics data ingestion",
+                            "Performance metrics from completed manifests"
+                        ],
+                        "keywords": "fleet analytics, historical route analysis, telematics intelligence, visit frequency prediction, service duration analytics, fleet GPS performance metrics"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Route Cost Analysis & Scenario Comparison Platform",
+                        "description": "Side-by-side comparison of multiple routing scenarios. Visualizes variance in cost, distance and time between 'Draft', 'Planned' and 'Actual' execution to identify the most profitable strategy before dispatch.",
+                        "applicationCategory": "AnalyticsApplication",
+                        "applicationSubCategory": "TransportationAnalyticsSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Side-by-side route scenario comparison",
+                            "Planned vs actual variance reporting",
+                            "Cost impact analysis for fleet operations",
+                            "Distance and time variance visualization"
+                        ],
+                        "keywords": "route cost analysis, route scenario comparison, planned vs actual routing, fleet cost optimization, logistics variance reporting, transportation cost analytics, data-driven fleet strategies"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Real-Time Dispatch Center & Fleet Assignment Platform",
+                        "description": "Centralized dashboard for drag-and-drop route assignment across multiple facilities. Features 'Auto-Assign' logic to instantly distribute unassigned routes to available drivers based on skills and capacity.",
+                        "applicationCategory": "LogisticsApplication",
+                        "applicationSubCategory": "DispatchManagementSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Multi-facility route assignment dashboard",
+                            "Drag-and-drop dispatch interface",
+                            "Real-time route health monitoring",
+                            "Auto-assign based on driver skills and capacity",
+                            "Driver skill and certification matching"
+                        ],
+                        "keywords": "dispatch management, fleet assignment, real-time dispatch, multi-facility routing, auto-assign drivers, logistics command center, route assignment platform"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Driver Mobile App with Offline Mode & Proof of Delivery",
+                        "description": "Driver workflow application supporting 'Scan-to-Load' verification and offline mode. Allows drivers to capture 'Proof of Visit' (signatures, photos) and manage inventory directly from the field with automatic sync upon reconnection.",
+                        "applicationCategory": "MobileApplication",
+                        "applicationSubCategory": "DriverWorkflowApp",
+                        "operatingSystem": "iOS android",
+                        "featureList": [
+                            "Barcode scanning for scan-to-load verification",
+                            "Full offline mode with automatic sync",
+                            "Commercial-grade turn-by-turn navigation",
+                            "Proof of visit capture (signatures, photos)",
+                            "Dynamic order insertion in field",
+                            "Inventory management from mobile device"
+                        ],
+                        "keywords": "driver mobile app, proof of delivery, offline routing app, scan to load, field service mobile, last mile driver app, POD capture, mobile fleet management"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Unified Telematics & Mixed Fleet Asset Tracking Platform",
+                        "description": "Hardware-agnostic platform for tracking vehicles, trailers and heavy equipment (Assets). Ingests live telemetry (GPS, fuel, odometer) to visualize 'Planned vs. Actual' paths and detect unauthorized usage.",
+                        "applicationCategory": "IoTApplication",
+                        "applicationSubCategory": "TelematicsSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Mixed fleet tracking (vehicles, trailers, equipment)",
+                            "Odometer synchronization from telematics",
+                            "Real-time fuel consumption monitoring",
+                            "Asset health alerts and maintenance triggers",
+                            "Planned vs actual path visualization",
+                            "Unauthorized usage detection"
+                        ],
+                        "keywords": "telematics integration, fleet asset tracking, mixed fleet management, GPS fleet tracking, fuel monitoring, equipment tracking, trailer tracking, IoT fleet platform"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Customer Self-Service Portal with ETA Notifications",
+                        "description": "Self-service portal allowing end-customers to view their 'Visits' (not just Destinations) and request services. Includes automated notifications for ETA updates and service completion proofs.",
+                        "applicationCategory": "WebApplication",
+                        "applicationSubCategory": "CustomerPortalSoftware",
+                        "operatingSystem": "Web",
+                        "featureList": [
+                            "Customer self-service visit management",
+                            "Service request submission portal",
+                            "Real-time ETA notifications",
+                            "White-label brandable interface",
+                            "Proof of service delivery access"
+                        ],
+                        "keywords": "customer portal, ETA notifications, self-service logistics, delivery tracking portal, service request management, white-label customer portal, last mile visibility"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Automated Invoicing & Revenue Recognition System",
+                        "description": "Generates authoritative invoice drafts based on actual field execution. Automatically calculates 'Planned vs. Actual' revenue by comparing original orders against what was actually delivered or serviced by the driver.",
+                        "applicationCategory": "FinanceApplication",
+                        "applicationSubCategory": "LogisticsBillingSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Automated invoice generation from field data",
+                            "Revenue recognition based on actual delivery",
+                            "Service type costing calculations",
+                            "Proof of delivery linkage to invoices",
+                            "Planned vs actual revenue comparison"
+                        ],
+                        "keywords": "logistics invoicing, automated billing, revenue recognition, fleet financial system, proof of delivery billing, service costing, transportation invoicing"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Dynamic Pricing Engine for Fleet Service Costing",
+                        "description": "Enterprise-grade pricing engine that supports customer-specific price lists and dynamic service rates. Calculates costs based on 'Man-Hours', service types (e.g., installation vs. inspection) and variable vehicle costs.",
+                        "applicationCategory": "BusinessApplication",
+                        "applicationSubCategory": "PricingManagementSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Customer-specific price list management",
+                            "Variable service rate calculations",
+                            "Man-hour costing for field service",
+                            "Multi-currency pricing support",
+                            "Vehicle cost allocation per route"
+                        ],
+                        "keywords": "dynamic pricing, fleet costing, man-hour billing, service rate management, transportation pricing, logistics cost management, enterprise pricing engine"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Route Audit Trail & Compliance Tracking System",
+                        "description": "Complete data lineage tracking for compliance. Allows auditors to trace any executed route back to the specific optimization scenario or master route template that generated it, ensuring full operational accountability.",
+                        "applicationCategory": "SecurityApplication",
+                        "applicationSubCategory": "ComplianceTrackingSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Route lineage tracking from scenario to execution",
+                            "Immutable activity logs for audit",
+                            "Scenario-to-execution audit trail",
+                            "Complete change history documentation",
+                            "Compliance reporting for fleet operations"
+                        ],
+                        "keywords": "route audit trail, compliance tracking, fleet traceability, logistics audit, route lineage, operational accountability, transportation compliance, audit logging"
+                    },
+                    {
+                        "@type": "SoftwareApplication",
+                        "name": "Multi-Facility Hierarchy & Enterprise Data Governance",
+                        "description": "Advanced organizational management supporting multi-facility hierarchies and region-specific data visibility. Includes configurable data retention policies to manage storage costs and compliance requirements.",
+                        "applicationCategory": "ManagementApplication",
+                        "applicationSubCategory": "EnterpriseAdministrationSoftware",
+                        "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
+                        "featureList": [
+                            "Multi-facility organizational partitioning",
+                            "Regional hierarchy and data visibility",
+                            "Configurable data retention policies",
+                            "Role-based access control (RBAC)",
+                            "Data pruning for compliance and cost management"
+                        ],
+                        "keywords": "multi-facility management, enterprise hierarchy, fleet data governance, regional fleet management, RBAC logistics, data retention, enterprise fleet administration"
+                    }
+                ]
+            }
+        },
+        {
             "@type": "Corporation",
             "@id": "https://route4me.com/#corporation",
             "name": "Route4Me",
@@ -51,284 +579,19 @@
             }
         },
         {
-            "@type": [
-                "SoftwareApplication",
-                "Product"
-            ],
-            "@id": "https://route4me.com/platform/route-optimization-software/#softwareapplication",
-            "name": "Route4Me Route Optimization Software",
-            "description": "Route4Me is a route optimization and fleet management software that makes logistics easier for businesses of all sizes. It helps users plan, optimize and manage efficient routes for last-mile transportation, deliveries, services and field operations. The platform includes tools like multi-stop route planning, GPS tracking, route scheduling, driver management, and detailed analytics. Built for enterprises, SMBs, and logistics professionals worldwide, Route4Me improves efficiency, cuts costs, and boosts customer satisfaction",
-            "image": "https://support-cdn.route4me.com/2023/07/c2749a18-web-route-editor-mobile-sync.jpg",
-            "operatingSystem": "Windows, macOS, Linux, Android, iOS",
-            "applicationCategory": "BusinessApplication",
-            "applicationSubCategory": "https://www.wikidata.org/wiki/Q350882",
-            "provider": {
-                "@id": "https://route4me.com/#corporation"
-            },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.6",
-                "ratingCount": "25736",
-                "bestRating": "5",
-                "worstRating": "1",
-                "description": "The weighted aggregate rating was calculated using ratings from multiple platforms (weighted by review count and platform credibility): Google Play (4.3, 14544 reviews, weight 0.7), Apple App Store (4.6, 10700 reviews, weight 1.5), Capterra (4.4, 390 reviews, weight 4.0) and G2 (4.6, 102 reviews, weight 5.0)."
-            },
-            "softwareHelp": {
-                "@type": "CreativeWork",
-                "url": "https://support.route4me.com/"
-            },
-            "featureList": [
-                "Add and Visualize Destinations",
-                "Plan Routes Using a Map",
-                "Dispatch Routes and Track Progress",
-                "Provide Voice Guided Navigation",
-                "Send Customer Email Notifications",
-                "Capture Proof of Delivery or Service",
-                "Optimize Routes",
-                "Plan Routes from Orders",
-                "Combine Multiple Stops",
-                "Reduce Driving Time and Distance",
-                "Save on Fuel and Maintenance",
-                "Optimize Across Drivers, Vehicles and Depots",
-                "Handle Mixed Fleets",
-                "Apply Business Rules and Priorities",
-                "Increase Utilization and Productivity"
-            ],
-            "about": [
-                {
-                    "@type": "Thing",
-                    "name": "Route planner",
-                    "sameAs": "https://en.wikipedia.org/wiki/Journey_planner"
-                },
-                {
-                    "@type": "Thing",
-                    "name": "Fleet Management",
-                    "sameAs": [
-                        "https://en.wikipedia.org/wiki/Fleet_management",
-                        "https://www.wikidata.org/wiki/Q1430291"
-                    ]
-                },
-                {
-                    "@type": "Thing",
-                    "name": "Last mile delivery",
-                    "sameAs": "https://en.wikipedia.org/wiki/Last_mile_(transportation)"
-                },
-                {
-                    "@type": "Thing",
-                    "name": "Transportation management system",
-                    "sameAs": [
-                        "https://en.wikipedia.org/wiki/Transportation_management_system",
-                        "https://www.wikidata.org/wiki/Q1059251"
-                    ]
-                }
-            ],
-            "category": [
-                "Route Planning Software/Route Optimization",
-                "Transportation Software/Fleet Management",
-                "Logistics Software/Last Mile Delivery",
-                "Business Software/Transportation Management System"
-            ],
-            "hasPart": [
-                {
-                    "@type": "WebApplication",
-                    "@id": "https://route4me.com/platform/marketplace/#webapplication",
-                    "name": "Route4Me Route Optimization Software",
-                    "applicationCategory": "BusinessApplication",
-                    "operatingSystem": "Windows, macOS, Linux, Android, iOS",
-                    "description": "Route4Me is a cloud-based and mobile-friendly route optimization software that helps businesses plan and manage routes for last-mile delivery, field operations and logistics. It works on multiple platforms, including web, iOS and Android. It offers features like multi-stop route planning, real-time GPS tracking, driver dispatching, route optimization algorithms and performance analytics. Built for industries like transportation, logistics, delivery and field services, Route4Me boosts productivity, cuts fuel costs, and improves delivery times. Its scalable API and integrations with popular CRM, ERP and telematics systems make it a flexible choice for businesses of all sizes."
-                },
-                {
-                    "@type": "MobileApplication",
-                    "@id": "https://route4me.com/platform/ios-mobile-routing-app/#mobileapplication",
-                    "name": "Route4Me Route Planner for iOS",
-                    "applicationCategory": "DriverApplication",
-                    "operatingSystem": "iOS 14.0 or later",
-                    "description": "The Route4Me iOS App is a flexible mobile tool for route optimization and fleet management. It offers features like multi-stop route planning, real-time GPS navigation and route optimization algorithms to make last-mile deliveries, logistics, and field service operations more efficient. The app includes location-based services, voice-guided navigation and offline access for uninterrupted use. Fully integrated with the Route4Me web platform, it lets users sync routes and view performance analytics. Available for iPhone and iPad on the Apple App Store, it's built for businesses and individuals looking to boost productivity, save money and improve customer satisfaction."
-                },
-                {
-                    "@type": "MobileApplication",
-                    "@id": "https://route4me.com/platform/android-mobile-routing-app/#mobileapplication",
-                    "name": "Route4Me Route Planner for Android",
-                    "applicationCategory": "DriverApplication",
-                    "operatingSystem": "Android 9.0 and up",
-                    "description": "The Route4Me Android App is a mobile tool for optimizing multi-stop routes, perfect for delivery drivers, field teams and logistics pros. It comes with features like route planning, real-time GPS tracking, voice-guided navigation and the option to reorder stops for better efficiency. The app works seamlessly with Route4Me's cloud platform, so you can sync routes across devices and check performance analytics. Even without internet, the offline feature lets you navigate routes. Available on the Google Play Store, it works with most Android devices, helping businesses save time, cut costs and keep customers happy."
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Enterprise AI Route Planning & Scenario Optimization",
-                    "description": "Generates complex routing scenarios using natural language prompts. Allows logistics managers to simulate 'what-if' constraints for mixed fleets and varying service times without manual configuration.",
-                    "applicationCategory": "BusinessIntelligence",
-                    "applicationSubCategory": "AIOptimizationSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Natural language scenario generation for fleet routing",
-                        "What-if constraint simulation for mixed fleets",
-                        "Automated parameter tuning for route optimization",
-                        "Multi-constraint logistics modeling"
-                    ],
-                    "keywords": "AI route planning, fleet scenario optimization, natural language route optimization, what-if fleet logistics analysis, route optimization constraint simulation, enterprise route modeling"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Fleet Analytics & Historical Performance Intelligence",
-                    "description": "Analyzes historical order and telematics data to predict optimal visit frequencies and service duration. Replaces static estimates with actual performance metrics derived from GPS logs and completed manifests.",
-                    "applicationCategory": "DataAnalysis",
-                    "applicationSubCategory": "FleetAnalyticsSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Visit frequency prediction from historical data",
-                        "Service time analytics based on GPS logs",
-                        "Historical telematics data ingestion",
-                        "Performance metrics from completed manifests"
-                    ],
-                    "keywords": "fleet analytics, historical route analysis, telematics intelligence, visit frequency prediction, service duration analytics, fleet GPS performance metrics"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Route Cost Analysis & Scenario Comparison Platform",
-                    "description": "Side-by-side comparison of multiple routing scenarios. Visualizes variance in cost, distance and time between 'Draft', 'Planned' and 'Actual' execution to identify the most profitable strategy before dispatch.",
-                    "applicationCategory": "AnalyticsApplication",
-                    "applicationSubCategory": "TransportationAnalyticsSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Side-by-side route scenario comparison",
-                        "Planned vs actual variance reporting",
-                        "Cost impact analysis for fleet operations",
-                        "Distance and time variance visualization"
-                    ],
-                    "keywords": "route cost analysis, route scenario comparison, planned vs actual routing, fleet cost optimization, logistics variance reporting, transportation cost analytics, data-driven fleet strategies"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Real-Time Dispatch Center & Fleet Assignment Platform",
-                    "description": "Centralized dashboard for drag-and-drop route assignment across multiple facilities. Features 'Auto-Assign' logic to instantly distribute unassigned routes to available drivers based on skills and capacity.",
-                    "applicationCategory": "LogisticsApplication",
-                    "applicationSubCategory": "DispatchManagementSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Multi-facility route assignment dashboard",
-                        "Drag-and-drop dispatch interface",
-                        "Real-time route health monitoring",
-                        "Auto-assign based on driver skills and capacity",
-                        "Driver skill and certification matching"
-                    ],
-                    "keywords": "dispatch management, fleet assignment, real-time dispatch, multi-facility routing, auto-assign drivers, logistics command center, route assignment platform"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Driver Mobile App with Offline Mode & Proof of Delivery",
-                    "description": "Driver workflow application supporting 'Scan-to-Load' verification and offline mode. Allows drivers to capture 'Proof of Visit' (signatures, photos) and manage inventory directly from the field with automatic sync upon reconnection.",
-                    "applicationCategory": "MobileApplication",
-                    "applicationSubCategory": "DriverWorkflowApp",
-                    "operatingSystem": "iOS android",
-                    "featureList": [
-                        "Barcode scanning for scan-to-load verification",
-                        "Full offline mode with automatic sync",
-                        "Commercial-grade turn-by-turn navigation",
-                        "Proof of visit capture (signatures, photos)",
-                        "Dynamic order insertion in field",
-                        "Inventory management from mobile device"
-                    ],
-                    "keywords": "driver mobile app, proof of delivery, offline routing app, scan to load, field service mobile, last mile driver app, POD capture, mobile fleet management"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Unified Telematics & Mixed Fleet Asset Tracking Platform",
-                    "description": "Hardware-agnostic platform for tracking vehicles, trailers and heavy equipment (Assets). Ingests live telemetry (GPS, fuel, odometer) to visualize 'Planned vs. Actual' paths and detect unauthorized usage.",
-                    "applicationCategory": "IoTApplication",
-                    "applicationSubCategory": "TelematicsSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Mixed fleet tracking (vehicles, trailers, equipment)",
-                        "Odometer synchronization from telematics",
-                        "Real-time fuel consumption monitoring",
-                        "Asset health alerts and maintenance triggers",
-                        "Planned vs actual path visualization",
-                        "Unauthorized usage detection"
-                    ],
-                    "keywords": "telematics integration, fleet asset tracking, mixed fleet management, GPS fleet tracking, fuel monitoring, equipment tracking, trailer tracking, IoT fleet platform"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Customer Self-Service Portal with ETA Notifications",
-                    "description": "Self-service portal allowing end-customers to view their 'Visits' (not just Destinations) and request services. Includes automated notifications for ETA updates and service completion proofs.",
-                    "applicationCategory": "WebApplication",
-                    "applicationSubCategory": "CustomerPortalSoftware",
-                    "operatingSystem": "Web",
-                    "featureList": [
-                        "Customer self-service visit management",
-                        "Service request submission portal",
-                        "Real-time ETA notifications",
-                        "White-label brandable interface",
-                        "Proof of service delivery access"
-                    ],
-                    "keywords": "customer portal, ETA notifications, self-service logistics, delivery tracking portal, service request management, white-label customer portal, last mile visibility"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Automated Invoicing & Revenue Recognition System",
-                    "description": "Generates authoritative invoice drafts based on actual field execution. Automatically calculates 'Planned vs. Actual' revenue by comparing original orders against what was actually delivered or serviced by the driver.",
-                    "applicationCategory": "FinanceApplication",
-                    "applicationSubCategory": "LogisticsBillingSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Automated invoice generation from field data",
-                        "Revenue recognition based on actual delivery",
-                        "Service type costing calculations",
-                        "Proof of delivery linkage to invoices",
-                        "Planned vs actual revenue comparison"
-                    ],
-                    "keywords": "logistics invoicing, automated billing, revenue recognition, fleet financial system, proof of delivery billing, service costing, transportation invoicing"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Dynamic Pricing Engine for Fleet Service Costing",
-                    "description": "Enterprise-grade pricing engine that supports customer-specific price lists and dynamic service rates. Calculates costs based on 'Man-Hours', service types (e.g., installation vs. inspection) and variable vehicle costs.",
-                    "applicationCategory": "BusinessApplication",
-                    "applicationSubCategory": "PricingManagementSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Customer-specific price list management",
-                        "Variable service rate calculations",
-                        "Man-hour costing for field service",
-                        "Multi-currency pricing support",
-                        "Vehicle cost allocation per route"
-                    ],
-                    "keywords": "dynamic pricing, fleet costing, man-hour billing, service rate management, transportation pricing, logistics cost management, enterprise pricing engine"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Route Audit Trail & Compliance Tracking System",
-                    "description": "Complete data lineage tracking for compliance. Allows auditors to trace any executed route back to the specific optimization scenario or master route template that generated it, ensuring full operational accountability.",
-                    "applicationCategory": "SecurityApplication",
-                    "applicationSubCategory": "ComplianceTrackingSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Route lineage tracking from scenario to execution",
-                        "Immutable activity logs for audit",
-                        "Scenario-to-execution audit trail",
-                        "Complete change history documentation",
-                        "Compliance reporting for fleet operations"
-                    ],
-                    "keywords": "route audit trail, compliance tracking, fleet traceability, logistics audit, route lineage, operational accountability, transportation compliance, audit logging"
-                },
-                {
-                    "@type": "SoftwareApplication",
-                    "name": "Multi-Facility Hierarchy & Enterprise Data Governance",
-                    "description": "Advanced organizational management supporting multi-facility hierarchies and region-specific data visibility. Includes configurable data retention policies to manage storage costs and compliance requirements.",
-                    "applicationCategory": "ManagementApplication",
-                    "applicationSubCategory": "EnterpriseAdministrationSoftware",
-                    "operatingSystem": "Web, Windows, macOS, Linux, Android, iOS",
-                    "featureList": [
-                        "Multi-facility organizational partitioning",
-                        "Regional hierarchy and data visibility",
-                        "Configurable data retention policies",
-                        "Role-based access control (RBAC)",
-                        "Data pruning for compliance and cost management"
-                    ],
-                    "keywords": "multi-facility management, enterprise hierarchy, fleet data governance, regional fleet management, RBAC logistics, data retention, enterprise fleet administration"
-                }
-            ]
+            "@type": "ImageObject",
+            "@id": "https://route4me.com/solutions/franchise-route-optimization-software/#primaryimage",
+            "url": "https://apps-static.route4me.com/structured-data/solutions_franchise-route-optimization-software.jpg",
+            "caption": "Franchise Route Optimization Software for Multi-Location Operations",
+            "alternateName": "Franchise Route Optimization Software",
+            "width": 1920,
+            "height": 1080,
+            "thumbnail": {
+                "@type": "ImageObject",
+                "url": "https://apps-static.route4me.com/structured-data/solutions_franchise-route-optimization-software-thumbnail.jpg",
+                "width": 600,
+                "height": 600
+            }
         },
         {
             "@type": "WebSite",
@@ -392,21 +655,6 @@
                     }
                 }
             ]
-        },
-        {
-            "@type": "ImageObject",
-            "@id": "https://route4me.com/platform/route-optimization-software/#primaryimage",
-            "url": "https://apps-static.route4me.com/structured-data/platform_route-optimization-software.jpg",
-            "caption": "Last Mile Route Optimization Software",
-            "alternateName": "Route Optimization Software",
-            "width": 1920,
-            "height": 1080,
-            "thumbnail": {
-                "@type": "ImageObject",
-                "url": "https://apps-static.route4me.com/structured-data/platform_route-optimization-software-thumbnail-thumbnail.jpg",
-                "width": 600,
-                "height": 600
-            }
         }
     ]
 }
