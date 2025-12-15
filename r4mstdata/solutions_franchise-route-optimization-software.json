@@ -27,14 +27,11 @@
                 "name": "Franchise Business Operations and Multi-Location Last Mile Logistics",
                 "sameAs": [
                     "https://en.wikipedia.org/wiki/Franchising",
-                    "https://www.wikidata.org/wiki/Q170746",
-                    "https://en.wikipedia.org/wiki/Multi-unit_franchising",
                     "https://en.wikipedia.org/wiki/Operational_efficiency",
                     "https://en.wikipedia.org/wiki/Logistics",
                     "https://en.wikipedia.org/wiki/Last_mile_(transportation)",
                     "https://www.wikidata.org/wiki/Q108731064",
                     "https://www.wikidata.org/wiki/Q350882",
-                    "https://en.wikipedia.org/wiki/Business_format_franchising",
                     "https://en.wikipedia.org/wiki/Fleet_management"
                 ]
             },
@@ -64,11 +61,11 @@
                 ],
                 "keywords": "franchise route planner, replicate success, scale efficiently, enforce standards, prevent zone jumping, dispatch bias, shadow fleets, geofences, branded workflows, data-driven decisions, sustainability, multi-location fleet management, franchise delivery, territory optimization, route optimization, franchise management software, route planning software",
                 "alternateName": [
-                    "Last Mile Transportation Software For Franchises",
                     "Franchise Route Planner",
                     "Multi-Location Fleet Management",
                     "Franchise Delivery Software",
                     "Territory Management",
+                    "Transportation Management System",
                     "Multi-Unit Tracking",
                     "Franchise Operations Software",
                     "Route Optimization"
