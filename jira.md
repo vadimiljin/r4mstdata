@@ -74,7 +74,7 @@ The schema files are here: [integrations_telematics_partners](https://drive.goog
 the initial data about providers (url, name, logo, logo_response, about, country, region	integrated, website, features) is here: https://docs.google.com/spreadsheets/d/1XXFtLqtBkfS8HRRscblp__SMZnNwMHXoY5ya1RSzdVM/edit?usp=sharing
 
 -----
-## Update 32 Schemas
+## Update 34 Schemas
 https://route4me.atlassian.net/browse/PUB-2413
 
 Please update schemas on pages + new default schema https://drive.google.com/drive/folders/17k9ipqgHIwKqbB6T5segjoK29kVJLP0S?usp=sharing
